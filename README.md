@@ -57,25 +57,25 @@ unidad 2: inteligencia artificial en aplicaciones web
 
 ## calendario detallado
 
-| sesión                       | fecha                | tema                                        |
-| :--------------------------- | :------------------- | :------------------------------------------ |
-| [clase-01](clases/clase-01/) | 2024-TBD-TBD viernes | introducción a inteligencia artificial      |
-| [clase-02](clases/clase-02/) | 2024-TBD-TBD viernes | inteligencia artificial en computadores     |
-| [clase-03](clases/clase-03/) | 2024-TBD-TBD viernes | inteligencia artificial en computadores     |
-| [clase-04](clases/clase-04/) | 2024-TBD-TBD viernes | inteligencia artificial en computadores     |
-| [clase-05](clases/clase-05/) | 2024-TBD-TBD viernes | inteligencia artificial en computadores     |
-| semana receso                | 2024-TBD-TBD viernes | sin clases, sin evaluaciones                |
-| [clase-06](clases/clase-06/) | 2024-TBD-TBD viernes | trabajo grupal en primer proyecto           |
-| [clase-07](clases/clase-07/) | 2024-TBD-TBD viernes | entrega trabajo grupal de primer proyecto   |
-| [clase-08](clases/clase-08/) | 2024-TBD-TBD viernes | inteligencia artificial en aplicaciones web |
-| [clase-09](clases/clase-09/) | 2024-TBD-TBD viernes | inteligencia artificial en aplicaciones web |
-| [clase-10](clases/clase-10/) | 2024-TBD-TBD viernes | inteligencia artificial en aplicaciones web |
-| día feriado                  | 2024-TBD-TBD viernes | no hay clase                                |
-| [clase-11](clases/clase-11/) | 2024-TBD-TBD viernes | trabajo grupal en segundo proyecto          |
-| [clase-12](clases/clase-12/) | 2024-TBD-TBD viernes | trabajo grupal en segundo proyecto          |
-| semana de trabajo autónomo   | 2024-TBD-TBD viernes | sin clases                                  |
-| [clase-13](clases/clase-13/) | 2024-TBD-TBD viernes | presentaciones grupales de segundo proyecto |
-| cierre acta                  | 2024-TBD-TBD viernes | plazo máximo envío actas                    |
+| sesión                       | fecha                   | tema                                        |
+| :--------------------------- | :---------------------- | :------------------------------------------ |
+| [clase-01](clases/clase-01/) | 2024-03-15 viernes      | introducción a inteligencia artificial      |
+| [clase-02](clases/clase-02/) | 2024-03-22 viernes      | inteligencia artificial en computadores     |
+| [clase-03](clases/clase-03/) | 2024-03-29 viernes      | feriado, no hay clase                       |
+| [clase-04](clases/clase-04/) | 2024-04-05 viernes      | inteligencia artificial en computadores     |
+| [clase-05](clases/clase-05/) | 2024-04-12 viernes      | inteligencia artificial en computadores     |
+| [clase-06](clases/clase-06/) | 2024-04-19 viernes      | trabajo grupal en primer proyecto           |
+| [clase-07](clases/clase-07/) | 2024-04-26 viernes      | entrega trabajo grupal de primer proyecto   |
+| semana receso                | 2024-04-29 / 2024-05-03 | sin clases, sin evaluaciones                |
+| [clase-08](clases/clase-08/) | 2024-05-10 viernes      | inteligencia artificial en aplicaciones web |
+| [clase-09](clases/clase-09/) | 2024-05-17 viernes      | inteligencia artificial en aplicaciones web |
+| [clase-10](clases/clase-10/) | 2024-05-24 viernes      | inteligencia artificial en aplicaciones web |
+| [clase-11](clases/clase-11/) | 2024-05-31 viernes      | inteligencia artificial en aplicaciones web |
+| [clase-12](clases/clase-12/) | 2024-06-07 viernes      | trabajo grupal en segundo proyecto          |
+| [clase-13](clases/clase-13/) | 2024-06-14 viernes      | trabajo grupal en segundo proyecto          |
+| semana de trabajo autónomo   | 2024-06-17/21           | no hay clase, trabajo grupal                |
+| [clase-14](clases/clase-14/) | 2024-06-28 viernes      | presentaciones grupales de segundo proyecto |
+| cierre acta                  | 2024-07-06 sábado       | plazo máximo envío actas                    |
 
 ## notas
 
