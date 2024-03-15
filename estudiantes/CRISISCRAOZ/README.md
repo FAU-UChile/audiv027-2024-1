@@ -1,5 +1,5 @@
 este es el inicio de mi programadore ERA
-INTElIGENCIA ARTIFICIAL 
+INTELIGENCIA ARTIFICIAL 
 La clase comenzó con la introducción del curso y la presentación del programa en conjunto con las unidades a ver
 Se realizan las presentaciones de cada persona asistente 
 Profesor Aáron Montoya-Moraga, pronombre e y no le importan las mayúsculas
