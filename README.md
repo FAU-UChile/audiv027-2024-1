@@ -107,32 +107,13 @@ los dos proyectos grupales son evaluados en las siguientes dimensiones:
 
 ## bibliografía
 
-- Casey Reas
-
-  - Making Pictures with Generative Adversarial Networks, 2019
-    https://www.anteism.com/shop/making-pictures-with-generative-adversarial-networks-casey-reas
-
-- Daniel Shiffman
-
-  - Página de Youtube
-    https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw
-  - ml5.js 2022 https://github.com/ml5js/ml5-library
-
-- Gene Kogan
-
-  - Machine Learning for Artists, 2015 https://ml4a.github.io/ml4a/
-
-- Ge Wang
-
-  - Artful Design, 2019 https://artful.design/
-
-- hypereikon
-
-  - https://www.instagram.com/hypereikon/
-
-- Ian Goodfellow et al
-
-  - Generative Adversarial Networks, 2014 https://arxiv.org/abs/1406.2661
+- Casey Reas, Making Pictures with Generative Adversarial Networks, 2019 <https://www.anteism.com/shop/making-pictures-with-generative-adversarial-networks-casey-reas>
+- Daniel Shiffman <https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw>
+- ml5.js 2022 <https://github.com/ml5js/ml5-library>
+- Gene Kogan, Machine Learning for Artists, 2015 <https://ml4a.github.io/ml4a/>
+- Ge Wang, Artful Design, 2019 <https://artful.design/>
+- hypereikon, <https://www.instagram.com/hypereikon/>
+- Ian Goodfellow et al, Generative Adversarial Networks, 2014 <https://arxiv.org/abs/1406.2661>
 
 - Janelle Shane
 
