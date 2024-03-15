@@ -11,10 +11,8 @@
 - créditos: 03
 - semestre: primer semestre 2024
 - profesore: [aarón montoya-moraga](https://github.com/montoyamoraga)
-- ayudante: TBD
-- monitor: TBD
-- estudiantes inscritos: TBD
-- oyentes: TBD
+- monitor: [ricardo ramírez](https://github.com/ZiggPunk)
+- estudiantes inscritos: 18
 
 ## materiales para el curso
 
@@ -22,15 +20,12 @@ para la realización de este curso necesitaremos un computador con sistemas oper
 
 en el laboratorio de UChile tendremos acceso a computador Windows e internet, pero no a webcam ni audífonos ni parlantes.
 
-## estudiantes
-
-- TODO
-
 ## repositorio
 
 - [clases](./clases/): una subcarpeta por cada clase
-  - dentro de cada carpeta de cada clase, hay una subcarpeta estudiantes, con los apuntes tomados durante clases
-- [trabajos](./trabajos/): enunciados de trabajos
+  - dentro de cada carpeta de cada clase, están los apuntes del equipo docente
+- [estudiantes](./trabajos/): una subcarpeta por cada estudiante
+  - dentro de cada carpeta de cada estudiante, están sus apuntes y su bitácora de trabajo
 
 ## unidades
 
@@ -51,7 +46,7 @@ unidad 2: inteligencia artificial en aplicaciones web
 ## horarios y fechas
 
 - cátedra viernes 3pm-6:15pm
-- semana de receso entre 2023-09-11 y 2023-09-17
+- semana de receso entre 2024-04-29 y 2024-05-03
 
 ## calendario de evaluaciones
 
@@ -98,7 +93,6 @@ los dos proyectos grupales son evaluados en las siguientes dimensiones:
 ## herramientas
 
 - computador con sistemas operativos Linux, Mac, o Windows
-- microcontroladores Arduino o similares
 - internet
 - [github.com](https://github.com/)
 - [p5.js](https://p5js.org/)
@@ -114,43 +108,14 @@ los dos proyectos grupales son evaluados en las siguientes dimensiones:
 - Ge Wang, Artful Design, 2019 <https://artful.design/>
 - hypereikon, <https://www.instagram.com/hypereikon/>
 - Ian Goodfellow et al, Generative Adversarial Networks, 2014 <https://arxiv.org/abs/1406.2661>
-
-- Janelle Shane
-
-  - https://www.aiweirdness.com
-
-- Jonathan Zawada
-
-  - Official Page, 2022 https://zawada.art
-
-- Lev Manovich
-
-  - Defining AI Arts: Three Proposals, 2019
-    http://manovich.net/index.php/projects/defining-ai-arts-three-proposals
-
-- Phillip Isola et al
-
-  - Image-to-Image Translation with Conditional Adversarial Networks, 2016 https://github.com/phillipi/pix2pix
-
-- Rebecca Fiebrink
-
-  - Wekinator, 2009 https://www.wekinator.org/
-  - Machine Learning for Musicians and Artists, 2016 https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info
-  - Definición en español de Wekinator, junto con una charla de Rebecca Fiebrink
-    https://proyectoidis.org/wekinator/
-
-- RunwayML
-
-  - https://runwayml.com/
-
-- Sam Lavigne
-
-  - https://lav.io/
-
-- Taehoon Kim
-
-  - A tensorflow implementation of "Deep Convolutional Generative Adversarial Networks" https://github.com/carpedm20/DCGAN-tensorflow
-
-- Weirdcore
-  - Weirdcore directs Aphex Twin’s ‘Blackbox Life Recorder 21f’, 2023
-    https://www.factmag.com/2023/08/01/fact-selects-weirdcore-directs-aphex-twins-blackbox-life-recorder-21f/
+- Janelle Shane <https://www.aiweirdness.com>
+- Jonathan Zawada, Official Page, 2022 <https://zawada.art>
+- Lev Manovich, Defining AI Arts: Three Proposals, 2019, <http://manovich.net/index.php/projects/defining-ai-arts-three-proposals>
+- Phillip Isola et al, Image-to-Image Translation with Conditional Adversarial Networks, 2016 <https://github.com/phillipi/pix2pix>
+- Rebecca Fiebrink, Wekinator, 2009 <https://www.wekinator.org/>
+- Rebecca Fiebrink, Machine Learning for Musicians and Artists, 2016 <https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info>
+- Rebecca Fiebrink, Definición en español de Wekinator, junto con una charla de Rebecca Fiebrink <https://proyectoidis.org/wekinator/>
+- RunwayML, <https://runwayml.com/>
+- Sam Lavigne, <https://lav.io/>
+- Taehoon Kim, A tensorflow implementation of "Deep Convolutional Generative Adversarial Networks" <https://github.com/carpedm20/DCGAN-tensorflow>
+- Weirdcore, Weirdcore directs Aphex Twin’s ‘Blackbox Life Recorder 21f’, 2023 <https://www.factmag.com/2023/08/01/fact-selects-weirdcore-directs-aphex-twins-blackbox-life-recorder-21f/>
