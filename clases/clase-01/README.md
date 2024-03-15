@@ -1,5 +1,7 @@
 # clase-01
 
+viernes 15 marzo 2024
+
 ## presentación equipo docente
 
 - aarón montoya-moraga <https://montoyamoraga.io/ https://github.com/montoyamoraga/>
@@ -65,3 +67,10 @@ preguntas para estudiantes
 - escribir "README.md"
 - escribir en la línea 1 "hola mundo"
 - hacer commit
+
+## tarea próxima clase
+
+- investigar en <https://github.com>
+- opcional: instalar app de github mobile
+- investigar markdown <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet> <https://docs.github.com/en/get-started/writing-on-github>
+- conseguir cámara web con micrófono <https://www.mercadolibre.cl/webcam-camara-web-fullhd-1080p-usb-microfono-tripode-color-negro/p/MLC21362380>
