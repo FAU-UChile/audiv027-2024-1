@@ -1,8 +1,9 @@
+# clase-01
+
 Carpeta de Tareas y proyectos
 Electivo de diseño Ambas menciones: Interligencia artificial
 Estudiante: Benjamin Espinoza Gonzalez
 4 año de diseño, Mencion Diseño
-
 
 1era Clase
 15/03/2024
