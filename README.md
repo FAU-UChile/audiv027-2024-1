@@ -24,7 +24,7 @@ en el laboratorio de UChile tendremos acceso a computador Windows e internet, pe
 
 - [clases](./clases/): una subcarpeta por cada clase
   - dentro de cada carpeta de cada clase, están los apuntes del equipo docente
-- [estudiantes](./trabajos/): una subcarpeta por cada estudiante
+- [estudiantes](./estudiantes/): una subcarpeta por cada estudiante
   - dentro de cada carpeta de cada estudiante, están sus apuntes y su bitácora de trabajo
 
 ## unidades
