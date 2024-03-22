@@ -23,4 +23,4 @@ Adam-p markdown cheapsheet
 -	.js es java
 -	The coding train -> youtube
 (https://runwayml.com/¨)
-(https://medium.com/processing-foundation/from-simple-to-advanced-ml5-js-70d6730b360b")
+https://medium.com/processing-foundation/from-simple-to-advanced-ml5-js-70d6730b360b
