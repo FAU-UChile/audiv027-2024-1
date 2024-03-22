@@ -5,8 +5,11 @@ Posterior a esto, revisamos información sobre Markdown Cheatsheet. Esto nos per
 
 # **Apuntes:**
 •	Wekinator detecta nuestro rostro.
+
 •	Proccesing manda la orden desde la cámara. Está configurado para realizar para cosas sencillas, como figuras geométricas. Debemos hacer la instalación a través de gestión de herramientas, para hacer cosas adicionales que Proccesing no puede realizar de manera predeterminada. 
+
 • Wekinator tiene solo una salida. También tiene clases, que son las posibles salidas. Ejemplo, izquierda o derecha, sí y no. Mientras más complejo, hay que mandarle mucha más información. 
+
 _Nota: Es importante trabajar con The Proccesing Foundation, que es la cuenta oficial y nos permite administrar de mejor manera nuestro trabajo._
 
 # **Trabajo en clases:**
