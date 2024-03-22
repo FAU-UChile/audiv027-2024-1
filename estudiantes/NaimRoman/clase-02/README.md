@@ -28,4 +28,4 @@
 
 ###Varios
 
-![Gato en la clase de Inteligencia Artificial](https://i.ytimg.com/vi/3TfVO9pRuSw/hqdefault.jpg)
+![Gato en la clase de Inteligencia Artificial](https://leschatonsswingueurs.eu/wp-content/uploads/2021/06/chat-devant-ordinateur-e1622947413184.png)
