@@ -1,1 +1,11 @@
-hola
+# Apuntes primera clase 
+-markdown en lenguaje de creación de documentos en Github
+-Encabezados se hacen con #, se pueden poner hasta 6 tipos de encabezados y va asi:
+-#Encabezado, ##Encabezado ###Encabezado etc. 
+-Para citas en un texto se utiliza el símbolo: ‘ > ‘ y después se pone la cita
+-Para hacer como un punteo se antepone el símbolo: ‘-‘ o también ‘+’ o ‘*’ depende del sitio algunos aceptan esos 3. Para hacer como un punteo numerado se pone por ej: ‘1.’ 
+-Para hacer separaciones entre secciones de texto se pone “ _ _ _” (sin el espacio) 
+-Para textos en cursiva se pone: *texto* 
+-y para textos en negrita se pone: **texto**
+-Para enlaces sería: [titulo enlace](enlace”) en enlace va con un comillas al final y dentro del paréntesis y si quieres que el solo enlace sea el título hay que poner: <enlace> 
+-Para poner imágenes es muy similar a los enlaces, se pone: ![título imagen](ruta a la imagen). Se diferencia con el símbolo de exclamación al inicio 
