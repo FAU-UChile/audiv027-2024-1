@@ -25,6 +25,8 @@ _Nota: Es importante trabajar con The Proccesing Foundation, que es la cuenta of
 
 • Ml5.js es una biblioteca accesible que aporta diferentes algoritmos y modelos de aprendizaje, que se basan en Tensorflow. 
 
+• Runwayml consiste en una app que contiene todos los modelos de inteligencia artificial. 
+
 # **Trabajo en clases:**
 
 Primera parte: 
