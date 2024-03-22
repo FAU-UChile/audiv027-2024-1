@@ -18,6 +18,14 @@
 
 1. **Instalar wekinator** en [la pagina oficial](http://www.wekinator.org/downloads/) `Puede aparecer como _Pagina no segura_ pero solo es por que es muy antigua`
 
-2. Instalar el *source code* de el exaple code > [Processing (animation, screen-based input)](http://www.wekinator.org/examples/#Processing_animation_screen-based_input)
+2. Instalar el *source code* de _Simple mouse x,y position_ > [Processing (animation, screen-based input)](http://www.wekinator.org/examples/#Processing_animation_screen-based_input)
 
-3. 
+4. En **Procesing** > Herramientas > Gestionar Herramientas > Libraries > Filter:osc > instalar *oscP5 _autor:Andreas Schlegel_*
+
+5.  Descomprimir el _**Simple_MouseXY_2Inputs**_ y ejecutar en Processing.
+
+###
+
+###Varios
+
+![Gato en la clase de Inteligencia Artificial](https://i.ytimg.com/vi/3TfVO9pRuSw/hqdefault.jpg)
