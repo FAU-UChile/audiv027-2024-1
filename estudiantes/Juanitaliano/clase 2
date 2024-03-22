@@ -1,0 +1,13 @@
+Apuntes:
+
+-Setup propone las condiciones iniciales
+-Draw sirve para guiar la cámara
+-Processing es un programa super especifico
+-La cámara envía los datos solo a un lugar, por eso hay que cerrar la ventana si se quiere ocupar para otra cosa.
+Página de controladores 
+-http://www.wekinator.org/examples/
+P5 web(2015)
+Processing app(2001)
+OSCP5 es un software en el cual básicamente nos revela la posición del mouse en comandos (x,y)
+OSCP es una manera que los softwares se envíen datos 
+Wekineitor nos sirve para crear datos y estos nos ayuda a programar la ia
