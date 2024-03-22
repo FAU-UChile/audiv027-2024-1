@@ -19,7 +19,7 @@ _Nota: Es importante trabajar con The Proccesing Foundation, que es la cuenta of
 
 • Visitar la página de Experiments.withgoogle.com, en donde hay diversos ejemplos sobre programación y el cómo se utiliza la inteligencia artificial. 
 
-• Tensorflow es un algoritmo para inteligencia artificial. Es de Google. 
+• Tensorflow es un algoritmo para inteligencia artificial. Es de Google. Se abre con Teachable Machine. 
 
 # **Trabajo en clases:**
 
