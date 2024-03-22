@@ -43,4 +43,6 @@ Segunda parte:
 
 6. Utilizamos el ejemplo de Video/Webcam Simple 10×10 color grid. Este código lo descargamos al igual que el anterior y lo abrimos en Proccesing. Como no resultó, nos trasladamos al Teachable Machine.
 
-7. Primero debemos grabar diferentes imágenes (con clase 1, clase 2 y clase 3). Una vez que se prepare, la web detectará qué es cada cosa a través de la cámara.
+7. Primero debemos grabar diferentes imágenes (con clase 1, clase 2 y clase 3). Una vez que se prepare, la web detectará qué es cada cosa a través de la cámara. (Funcionó correctamente!!!)
+
+8. Luego realizamos el mismo proceso, pero en vez de imagen utilizamos audio, creando un nuevo proyecto de audio. Así mismo, se graba un ruido de fondo y un ruido alto.
