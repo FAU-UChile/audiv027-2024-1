@@ -24,8 +24,11 @@
 
 5.  Descomprimir el _**Simple_MouseXY_2Inputs**_ y ejecutar en Processing.
 
-###
+6. Abrir **Wekinator** `Por Default Wekinator está configurado para escuchar por el puerto 6448` > Pulsar _"Start Listening"_ > Cambiar las opciones para que quede igual a la siguiente imagen
 
-###Varios
+![scrsht](file:///D:/g34/Mis%20im%C3%A1genes/Screenshots/Captura%20de%20pantalla%20(1).png)
+
+
+### Varios
 
 ![Gato en la clase de Inteligencia Artificial](https://leschatonsswingueurs.eu/wp-content/uploads/2021/06/chat-devant-ordinateur-e1622947413184.png)
