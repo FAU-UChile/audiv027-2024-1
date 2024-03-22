@@ -12,4 +12,4 @@
 2. En **Processing** > Archivo > Ejemplos... > Bibliotecas > Video Library for Processing 4 > Capture > _Probar deferentes modos de procesamiento de la camara_
 
 
-**Solo se puede ocupar una estancia de la camara a la vez.**
+  **Solo se puede ocupar una estancia de la camara a la vez.**
