@@ -1,4 +1,4 @@
-### **BITÁCORA CLASE 22 DE MARZO 2024**
+###**BITÁCORA CLASE 22 DE MARZO 2024**
 
 Comenzamos la clase instalando las aplicaciones Wekinator y Proccesing. Éste último es un programa que sirve para programar inteligencia artificial. Uno de los referentes que ha seguido el profesor se llama Rebbeca Fiebrini, la cual ha realizado cursos en la página Kadenze.
 Posterior a esto, revisamos información sobre Markdown Cheatsheet. Esto nos permite ser flexibles al momento de realizar nuestro portafolio, siendo una alternativa al lenguaje HTML. Promueve la colaboración. 
