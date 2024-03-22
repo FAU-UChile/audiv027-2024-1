@@ -105,22 +105,7 @@ El código es:
 
 9. Finalmente, hicimos un proyecto de poses, grabando dos poses diferentes: pose T y pose fetal.
 
-10. Código ejemplo Mr.Bean:
-
-/*
-Mr Bean regression
-
-The example lets you train a regression model with our webcam and use it to control Mr Bean! 
-
-Built with regression model from ml5js and p5js
-
-Created by Andreas Refsgaard 2020
-
-Original idea by @heynthn at CIID Summer School 2017: 
-https://www.instagram.com/p/BXDrDCblRvL/
-
-Original video source: https://www.youtube.com/watch?v=HCfrKGrjI2g
-*/
+10. Código ejemplo Mr.Bean: 
 
 let featureExtractor;
 let regressor;
