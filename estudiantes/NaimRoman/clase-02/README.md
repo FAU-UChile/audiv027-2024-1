@@ -25,10 +25,8 @@
 5.  Descomprimir el _**Simple_MouseXY_2Inputs**_ y ejecutar en Processing.
 
 6. Abrir **Wekinator** `Por Default Wekinator está configurado para escuchar por el puerto 6448` > Pulsar _"Start Listening"_ > Cambiar las opciones para que quede igual a la siguiente imagen
-
-<image src="\imágenes\Screenshots\Captura de pantalla (1).png" alt="Screenshot wekinator"> 
   
-![screenshot](file:///D:/g34/Mis%20im%C3%A1genes/Screenshots/Captura%20de%20pantalla%20(1).png)
+![screenshot](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-02/Captura%20de%20pantalla%20(1).png)
 
 
 ### Varios
