@@ -20,6 +20,18 @@ Derecha 2
 Izquierda 1
 ![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/ca2a32e9-3706-496f-a914-bc47bf9eb02a)
 
+PARTE II
+
+Fallar en vivo, revisar código por "cam" y "video", spoiler, no funciona
+"Nadie" dejar desacnsar la IA
+Teachable Machine
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/518edf80-2358-4252-88f5-365d7e43187c)
+
+
 
 Pendientes para mi:
 ¿Qué es Wekinator (investigar)?
+Investigar Andreas Refsgaard
+Google Creative Lab (apply)
+Tensor Flow
+P5
