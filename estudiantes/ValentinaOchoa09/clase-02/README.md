@@ -41,4 +41,4 @@ _Nota: Si OSC In, significa que vamos bien, ya que le está llegando el dato esp
 
 Segunda parte:
 
-6. Utilizamos el ejemplo de Video/Webcam Simple 10×10 color grid. Este código lo descargamos al igual que el anterior y lo abrimos en Proccesing. 
+6. Utilizamos el ejemplo de Video/Webcam Simple 10×10 color grid. Este código lo descargamos al igual que el anterior y lo abrimos en Proccesing. Como no resultó, nos trasladamos al Teachable Machine. 
