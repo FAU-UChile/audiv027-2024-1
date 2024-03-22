@@ -6,7 +6,7 @@
 
 1. Abrir **Processing** > Herramientas > Gestionar Herramientas > Libraries > Filter:video > instalar *Video Library for Processing 4*
 
-> _Opcional_ Herramientas > Theme Selector
+> _Opcional_ > Herramientas > Theme Selector
 
 
 2. 
