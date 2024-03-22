@@ -16,11 +16,11 @@ Adam-p markdown cheapsheet
 -	wekinator puede tener varias respuestas para un mismo estimulo pero en este caso le pedimos una. 
 -	Openframeworks, es lento de descargar pero sirve mucho para tareas pesadas (dentro de example bundles)
 -	Touchosc 
--	(https://github.com/googlecreativelab¨)
+-	https://github.com/googlecreativelab
 -	Tensorflow , tensorflow js (para web) 
--	(https://teachablemachine.withgoogle.com/¨)
+-	https://teachablemachine.withgoogle.com/
 -	Ml5js.org 
 -	.js es java
 -	The coding train -> youtube
-(https://runwayml.com/¨)
+https://runwayml.com/
 https://medium.com/processing-foundation/from-simple-to-advanced-ml5-js-70d6730b360b
