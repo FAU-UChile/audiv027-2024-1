@@ -18,4 +18,4 @@ Primera parte:
  _Nota: Es importante cerrar el ejemplo que estás utilizando, antes de probar otro, porque sino el programa te lanzará error._
 4. Nos dirigimos a la página de Wekinator y vamos a la parte de examples bundlers, abajo de downloands. Seleccionamos el 3.16: Proccesing (animation, screen-based input) y descargamos la opción de Simple mouse x,y position. Esto lo que hace es descargar un archivo de texto de Proccesing, que contiene un código. Nos faltará un archivo llamado Oscp5, el cual deberemos instalar en Gestión de Herramientas. El resultado es que se señala la posición del mouse en plano x e y. 
 5. Seguiremos utilizando este código, pero lo complementaremos con Wekinator. En inputs, deberemos colocar dos, ya que estamos mandando dos datos a través del mouse: x e y. En outpots colocamos 1 y luego en type seleccionamos all classifier, with 2 classes.
-_Nota: Si OSC In, significa que vamos bien, ya que le está llegando el dato esperado._
+simp(".amarillo")_Nota: Si OSC In, significa que vamos bien, ya que le está llegando el dato esperado._
