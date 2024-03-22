@@ -2,12 +2,15 @@
 
 Comenzamos la clase instalando las aplicaciones Wekinator y Proccesing. Éste último es un programa que sirve para programar inteligencia artificial. Uno de los referentes que ha seguido el profesor se llama Rebbeca Fiebrini, la cual ha realizado cursos en la página Kadenze.
 Posterior a esto, revisamos información sobre Markdown Cheatsheet. Esto nos permite ser flexibles al momento de realizar nuestro portafolio, siendo una alternativa al lenguaje HTML. Promueve la colaboración. 
+| 
 **Apuntes:**
 •	Wekinator detecta nuestro rostro.
 •	Proccesing manda la orden desde la cámara. Está configurado para realizar para cosas sencillas, como figuras geométricas. Debemos hacer la instalación a través de gestión de herramientas, para hacer cosas adicionales que Proccesing no puede realizar de manera predeterminada. 
 • Wekinator tiene solo una salida. También tiene clases, que son las posibles salidas. Ejemplo, izquierda o derecha, sí y no. Mientras más complejo, hay que mandarle mucha más información. 
 _Nota: Es importante trabajar con The Proccesing Foundation, que es la cuenta oficial y nos permite administrar de mejor manera nuestro trabajo._
+|
 **Trabajo en clases:**
+|
 Primera parte: 
 1. En primer lugar, debemos revisar que Proccesing detecte correctamente la cámara. Para esto, vamos a los ejemplos de biblioteca, abrimos la sección de ''Capture'' y utilizamos el ''GettingStarted''. Nos aparecerá un código y luego colocamos play. Para este caso, nos funcionó la cámara correctamente.
 2. Setup() es una función, se colocan las condiciones iniciales. El murciélago {} le señala al computador lo que significa setup, es su complemento.
