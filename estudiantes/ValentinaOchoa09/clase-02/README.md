@@ -27,6 +27,8 @@ _Nota: Es importante trabajar con The Proccesing Foundation, que es la cuenta of
 
 • Runwayml consiste en una app que contiene todos los modelos de inteligencia artificial. Es una empresa de gente chilena.
 
+• Ml5 le entrega a p5 la capa de inteligencia artificial. 
+
 # **Trabajo en clases:**
 
 Primera parte: 
