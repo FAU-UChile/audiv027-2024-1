@@ -15,9 +15,16 @@ Posterior a esto, revisamos información sobre Markdown Cheatsheet. Esto nos per
 
 _Nota: Es importante trabajar con The Proccesing Foundation, que es la cuenta oficial y nos permite administrar de mejor manera nuestro trabajo._
 
+• En Proccesing, con CONTROL + F, podemos buscar palabras en el código y remplazar. 
+
+• Visitar la página de Experiments.withgoogle.com, en donde hay diversos ejemplos sobre programación y el cómo se utiliza la inteligencia artificial. 
+
+• Tensorflow es un algoritmo para inteligencia artificial. Es de Google. 
+
 # **Trabajo en clases:**
 
 Primera parte: 
+
 1. En primer lugar, debemos revisar que Proccesing detecte correctamente la cámara. Para esto, vamos a los ejemplos de biblioteca, abrimos la sección de ''Capture'' y utilizamos el ''GettingStarted''. Nos aparecerá un código y luego colocamos play. Para este caso, nos funcionó la cámara correctamente.
    
 2. Setup() es una función, se colocan las condiciones iniciales. El murciélago {} le señala al computador lo que significa setup, es su complemento.
@@ -31,3 +38,7 @@ Primera parte:
 5. Seguiremos utilizando este código, pero lo complementaremos con Wekinator. En inputs, deberemos colocar dos, ya que estamos mandando dos datos a través del mouse: x e y. En outpots colocamos 1 y luego en type seleccionamos all classifier, with 2 classes.
    
 _Nota: Si OSC In, significa que vamos bien, ya que le está llegando el dato esperado._
+
+Segunda parte:
+
+6. Utilizamos el ejemplo de Video/Webcam Simple 10×10 color grid. Este código lo descargamos al igual que el anterior y lo abrimos en Proccesing. 
