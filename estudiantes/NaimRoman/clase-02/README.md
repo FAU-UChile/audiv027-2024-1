@@ -57,7 +57,7 @@ Sirve para crear modelos IA facilmente. Prototipos simples, rápidos y mucho mas
 - Diseñador que se dedica a las IA > [Andreas Refsgaard](https://www.andreasrefsgaard.dk/)
 
 
-- .js **JavaScript** corre en la web, no requiere mucha potencia pero es más lento.
+- **JavaScript** (.js ) corre en la web, no requiere mucha potencia pero es más lento.
 
 
 - Machine learning aceesible para artistas, estudiantes, etc. [ml5js](https://ml5js.org/)
