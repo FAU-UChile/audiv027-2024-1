@@ -61,4 +61,11 @@ Sirve para crear modelos IA facilmente. Prototipos simples, rápidos y mucho mas
 - [10 años de videos de como programar](https://www.youtube.com/c/TheCodingTrain/videos) con el creador de **TensorFlow**
 
 
+-[Runway](https://runwayml.com/) fue creado por 2 diseñadores chilenos y un gran programador. Es la Starup más valorada existente. Se basa en el uso de inteligencia artificial.
+
+
+-[ml5js examples](https://ml5-fellowship-2020.github.io/examples/) *Muy entretenido para experimentar*
+
+
+
 ![Gato en la clase de Inteligencia Artificial](https://leschatonsswingueurs.eu/wp-content/uploads/2021/06/chat-devant-ordinateur-e1622947413184.png)
