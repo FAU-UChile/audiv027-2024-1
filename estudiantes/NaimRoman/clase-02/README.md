@@ -29,6 +29,11 @@
 ![screenshot](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-02/Captura%20de%20pantalla%20(1).png)
 
 
+Descargar y ejecutar [Simple 10×10 color grid](http://www.doc.gold.ac.uk/~mas01rf/WekinatorDownloads/wekinator_examples/all_source_zips/SimpleVideoInputWithProcessing_100Inputs.zip) en **Processing**
+
+
 ### Varios
+
+Aprender OSC (muchas salidas laborales)
 
 ![Gato en la clase de Inteligencia Artificial](https://leschatonsswingueurs.eu/wp-content/uploads/2021/06/chat-devant-ordinateur-e1622947413184.png)
