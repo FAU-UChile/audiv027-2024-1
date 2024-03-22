@@ -50,6 +50,8 @@ Información:
 (base de trabajo simple para programar, capta a uno)
 4. Andreas Refsgard trabajó en ml5.js, el machine learning y aspectos de Ia sean accesibles para artistas, creative coder y estudiantes, provee de algoritmos y modelos 
 5. Coding Train ayudó a crear ml5.js, el software permite reconocer aspectos 
+
+(Google experiments tiene varios aspectos con cámara/webcam, uno de ellos es https://experiments.withgoogle.com/we-are-all-made-of-stars)
 6. Medium (sitio de blogs) 
 7.Runway ml es una empresa creada por chilenos con gran impacto hoy en día en todo lo medial.
 8. P5 permite crear figuras, formas, etc y Ml5, da la capa de inteligencia artificial
