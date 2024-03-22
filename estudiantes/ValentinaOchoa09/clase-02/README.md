@@ -47,9 +47,6 @@ Segunda parte:
 
 El código es: 
 
-    // the link to your model provided by Teachable Machine export panel
-    const URL = "(https://teachablemachine.withgoogle.com/models/[...])";
-
     let model, webcam, labelContainer, maxPredictions;
 
     // Load the image model and setup the webcam
