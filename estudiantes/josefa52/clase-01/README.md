@@ -7,7 +7,7 @@ El énfasis, también conocido como cursiva, con asteriscos o subrayados.
 
 Fuerte énfasis, alias audaz, con asteriscos o subrayados.
 
-El énfasis combinado con los asteriscos y subrayados.
+El énfasis combinado con los asteriscos y subrayados
 
 Strikethrough utiliza dos tildes. Rasca esto.
 
