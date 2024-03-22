@@ -46,12 +46,19 @@ Sirve para crear modelos IA facilmente. Prototipos simples, rápidos y mucho mas
 
 ## Varios
 
-Aprender OSC (muchas salidas laborales)
+- Aprender OSC (muchas salidas laborales)
 
 
+- Diseñador que se dedica a las IA > [Andreas Refsgaard](https://www.andreasrefsgaard.dk/)
 
-Diseñador que se dedica a las IA > [Andreas Refsgaard](https://www.andreasrefsgaard.dk/)
 
+- .js **JavaScript** corre en la web, no requiere mucha potencia pero es más lento.
+
+
+- Machine learning aceesible para artistas, estudiantes, etc. [ml5js](https://ml5js.org/)
+
+
+- [10 años de videos de como programar](https://www.youtube.com/c/TheCodingTrain/videos) con el creador de **TensorFlow**
 
 
 ![Gato en la clase de Inteligencia Artificial](https://leschatonsswingueurs.eu/wp-content/uploads/2021/06/chat-devant-ordinateur-e1622947413184.png)
