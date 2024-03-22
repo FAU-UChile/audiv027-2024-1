@@ -92,7 +92,6 @@ El código es:
             labelContainer.childNodes[i].innerHTML = classPrediction;
         }
     }
-</script>
 
 8. Luego realizamos el mismo proceso, pero en vez de imagen utilizamos audio, creando un nuevo proyecto de audio. Así mismo, se graba un ruido de fondo y un ruido alto.
 
