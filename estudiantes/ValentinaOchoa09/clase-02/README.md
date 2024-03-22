@@ -21,7 +21,7 @@ _Nota: Es importante trabajar con The Proccesing Foundation, que es la cuenta of
 
 • Tensorflow es un algoritmo para inteligencia artificial. Es de Google. Sirve para hacer apps. Se abre con Teachable Machine. 
 
-• Visitar The Coding Train y buscar Andrea Refsgaard. 
+• Visitar The Coding Train y buscar Andrea Refsgaard. Usaremos los códigos de sus proyectos. 
 
 • Ml5.js es una biblioteca accesible que aporta diferentes algoritmos y modelos de aprendizaje, que se basan en Tensorflow. 
 
