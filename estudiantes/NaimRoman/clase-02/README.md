@@ -26,7 +26,9 @@
 
 6. Abrir **Wekinator** `Por Default Wekinator está configurado para escuchar por el puerto 6448` > Pulsar _"Start Listening"_ > Cambiar las opciones para que quede igual a la siguiente imagen
 
-![scrsht](file:///D:/g34/Mis%20im%C3%A1genes/Screenshots/Captura%20de%20pantalla%20(1).png)
+<image src=""D:\g34\Mis imágenes\Screenshots\Captura de pantalla (1).png"/images/picture.jpg" alt="Descripción de la imagen"> 
+  
+![screenshot](file:///D:/g34/Mis%20im%C3%A1genes/Screenshots/Captura%20de%20pantalla%20(1).png)
 
 
 ### Varios
