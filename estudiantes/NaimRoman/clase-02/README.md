@@ -24,7 +24,7 @@
 
 5.  Descomprimir el _**Simple_MouseXY_2Inputs**_ y ejecutar en Processing.
 
-6. Abrir **Wekinator** `Por Default Wekinator está configurado para escuchar por el puerto 6448` > Pulsar _"Start Listening"_ > Cambiar las opciones para que quede igual a la siguiente imagen
+6. Abrir **Wekinator** `Por Default Wekinator está configurado para escuchar por el puerto 6448` > Pulsar _"Start Listening"_ > Cambiar las opciones para que quede igual a la siguiente imagen:
   
 ![screenshot](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-02/Captura%20de%20pantalla%20(1).png)
 
@@ -33,9 +33,25 @@
 
 Descargar y ejecutar [Simple 10×10 color grid](http://www.doc.gold.ac.uk/~mas01rf/WekinatorDownloads/wekinator_examples/all_source_zips/SimpleVideoInputWithProcessing_100Inputs.zip) en **Processing**
 
+## Teachable Machine
+
+> Entrenar IA con [Teachable Machine](https://teachablemachine.withgoogle.com/) de Google
+
+Sirve para crear modelos IA facilmente. Prototipos simples, rápidos y mucho mas flexibles que lo tradicional.
+
+![Ejemplos en vivo de uso en Teachable Machine 1](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-02/Captura%20de%20pantalla%20(2).png)
+
+![Ejemplos en vivo de uso en Teachable Machine 2](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-02/Captura%20de%20pantalla%20(3).png)
+
 
 ## Varios
 
 Aprender OSC (muchas salidas laborales)
+
+
+
+Diseñador que se dedica a las IA > [Andreas Refsgaard](https://www.andreasrefsgaard.dk/)
+
+
 
 ![Gato en la clase de Inteligencia Artificial](https://leschatonsswingueurs.eu/wp-content/uploads/2021/06/chat-devant-ordinateur-e1622947413184.png)
