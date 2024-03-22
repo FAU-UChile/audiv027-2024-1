@@ -47,8 +47,6 @@ Segunda parte:
 
 El código es: 
 
-<div>Teachable Machine Image Model</div>
-<button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
 <div id="label-container"></div>
 <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest/dist/tf.min.js"></script>
