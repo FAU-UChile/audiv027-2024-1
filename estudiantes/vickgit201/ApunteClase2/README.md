@@ -20,6 +20,7 @@ Derecha 2
 Izquierda 1
 ![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/ca2a32e9-3706-496f-a914-bc47bf9eb02a)
 
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/3124da0e-c662-4045-bdb3-420acc67a83a)
 
 Pendientes para mi:
 ¿Qué es Wekinator (investigar)?
