@@ -46,19 +46,19 @@ java script ---> corre en internet (como p5js)
 
 Processing, más antiguo
 
-https://ml5js.org/
+<https://ml5js.org/>
 
 the coding train
 
-https://medium.com/processing-foundation/from-simple-to-advanced-ml5-js-70d6730b360b
+<https://medium.com/processing-foundation/from-simple-to-advanced-ml5-js-70d6730b360b>
 
-https://ml5-fellowship-2020.github.io/examples/
+<https://ml5-fellowship-2020.github.io/examples/>
 
 ![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/91d7855e-4f04-4013-ae3f-b5a68464b38c)
 
 <https://runwayml.com/>
 
-Alejandro matamala cristobal valenzuela (https://cvalenzuelab.com/)
+Alejandro matamala cristobal valenzuela <https://cvalenzuelab.com/>
 
 Pendientes para mi:
 
