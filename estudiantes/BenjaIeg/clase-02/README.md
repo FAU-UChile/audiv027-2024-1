@@ -1,4 +1,4 @@
-## 22-03-2024
+# 22-03-2024
 
 Notas
 
@@ -23,7 +23,6 @@ Wekinator y processing.
 
 Tambien esta **Teacheable machine** usa la webcam y una inteligencia artificial paradiferenciar las diferentes imagenes, ruidos (microfono) o posturas que reciba el pc atravez de la camara o microfono
 
-
 Investigar mas:
 Google creative Labs y su material en github
 TensorFlow y Teacheable machine
@@ -31,4 +30,3 @@ TensorFlow y Teacheable machine
 [Trabajos de Andreas Refsgard](https://ml5-fellowship-2020.github.io/examples/)
 [RunWayML](https://runwayml.com/)
 The Coding Train (Canal de youtube sobre enseñanza de codigos)
-
