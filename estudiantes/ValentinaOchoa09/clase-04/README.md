@@ -14,10 +14,12 @@ Colocar sync fork en nuestro repositorio para actualizar toda la información re
 4. Nos dirigimos a Wekinator. Colocamos 2 inputs (porque entran dos datos, que son x e y) y 1 input.
 
 5. Practicamos el ejemplo de la clase pasada, pero agregándole la sección de la parte del medio.
-   
-7. Descargamos otro ejemplo llamado ''Proccesing Simple Color''. Éste, en conjunto con el otro código, permitía cambiar el color del fondo cuando movíamos el cuadrado.
 
-8. Posteriormente, utilizamos otro ejemplo, llamado ''Proccesing Particle System 3D Continuous''. Insertamos 2 entradas y 3 salidas. Cuando movemos el cuadrado, se mueven las partículas según Wekinator. 
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/49b32a48-7639-49da-b191-2dd6c9dc7148)
+
+6. Descargamos otro ejemplo llamado ''Proccesing Simple Color''. Éste, en conjunto con el otro código, permitía cambiar el color del fondo cuando movíamos el cuadrado.
+
+7. Posteriormente, utilizamos otro ejemplo, llamado ''Proccesing Particle System 3D Continuous''. Insertamos 2 entradas y 3 salidas. Cuando movemos el cuadrado, se mueven las partículas según Wekinator. 
 
 **Apuntes:**
 
