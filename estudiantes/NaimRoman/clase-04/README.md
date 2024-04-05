@@ -42,11 +42,20 @@ La tercera variable cambia la "gravedad", la direccion de la cola de particulas.
 ![screenshot modelo entrenado](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-04/Captura%20de%20pantalla%20(5).png) ![screenshot modelo entrenado](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-04/Captura%20de%20pantalla%20(6).png) ![screenshot modelo entrenado](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-04/Captura%20de%20pantalla%20(7).png)
 
 
-
 ## Random
 
 `map(receivedHue, 0, 1, 0, 255);`
 
-La función "map" indica que escale los primeros dos numeros (los "estire") y los transforme a los dos ultimos. (no más regla de tres!)
+- La función "map" indica que escale los primeros dos numeros (los "estire") y los transforme a los dos ultimos. (no más regla de tres!)
 
-El [algoritmo KNN](https://es.wikipedia.org/wiki/K_vecinos_m%C3%A1s_pr%C3%B3ximos) es la forma más basica de Inteligencia Artificial. 
+- El [algoritmo KNN](https://es.wikipedia.org/wiki/K_vecinos_m%C3%A1s_pr%C3%B3ximos) es la forma más basica de entrenar Inteligencia Artificial. 
+
+- TPU trabaja con tensores. **Tensorflow**
+
+- Vamos a entrenar algoritmos en [Google Collab](https://colab.research.google.com/). Enseñaremos (en el futuro) a bulbacear al computador.
+
+- [Daito Manabe](https://www.youtube.com/@daito) Programador de IA, cosas extrañas/interesantes. [Ejemplo](https://www.youtube.com/watch?v=s_S3fomiXO0) 
+
+- [Michael Reeves](https://www.youtube.com/@MichaelReeves) Programador.
+
+- 
