@@ -1,7 +1,7 @@
 # Clase 4
 
 
-## Wekinator
+## Wekinator-Processing
 
 [Examplos wekinator](http://www.wekinator.org/examples/) > apartado 3 están los ejemplos de codigo para recibir inputs > 3.16.Processing > Descargar _"Simple_Mouse_DraggedObject"_
 
