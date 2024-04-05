@@ -28,3 +28,12 @@ El color "Hue" cambiará dependiendo de adonde muevas el cuadrado de la otra ven
 
 
 ![screenshot](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-04/Captura%20de%20pantalla%20(4).png)
+
+
+
+
+
+# Codigos random
+
+`map(receivedHue, 0, 1, 0, 255);`
+indica que escale los primeros dos numeros (los "estire") y los transforme a los dos ultimos. (no más regla de tres!)
