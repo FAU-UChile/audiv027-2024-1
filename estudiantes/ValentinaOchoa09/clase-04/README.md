@@ -39,5 +39,5 @@ GPU: Permite visualizar los pixeles del computador.
 
 TPU: Matrices para programar tensores. 
 
-* Buscar información sobre Rhizomatiks y Daito Manabe.
+* Buscar información sobre Rhizomatiks, Daito Manabe y Michael Reeves.
 
