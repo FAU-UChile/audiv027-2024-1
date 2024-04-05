@@ -23,21 +23,21 @@ Colocar sync fork en nuestro repositorio para actualizar toda la información re
 
 **Apuntes:**
 
-Float: Permite los valores en números decimales, no netamente en enteros.
+* Float: Permite los valores en números decimales, no netamente en enteros.
 
-Import oscp5: Comunica el código de Proccesing con Wekinator. 
+* Import oscp5: Comunica el código de Proccesing con Wekinator. 
 
-Setup: Configura el puerto. 
+* Setup: Configura el puerto. 
 
-P3D: Permite que el lienzo muestre cosas en 3D. 
+* P3D: Permite que el lienzo muestre cosas en 3D. 
 
-OscMessage: Si te llega un mensaje de Osc, hará las cosas definidas. 
+* OscMessage: Si te llega un mensaje de Osc, hará las cosas definidas. 
 
-CPU: La calculadora del computador.
+* CPU: La calculadora del computador.
 
-GPU: Permite visualizar los pixeles del computador. 
+* GPU: Permite visualizar los pixeles del computador. 
 
-TPU: Matrices para programar tensores. 
+* TPU: Matrices para programar tensores. 
 
 * Buscar información sobre Rhizomatiks, Daito Manabe y Michael Reeves.
 
