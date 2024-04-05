@@ -1,8 +1,8 @@
 Intrucciones_
 1. Posicionar cubo a la izquierda
-2. Start Reording
-3. Mostrar lo que e sla izquierda
-4. stop reording
+2. Start Recording
+3. Mostrar lo que es la izquierda
+4. stop recording
 5. Repetir con Medio y Derecha
 6. Luego presionar Train
 7. Luego Run
