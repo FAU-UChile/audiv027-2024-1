@@ -7,8 +7,11 @@ que utiliza la proximidad para hacer clasificaciones o predicciones sobre la agr
 Si bien se puede usar para problemas de regresión o clasificación, generalmente se usa como un algoritmo de clasificación, partiendo de la suposición de que se pueden encontrar puntos similares cerca uno del otro.
 
 Cpu: Calculadora unidad de procesamiento matematico en una computadora
+
 Gpu: Calcula los graficos en una computadora, mediante el calculo de pixeles del pc.
+
 Tpu: Herramienta hecha para la utilizacion de Ia
+
 
 Mediante "Colab" podemos aprender utilizar ia debido a que ellos mediante una nube nos permite utilizar sus herramientas, sin requerer tanto hardware,
 esto con fines investigativos.'
