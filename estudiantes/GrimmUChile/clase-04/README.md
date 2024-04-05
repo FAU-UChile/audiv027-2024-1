@@ -1,0 +1,7 @@
+- Recordatorio de como funciona Github
+- Recordatorio de P5 y Wekinator
+- Entrenar IA detectar izquierda medio derecha con barra de outputs, que van de 0 a 1 / SimpleMouseDrag
+- Procesing SimpleColor, se fusiona con el SimpleMouseDrag
+- ![image](https://github.com/GrimmUChile/audiv027-2024-1/assets/163590997/af68d445-acaa-4133-8f79-37336deb6a4e)
+- SimpleMouseDrag sincronizado con el ParticleSystem, permiten crear un tracking mouse con particulas en vez de cuadrado verde
+- Trate de entrenar el SimpleMouseDrag con el Wekinator del Particle System pero no logre hacerlo funcionar dentro del cuadrado sino que fuera de el. (Los imputs funcionan fuera cuando fueron entrenados dentro del cuadrado)
