@@ -50,12 +50,12 @@ La tercera variable cambia la "gravedad", la direccion de la cola de particulas.
 
 - El [algoritmo KNN](https://es.wikipedia.org/wiki/K_vecinos_m%C3%A1s_pr%C3%B3ximos) es la forma más basica de entrenar Inteligencia Artificial. 
 
-- TPU trabaja con tensores. **Tensorflow**
+- TPU trabaja con tensores. **Tensorflow**.
 
 - Vamos a entrenar algoritmos en [Google Collab](https://colab.research.google.com/). Enseñaremos (en el futuro) a bulbacear al computador.
 
 - [Daito Manabe](https://www.youtube.com/@daito) Programador de IA, cosas extrañas/interesantes. [Ejemplo](https://www.youtube.com/watch?v=s_S3fomiXO0) 
 
-- [Michael Reeves](https://www.youtube.com/@MichaelReeves) Programador.
+- [Michael Reeves](https://www.youtube.com/@MichaelReeves) Programador autodidacta.
 
 - Explorar el [repositorio de cursos anteriores](https://github.com/disenoUChile/audiv027-2023-2).
