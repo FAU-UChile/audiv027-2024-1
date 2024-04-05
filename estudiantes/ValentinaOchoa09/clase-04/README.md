@@ -21,6 +21,8 @@ Colocar sync fork en nuestro repositorio para actualizar toda la información re
 
 7. Posteriormente, utilizamos otro ejemplo, llamado ''Proccesing Particle System 3D Continuous''. Insertamos 2 entradas y 3 salidas. Cuando movemos el cuadrado, se mueven las partículas según Wekinator. 
 
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/9866cabd-695e-4b85-8319-dc3084298ab6)
+
 **Apuntes:**
 
 * Float: Permite los valores en números decimales, no netamente en enteros.
