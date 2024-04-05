@@ -43,8 +43,8 @@ La tercera variable cambia la "gravedad", la direccion de la cola de particulas.
 
 
 
-# Codigos random
+## Codigos random
 
 `map(receivedHue, 0, 1, 0, 255);`
 
-Indica que escale los primeros dos numeros (los "estire") y los transforme a los dos ultimos. (no más regla de tres!)
+La función "map" indica que escale los primeros dos numeros (los "estire") y los transforme a los dos ultimos. (no más regla de tres!)
