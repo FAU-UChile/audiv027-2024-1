@@ -1,4 +1,4 @@
-# **05 de abril 2024**
+# **Apuntes clase 05 de abril 2024**
 
 # **Indicaciones para el inicio de cada clase:**
 
