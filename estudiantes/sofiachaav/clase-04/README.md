@@ -46,3 +46,10 @@ en el ejemplo "Simple continuously-controlled particle system" abrimos nuevament
 4. mientras movemos el mouse en el ejemplo 1, el ejemplo 2 cambiara su posicion y gravedad
 
 ![image](https://github.com/sofiachaav/audiv027-2024-1/assets/129554344/ea3a572e-3ba6-4238-bf1b-50b4e4fb445f)
+
+cpu: control matematico del computador
+gpu: calculos de pixeles del computador
+tpu: circuitos integrados personalizados específicos de aplicaciones (ASIC) de Google que se usan para acelerar las cargas de trabajo de aprendizaje automático. https://cloud.google.com/tpu/docs/tpus?hl=es-419#:~:text=Las%20unidades%20de%20procesamiento%20tensorial,de%20trabajo%20de%20aprendizaje%20autom%C3%A1tico.  
+
+rhizomatiks reserch, daito manabe
+gray area, artes mediales de san francisco 
