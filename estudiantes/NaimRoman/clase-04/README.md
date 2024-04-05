@@ -58,4 +58,4 @@ La tercera variable cambia la "gravedad", la direccion de la cola de particulas.
 
 - [Michael Reeves](https://www.youtube.com/@MichaelReeves) Programador.
 
-- 
+- Explorar el [repositorio de cursos anteriores](https://github.com/disenoUChile/audiv027-2023-2).
