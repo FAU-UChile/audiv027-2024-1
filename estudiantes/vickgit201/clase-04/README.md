@@ -19,3 +19,5 @@ Ojo con port 6448 y 12000 no puede ser el mismo el que reciba y el que envíe
 
 ![imagen](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/ba5ba411-d161-4b95-bb8b-562a628d9a4e)
 
+https://www.youtube.com/watch?v=J4viXTThDTE
+
