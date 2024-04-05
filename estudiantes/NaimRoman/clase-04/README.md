@@ -29,11 +29,22 @@ El color "Hue" cambiará dependiendo de adonde muevas el cuadrado de la otra ven
 
 ![screenshot](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-04/Captura%20de%20pantalla%20(4).png)
 
+Cerrar todo menos el _"Simple_Mouse_DraggedObject"_.
 
+Descargar y ejecutar "_Simple continuously-controlled particle system_" de la pagina de wekinator en processing.
+
+Abrir otro wekinator con 2 inputs y 3 outputs. 
+
+Entrenar el modelo al gusto. yo hice que las particulas sigan al cuadro, es decir, cuando el cuadro esta arriba las particulas suben, cuando el cuadro vaya a la izquierda las particulas vayan a la izquierda, etc.
+
+La tercera variable cambia la "gravedad", la direccion de la cola de particulas.
+
+![screenshot modelo entrenado](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-04/Captura%20de%20pantalla%20(5).png) ![screenshot modelo entrenado](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-04/Captura%20de%20pantalla%20(6).png) ![screenshot modelo entrenado](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-04/Captura%20de%20pantalla%20(7).png)
 
 
 
 # Codigos random
 
 `map(receivedHue, 0, 1, 0, 255);`
-indica que escale los primeros dos numeros (los "estire") y los transforme a los dos ultimos. (no más regla de tres!)
+
+Indica que escale los primeros dos numeros (los "estire") y los transforme a los dos ultimos. (no más regla de tres!)
