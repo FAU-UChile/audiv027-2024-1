@@ -21,6 +21,7 @@ Recordar que el puerto desde el cual se esta leyendo y el que esta usando proces
 ![](Wekinator2.png)
 
 Referentes del mundo de la inteligencia artificial
+
 [Alt-ai](https://alt-ai.net/#exhibition)
 
 [Daito Manabe](https://www.youtube.com/@daito)
