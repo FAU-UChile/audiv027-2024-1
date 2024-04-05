@@ -1,5 +1,7 @@
 En codigo se tiene dos maneras para programar con enteros y decimal, cuando es con decimal se utilaza el termino "float"
+
 ocupamos wekinaitor, esta vez el mouse habia que mantener apretado para crear los datos, aprendimos hacerlo esta vez con mas input y output.
+
 ¿Qué es KNN?
 KNN es un sistema de inteligencia artificial que calcula la dsitancia, es la ia mas simple y barata de entender.
 El algoritmo de k vecinos más cercanos, también conocido como KNN o k-NN, es un clasificador de aprendizaje supervisado no paramétrico, 
