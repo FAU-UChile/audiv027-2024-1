@@ -12,7 +12,7 @@ Cambiar el numero de input a 2, el numero de output a 1 y dejar el type en el de
 ![screenshot](https://raw.githubusercontent.com/NaimRoman/audiv027-2024-1/main/estudiantes/NaimRoman/clase-04/Captura%20de%20pantalla%20(2).png)
 
 
-Deberia salir la luz verde 
+Al ejecutarlo deberia salir la luz verde:
 
 ![screenshot](https://raw.githubusercontent.com/NaimRoman/audiv027-2024-1/main/estudiantes/NaimRoman/clase-04/Captura%20de%20pantalla%20(1).png)
 
