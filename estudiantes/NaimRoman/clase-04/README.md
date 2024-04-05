@@ -43,8 +43,10 @@ La tercera variable cambia la "gravedad", la direccion de la cola de particulas.
 
 
 
-## Codigos random
+## Random
 
 `map(receivedHue, 0, 1, 0, 255);`
 
 La función "map" indica que escale los primeros dos numeros (los "estire") y los transforme a los dos ultimos. (no más regla de tres!)
+
+El [algoritmo KNN](https://es.wikipedia.org/wiki/K_vecinos_m%C3%A1s_pr%C3%B3ximos) es la forma más basica de Inteligencia Artificial. 
