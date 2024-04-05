@@ -33,4 +33,11 @@ P3D: Permite que el lienzo muestre cosas en 3D.
 
 OscMessage: Si te llega un mensaje de Osc, hará las cosas definidas. 
 
+CPU: La calculadora del computador.
+
+GPU: Permite visualizar los pixeles del computador. 
+
+TPU: Matrices para programar tensores. 
+
+* Buscar información sobre Rhizomatiks. 
 
