@@ -20,10 +20,15 @@ Colocar sync fork en nuestro repositorio para actualizar toda la información re
 7. Posteriormente, utilizamos otro ejemplo, llamado ''Proccesing Particle System 3D Continuous''. Insertamos 2 entradas y 3 salidas. Cuando movemos el cuadrado, se mueven las partículas según Wekinator. 
 
 **Apuntes:**
+
 Float: Permite los valores en números decimales, no netamente en enteros.
+
 Import oscp5: Comunica el código de Proccesing con Wekinator. 
+
 Setup: Configura el puerto. 
+
 P3D: Permite que el lienzo muestre cosas en 3D. 
+
 OscMessage: Si te llega un mensaje de Osc, hará las cosas definidas. 
 
 
