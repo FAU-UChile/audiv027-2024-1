@@ -16,7 +16,12 @@ Vamos a aprender a usar una version de Tensorflow creada para diseñadores y art
 
 [charRNN](https://github.com/ml5js/training-charRNN) sirve para entrenar algoritmos capaces de "recordar" permitiendole generar texto con mayor sentido, a diferencia de las redes neuronales incapaces de "recordar". Se usa para crear ia generadoras de texto.
 
-Entrenar modelo en [google collab](https://colab.research.google.com/drive/1kcukyQFJQRxv9lIbzoj1cJ4WUuAdZVRW) > Crear copia > Editar - Borrar todos los resultados > Ejecutar todas las celdas hasta la [17] "descargar archivos desde Project Gutenberg"
+Entrenar modelo en [google collab](https://colab.research.google.com/drive/1kcukyQFJQRxv9lIbzoj1cJ4WUuAdZVRW) > Crear copia > Editar - Borrar todos los resultados > Ejecutar todas las celdas hasta la [17] "descargar archivos desde Project Gutenberg". Al llegar a la [17] puedes elegir sobre que libro se entrena el modelo. 
+
+>En python se comenta con el simbolo # por eso para escoger uno de los libros debes borrar el # de delante del nombre y ponerselo al que estaba sin él. ![Screenshot celda 17 opcion quijote]() ![Screenshot celda 17 opcion metamorphosis]()
+
+Ejecutar la siguiente celda. En esta celda empezara a "leer" el libro escogido y entrenar el modelo. Para que funcione correctamente debes reemplazar en el codigo el nombre del libro default por el que escogiste. Por ejemplo en la siguiente imagen se escogio el libro "metamorfosis"
+![Screenshot celda 18]()
 
 
 
