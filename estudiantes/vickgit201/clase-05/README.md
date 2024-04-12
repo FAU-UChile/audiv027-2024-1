@@ -48,7 +48,7 @@ https://montoyamoraga.io/ultravioleta/
 
 https://gutenberg.org/
 
-
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/ad2f750e-e72f-4003-95f6-10fcfe256ae0)
 
 https://colab.research.google.com/drive/1-J2de9aH-5nbmYeoiZOyPdRW7oExNlzn#scrollTo=cRoW9mOYlf2W
 
@@ -70,5 +70,5 @@ Cómo hacer trabajos
 
 
 
-![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/ad2f750e-e72f-4003-95f6-10fcfe256ae0)
+
 
