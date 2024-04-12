@@ -1,5 +1,5 @@
 TensorFlow-> Detector de codigos con números en base de datos/ imagenes pixeleadas
-Se necesita iniciar con google-> conectar es igual a perdirle a google que te conecte-> ejecutar todo (estamos accediendo a un computador desde la nube)
+Se necesita iniciar con google -> conectar es igual a perdirle a google que te conecte-> ejecutar todo (estamos accediendo a un computador desde la nube)
 Clasificación básica: clasifique imágenes de prendas de vestir:
 Sirve para entrenar un modelo de redes neuronales para que clasifique imágenes de prendas de vestir, como calzado y camisas.
 Numpy: biblioteca más usada para pyton.
