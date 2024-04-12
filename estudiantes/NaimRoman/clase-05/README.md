@@ -14,7 +14,11 @@ Pulsar [Run in Google Collab](https://colab.research.google.com/github/tensorflo
 
 Vamos a aprender a usar una version de Tensorflow creada para diseñadores y artistas. 
 
-[charRNN](https://github.com/ml5js/training-charRNN) sirve para entrenar algorimos capaces de "recordar" permitiendole generar texto con mayor sentido, a diferencia de las redes neuronales incapaces de "recordar". Se usa para crear ia generadoras de texto.
+[charRNN](https://github.com/ml5js/training-charRNN) sirve para entrenar algoritmos capaces de "recordar" permitiendole generar texto con mayor sentido, a diferencia de las redes neuronales incapaces de "recordar". Se usa para crear ia generadoras de texto.
+
+[Quijote](https://colab.research.google.com/drive/1kcukyQFJQRxv9lIbzoj1cJ4WUuAdZVRW) > Crear copia > Editar - Borrar todos los resultados > Ejecutar todas las celdas hasta la [17] "descargar archivos desde Project Gutenberg"
+
+
 
 
 
