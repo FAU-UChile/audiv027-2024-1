@@ -84,5 +84,12 @@
 
 *Se descargará un zip llamado modelo.zip*
 
+4. La carpeta debe arrastrarse en la carpeta que dice models. Así se subirán todos los archivos.
+
+5. Para utilizar el código, en la línea 61 del sketch.js original, debemos cambiar lo que dice models/quijote, con nuestra carpeta del libro, en este caso, sería models/mobyDick.
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/85488c51-c889-4bb4-9b53-5fc303828e65)
+
+
 
 
