@@ -21,3 +21,8 @@ Los resultados con los algoritmo pueden variar las respuestas dependendo el tiem
 Ejecutamos un codigo en la pag. de tensorflow e hizimos una copia en google drive, la cual es una algoritmo que detecta que tipo de ropa esta en la imagen.
 
 El profesor nos muestra uno de sus proyecto, el cual mediante una web cam capta su imagen y lo transforma en un estilo de artilleria.
+
+Delta significa diferencia.
+
+Uno de los grandes problemas a la hora de programar es donde saco la base de datos
+
