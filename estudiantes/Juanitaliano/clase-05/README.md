@@ -26,3 +26,5 @@ Delta significa diferencia.
 
 Uno de los grandes problemas a la hora de programar es donde saco la base de datos
 
+html tiene un canvas y nos sirve para dibujar en un lienzo, p5js nos puede ayudar para eso.
+
