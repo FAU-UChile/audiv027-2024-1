@@ -64,4 +64,7 @@
 
 10. Conectamos al igual que en el punto 4.
 
-11. 
+11. Descargamos los archivos haciendo click en play, hasta antes de donde dice ''descargar archivos desde Project Gutenberg''.
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/c89439dd-8c90-4636-b0aa-03f726915bd1)
+
