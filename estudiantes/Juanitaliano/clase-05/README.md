@@ -28,3 +28,8 @@ Uno de los grandes problemas a la hora de programar es de donde saco la base de 
 
 html tiene un canvas y nos sirve para dibujar en un lienzo, p5js nos puede ayudar para eso.
 
+A continuacion el profesor nos enseño a programar un codigo, el cual se utilizo tensorflow, en este codigo utilizamos como base de datos un libro,
+en mi caso fue "Don quijote".
+Ademas nos enseño a crear una pagina web con git-hut
+para ello fuimos a setting,
+
