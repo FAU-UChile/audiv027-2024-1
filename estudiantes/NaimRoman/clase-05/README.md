@@ -34,7 +34,7 @@ Copiar la carpeta descargada "*models*" en el repositorio, "estudiantes/NaimRoma
 
 Copiar la direccion "*estudiantes/NaimRoman/clase-05/ejemplo-ml5js-char-rnn-canvas*" en la barra de direcciones, esto ejecutara el modelo como en el ejemplo:
 
-![Screenshotmodelofuncionando](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-05/Captura%20de%20pantalla%20(5).png)
+![Screenshotmodelofuncionando](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-05/Captura%20de%20pantalla%20(6).png)
 
 
 ## Random
