@@ -24,7 +24,7 @@ Protocolos maneras de recibir mensajes y uno de ellos es el oscp5, esto permite 
 
 la comunicacion debe ocurrir en un puerto para que usen una misma linea. 
 
-Aprender OSC que vale 3 lucas y entrega posibilidades de trabajo y todoooooo
+Aprender TouchOSC que vale 3 lucas y entrega posibilidades de trabajo y todoooooo
 
 con ctrl F se puede buscar palabras 
 

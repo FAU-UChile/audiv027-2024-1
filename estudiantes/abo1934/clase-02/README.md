@@ -1,11 +1,12 @@
-# TODO
+# clase-02
 
 para ayudas y atajos de escritura para los apuntes
-### Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+Markdown Cheatsheet: <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
 
 2 espacios para separar parrafos
 
-### Processing y Wekinator
+## Processing y Wekinator
 
 Processing: void setup() para iniciar funcion
 () -> parentesis, [] -> corchete, {} -> murcielago
