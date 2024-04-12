@@ -48,5 +48,27 @@ https://montoyamoraga.io/ultravioleta/
 
 https://gutenberg.org/
 
+
+
+https://colab.research.google.com/drive/1-J2de9aH-5nbmYeoiZOyPdRW7oExNlzn#scrollTo=cRoW9mOYlf2W
+
+Descargando libro, imagen descriptiva de como cambiar libro en líneas 17 y 18
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/d18a4149-788c-46ac-8288-a07a6dc5ca30)
+
+Html5 tiene un canvas, y se puede dibujar en el con java script
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/116aaa45-7308-4e21-8833-c6c5bbe0fa33)
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/9f1b3e42-ddb9-4a66-b0a2-9ab669aca97e)
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/6dff2388-3bd7-4e10-b441-139c6e9f39fe)
+
+Cómo hacer trabajos 
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/b6371330-a147-4914-92c7-682eef357fb4)
+
+
+
 ![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/ad2f750e-e72f-4003-95f6-10fcfe256ae0)
 
