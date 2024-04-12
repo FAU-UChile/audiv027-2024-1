@@ -22,6 +22,6 @@ andreas refsgaard, google crative lab, teachable machine, ml5js, p5js, runwayml
 
 andreas refsgaard, buscar modelo mr. bean para p5js
 
-Teachable Machine, para entrenar ia y crear bases de datos. mi modelo -> https://teachablemachine.withgoogle.com/models/s8lGc0-_K/ , para p5.js
+Teachable Machine, para entrenar ia y crear bases de datos. mi modelo -> <https://teachablemachine.withgoogle.com/models/s8lGc0-_K/> , para p5.js
 
 aprender lo que queramos desde la base de las ia, siempre y cuando justifiquemos el como y por que llegamos a aprenderlo
