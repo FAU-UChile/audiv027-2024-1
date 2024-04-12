@@ -8,6 +8,8 @@
   
 - Es más fácil entrenar el algoritmo entre números de 0 al 10.
 
+- Revisar a Gene Kogan.
+
 - # **Glosario**:
 - **MNIST:** Base de datos escritas a mano.
 
