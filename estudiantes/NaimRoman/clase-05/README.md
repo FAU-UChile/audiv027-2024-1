@@ -45,7 +45,7 @@ Copiar la direccion "*estudiantes/NaimRoman/clase-05/ejemplo-ml5js-char-rnn-canv
 
 - [MNIST](https://es.wikipedia.org/wiki/Base_de_datos_MNIST) es una base de datos de letras/numeros escritas a mano muy usada para entrenar sistemas de procesamiento. Podemos usarlo en nuestro trabajo.
 
-- El ejemplo de turotial de Tensorflow esta hecho con [**Keras**](https://www.tensorflow.org/guide/keras?hl=es-419)
+- El primer ejemplo de tutorial, el de Tensorflow, esta hecho con [**Keras**](https://www.tensorflow.org/guide/keras?hl=es-419)
 
 - **numpy** es la biblioteca mas usada en python. 
 
