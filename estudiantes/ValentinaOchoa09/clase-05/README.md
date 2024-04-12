@@ -25,7 +25,7 @@ Fuente: Tensorflow.
 
   - Aprendizaje profundo: Conjunto de algoritmos de aprendizaje. 
 
-**Instrucciones primera parte de la clase:**
+# **Instrucciones primera parte de la clase:**
 1. Nos dirigimos al siguiente link: https://www.tensorflow.org/tutorials/keras/classification?hl=es-419
    
 2. Hicimos click en Run in Google Colab.
