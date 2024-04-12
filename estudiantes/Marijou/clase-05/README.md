@@ -7,6 +7,8 @@ Los arreglos train_images y train_labels constituyen el conjunto de entrenamient
 
 Plt: hace grafícos:
 ![image](https://github.com/Marijou/audiv027-2024-1/assets/163590875/d0cea1f5-50b8-4a6e-8013-1ea10f229794)
+
+
 Pyenv: permite tener muchas colecciónes de pyton en el compu.
 Delta CODIGO = Diferencia
 # + espacio = skipea codigo y si lo quito puedo descargar ese especificamente 
