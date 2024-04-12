@@ -36,7 +36,7 @@ Acceder a [tu pagina web](https://naimroman.github.io/audiv027-2024-1/) gratuita
 
 ![ScreenshotEjemploMetamorphosis](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-05/Captura%20de%20pantalla%20(5).png)
 
-Copiar la direccion "*estudiantes/NaimRoman/clase-05/ejemplo-ml5js-char-rnn-canvas*" o "*estudiantes/NaimRoman/clase-05/ejemplo-ml5js-char-rnn-html*" (dependiendo de a cula de las 2 hayas copiado tu modelo) en la barra de direcciones, esto ejecutara el modelo como en el ejemplo:
+Copiar la direccion "*estudiantes/NaimRoman/clase-05/ejemplo-ml5js-char-rnn-canvas*" o "*estudiantes/NaimRoman/clase-05/ejemplo-ml5js-char-rnn-html*" (dependiendo de a cula de las 2 hayas copiado tu modelo) en la barra de direcciones, esto ejecutara el [modelo como en el ejemplo](https://naimroman.github.io/audiv027-2024-1/estudiantes/NaimRoman/clase-05/ejemplo-ml5js-char-rnn-canvas/):
 
 ![Screenshotmodelofuncionando](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-05/Captura%20de%20pantalla%20(6).png)
 
