@@ -52,4 +52,6 @@
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/5f74d7ff-99a0-4049-ae73-cbb2be3e901c)
 
-7. Utilizamos el siguiente ejemplo para trabajarlo en clases: https://github.com/ml5js/training-charRNN
+7. Utilizamos el siguiente ejemplo para trabajarlo en clases: https://github.com/ml5js/training-charRNN.
+
+8. Nos dirigimos a: https://colab.research.google.com/drive/1mMeIBf90IkbYEcfrnr_ohXjkvE7afhIO?usp=sharing. Realizamos el mismo proceso del punto 3.
