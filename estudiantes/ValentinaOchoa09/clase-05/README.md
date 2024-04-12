@@ -68,3 +68,10 @@
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/c89439dd-8c90-4636-b0aa-03f726915bd1)
 
+# **Instrucciones segunda parte de la clase**
+
+1. Elegir uno de los libros en la parte de Project Gutenberg y descargarlo. Colocar el # en el quijote y borrar en el libro que queremos. 
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/318d718f-01a5-4737-995d-21936e3e666b)
+
+
