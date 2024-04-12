@@ -2,7 +2,7 @@
 
 ## Tensorflow en Google Collab
 
--Tutorial de Tensorflow [Clasificacion Basica: Predecir una imagen de moda](https://www.tensorflow.org/tutorials/keras/classification?hl=es-419)
+- Tutorial de Tensorflow [Clasificacion Basica: Predecir una imagen de moda](https://www.tensorflow.org/tutorials/keras/classification?hl=es-419)
 
 Pulsar [Run in Google Collab](https://colab.research.google.com/github/tensorflow/docs-l10n/blob/master/site/es-419/tutorials/keras/classification.ipynb?hl=es-419) ya que es algo pesado para un computador común.
 
@@ -10,18 +10,26 @@ Pulsar [Run in Google Collab](https://colab.research.google.com/github/tensorflo
 
 **Entorno ejecución** > **Ejecutar todo**
 
+## Tensorflow.js
+
+Vamos a aprender a usar una version de Tensorflow creada para diseñadores y artistas. 
+
+[charRNN](https://github.com/ml5js/training-charRNN) sirve para entrenar algorimos capaces de "recordar" permitiendole generar texto con mayor sentido, a diferencia de las redes neuronales incapaces de "recordar". Se usa para crear ia generadoras de texto.
+
 
 
 ## Random
 
 - [MNIST](https://es.wikipedia.org/wiki/Base_de_datos_MNIST) es una base de datos de letras/numeros escritas a mano muy usada para entrenar sistemas de procesamiento. Podemos usarlo en nuestro trabajo.
 
--El ejemplo de turotial de Tensorflow esta hecho con [**Keras**](https://www.tensorflow.org/guide/keras?hl=es-419)
+- El ejemplo de turotial de Tensorflow esta hecho con [**Keras**](https://www.tensorflow.org/guide/keras?hl=es-419)
 
--**numpy** es la biblioteca mas usada en python. 
+- **numpy** es la biblioteca mas usada en python. 
 
--Recomendado trabajar/investigar **Python**, amigable y con muchos tutoriales/ comunidad. **Jupyter**.
+- Recomendado trabajar/investigar **Python**, amigable y con muchos tutoriales/ comunidad. **Jupyter**.
 
--[The coding train](https://www.tensorflow.org/guide/keras?hl=es-419) Creador del modelo **ML5** que hemos usado hoy. Hace [tutoriales](https://www.youtube.com/watch?v=UNkHditYGls).
+- [The coding train](https://www.tensorflow.org/guide/keras?hl=es-419) Creador del modelo **ML5** que hemos usado hoy. Hace [tutoriales](https://www.youtube.com/watch?v=UNkHditYGls).
 
--[Gene Kogan](https://www.youtube.com/@GeneKogan). Artist and programmer with interests in generative art, collective intelligence, autonomous systems, and computer science.
+- [Gene Kogan](https://www.youtube.com/@GeneKogan). Artist and programmer with interests in generative art, collective intelligence, autonomous systems, and computer science.
+
+- Pagina [web](https://montoyamoraga.io/) profe. [Arpillera](https://montoyamoraga.io/arpillera-mirror/). [Ultravioleta](https://montoyamoraga.io/ultravioleta/)
