@@ -43,7 +43,7 @@
    
 5. En la parte superior donde dice ''Entorno de Ejecución'', hacemos click en Ejecutar Todo. Nos aparecerá lo siguiente:
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/89c99e2f-88d8-48d9-8b5b-d677e6d8cbcf
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/89c99e2f-88d8-48d9-8b5b-d677e6d8cbcf)
 
 6. La red neuronal identificará diferentes prendas de ropa, con un porcentaje de acertado o equivocado.
 
