@@ -16,7 +16,7 @@ Vamos a aprender a usar una version de Tensorflow creada para diseñadores y art
 
 [charRNN](https://github.com/ml5js/training-charRNN) sirve para entrenar algoritmos capaces de "recordar" permitiendole generar texto con mayor sentido, a diferencia de las redes neuronales incapaces de "recordar". Se usa para crear ia generadoras de texto.
 
-[Quijote](https://colab.research.google.com/drive/1kcukyQFJQRxv9lIbzoj1cJ4WUuAdZVRW) > Crear copia > Editar - Borrar todos los resultados > Ejecutar todas las celdas hasta la [17] "descargar archivos desde Project Gutenberg"
+Entrenar modelo en [google collab](https://colab.research.google.com/drive/1kcukyQFJQRxv9lIbzoj1cJ4WUuAdZVRW) > Crear copia > Editar - Borrar todos los resultados > Ejecutar todas las celdas hasta la [17] "descargar archivos desde Project Gutenberg"
 
 
 
@@ -37,3 +37,5 @@ Vamos a aprender a usar una version de Tensorflow creada para diseñadores y art
 - [Gene Kogan](https://www.youtube.com/@GeneKogan). Artist and programmer with interests in generative art, collective intelligence, autonomous systems, and computer science.
 
 - Pagina [web](https://montoyamoraga.io/) profe. [Arpillera](https://montoyamoraga.io/arpillera-mirror/). [Ultravioleta](https://montoyamoraga.io/ultravioleta/)
+
+- [Proyecto Gutenberg](https://www.gutenberg.org/). una pagina para leer libros gratuita. Muchos libros antiguos digitalizados.
