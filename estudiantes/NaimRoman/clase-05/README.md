@@ -1,0 +1,27 @@
+# Clase 5
+
+## Tensorflow en Google Collab
+
+-Tutorial de Tensorflow [Clasificacion Basica: Predecir una imagen de moda](https://www.tensorflow.org/tutorials/keras/classification?hl=es-419)
+
+Pulsar [Run in Google Collab](https://colab.research.google.com/github/tensorflow/docs-l10n/blob/master/site/es-419/tutorials/keras/classification.ipynb?hl=es-419) ya que es algo pesado para un computador común.
+
+**Archivo** > **Guardar una copia en Drive**  Para poder editarlo y guardar los cambios.
+
+**Entorno ejecución** > **Ejecutar todo**
+
+
+
+## Random
+
+- [MNIST](https://es.wikipedia.org/wiki/Base_de_datos_MNIST) es una base de datos de letras/numeros escritas a mano muy usada para entrenar sistemas de procesamiento. Podemos usarlo en nuestro trabajo.
+
+-El ejemplo de turotial de Tensorflow esta hecho con [**Keras**](https://www.tensorflow.org/guide/keras?hl=es-419)
+
+-**numpy** es la biblioteca mas usada en python. 
+
+-Recomendado trabajar/investigar **Python**, amigable y con muchos tutoriales/ comunidad. **Jupyter**.
+
+-[The coding train](https://www.tensorflow.org/guide/keras?hl=es-419) Creador del modelo **ML5** que hemos usado hoy. Hace [tutoriales](https://www.youtube.com/watch?v=UNkHditYGls).
+
+-[Gene Kogan](https://www.youtube.com/@GeneKogan). Artist and programmer with interests in generative art, collective intelligence, autonomous systems, and computer science.
