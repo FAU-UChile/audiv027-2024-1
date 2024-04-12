@@ -29,7 +29,9 @@
 
  - **Numpy:** Cálculos numéricos de Python.
 
-- **Red neuronal:** Método que utiliza la inteligencia artificial para que las computadoras procesen datos. 
+- **Red neuronal:** Método que utiliza la inteligencia artificial para que las computadoras procesen datos.
+
+- **Jupyter.org:** Página web interactiva.
 
 # **Instrucciones primera parte de la clase:**
 
