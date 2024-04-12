@@ -3,8 +3,8 @@
 ## acerca de
 
 
-Hola profe salu2
 
+- Hola profe salu2
 - universidad: Universidad de Chile
 - facultad: Facultad de Arquitectura y Urbanismo
 - departamento: Departamento de Diseño
