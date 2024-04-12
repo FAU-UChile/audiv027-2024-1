@@ -70,23 +70,23 @@
 
 # **Instrucciones segunda parte de la clase**
 
-1. Elegir uno de los libros en la parte de Project Gutenberg y descargarlo. Colocar el # en el quijote y borrar en el libro que queremos. 
+12. Elegir uno de los libros en la parte de Project Gutenberg y descargarlo. Colocar el # en el quijote y borrar en el libro que queremos. 
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/318d718f-01a5-4737-995d-21936e3e666b)
 
-2. Generamos nuestra propia página con Github, donde se verán nuestros apuntes. Esto lo realizamos de la sección de Settings. 
+13. Generamos nuestra propia página con Github, donde se verán nuestros apuntes. Esto lo realizamos de la sección de Settings. 
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/02c8ec76-c10c-4121-915b-e29ba85d22a0)
 
-3. Para subir el libro que elegimos, en este caso, Moby Dicks, lo bajamos con la siguiente línea de código, colocando play:
+14. Para subir el libro que elegimos, en este caso, Moby Dicks, lo bajamos con la siguiente línea de código, colocando play:
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/567a4ef1-fb57-438e-8b6e-940e2dda5918)
 
 *Se descargará un zip llamado modelo.zip*
 
-4. La carpeta debe arrastrarse en la carpeta que dice models. Así se subirán todos los archivos.
+15. La carpeta debe arrastrarse en la carpeta que dice models. Así se subirán todos los archivos.
 
-5. Para utilizar el código, en la línea 61 del sketch.js original, debemos cambiar lo que dice models/quijote, con nuestra carpeta del libro, en este caso, sería models/mobyDick.
+16. Para utilizar el código, en la línea 61 del sketch.js original, debemos cambiar lo que dice models/quijote, con nuestra carpeta del libro, en este caso, sería models/mobyDick.
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/85488c51-c889-4bb4-9b53-5fc303828e65)
 
