@@ -9,13 +9,13 @@
 - Es más fácil entrenar el algoritmo entre números de 0 al 10.
 
 - # **Glosario**:
-- MNIST: Base de datos escritas a mano.
+- **MNIST:** Base de datos escritas a mano.
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/1660e6b6-976a-4b20-b940-782be148e59b)
 
 - Clasificación de imágenes básica: Modelo de red neuronal que permite clasificar imágenes de ropa. Por ejemplo, poleras, sandalias, bolsos, etc. Predicen una imagen de moda.
 
-Fuente: Tensorflow.
+*Fuente: Tensorflow.*
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/1f7baf05-25d6-4650-be52-85ae018b1bc4)
 
@@ -23,13 +23,14 @@ Fuente: Tensorflow.
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/4c78d3ab-97e6-4e83-9bb6-f196c7b5dc07)
 
-  - Aprendizaje profundo: Conjunto de algoritmos de aprendizaje.
+  - **Aprendizaje profundo:** Conjunto de algoritmos de aprendizaje.
 
- - Numpy: Cálculos numéricos de Python.
+ - **Numpy:** Cálculos numéricos de Python.
 
-- Red neuronal: Método que utiliza la inteligencia artificial para que las computadoras procesen datos. 
+- **Red neuronal:** Método que utiliza la inteligencia artificial para que las computadoras procesen datos. 
 
 # **Instrucciones primera parte de la clase:**
+
 1. Nos dirigimos al siguiente link: https://www.tensorflow.org/tutorials/keras/classification?hl=es-419
    
 2. Hicimos click en Run in Google Colab.
