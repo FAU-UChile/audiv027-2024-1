@@ -32,7 +32,7 @@ A continuacion el profesor nos enseño a programar un codigo, el cual se utilizo
 en mi caso fue "Don quijote".
 Despues de generar estos "modelos" los descargamos de la pag. tensorflow, (remplazo la palabra "quijote" si es otro modelo) .
 vamos en los archivos de la pag. y seleccionamos modelo.zip
-lo bajamos y lo subimos al git hub en la carpeta clase 5/ejemplo-ml5js-char-rnn-canvas/
+lo bajamos y lo subimos al git hub en la carpeta clase 5/ejemplo-ml5js-char-rnn-canvas/model
 
 Ademas nos enseño a crear una pagina web con git-hut
 para ello fuimos a setting, pages y luego cambiamos none por main, le dimos a save.
