@@ -27,8 +27,10 @@ Entrenar modelo en [google collab](https://colab.research.google.com/drive/1kcuk
 Ejecutar la siguiente celda. En esta celda empezara a "leer" el libro escogido y entrenar el modelo. Para que funcione correctamente debes reemplazar en el codigo el nombre del libro default por el que escogiste. Por ejemplo en la siguiente imagen se escogio el libro "metamorfosis"
 ![Screenshot celda 18](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-05/Captura%20de%20pantalla%20(3).png)
 
+Ejecutar siguiente celda, y seguir los pasos que explica. 
 
-
+Copiar la carpeta descargada "*models*" en el repositorio, "estudiantes/NaimRoman/clase-05/ejemplo-ml5js-char-rnn-canvas". Cambiar en el archivo "*skech.js*" la palabra "quijote" por el nombre del libro escogido.
+![Screenshot Ejemplo Metamorphosis]()
 
 
 ## Random
