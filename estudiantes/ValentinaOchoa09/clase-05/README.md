@@ -34,6 +34,8 @@
 
 - **Jupyter.org:** Página web interactiva.
 
+- **Pyenv:** Permite tener varias versiones de Python al mismo tiempo en el computador. 
+
 # **Instrucciones primera parte de la clase:**
 
 1. Nos dirigimos al siguiente link: https://www.tensorflow.org/tutorials/keras/classification?hl=es-419
@@ -55,3 +57,9 @@
 7. Utilizamos el siguiente ejemplo para trabajarlo en clases: https://github.com/ml5js/training-charRNN.
 
 8. Nos dirigimos a: https://colab.research.google.com/drive/1mMeIBf90IkbYEcfrnr_ohXjkvE7afhIO?usp=sharing. Realizamos el mismo proceso del punto 3.
+
+9. En editar, hacemos click en Borrar todos los resultados.
+
+10. Conectamos al igual que en el punto 4.
+
+11. 
