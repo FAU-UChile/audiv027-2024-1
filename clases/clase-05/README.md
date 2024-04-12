@@ -3,3 +3,5 @@
 viernes 12 abril 2024
 
 <https://www.tensorflow.org/tutorials/keras/classification>
+
+<https://github.com/ml5js/training-charRNN>
