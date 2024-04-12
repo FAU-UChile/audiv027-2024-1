@@ -25,7 +25,9 @@ Fuente: Tensorflow.
 
   - Aprendizaje profundo: Conjunto de algoritmos de aprendizaje.
 
- - Numpy: Cálculos numéricos de Python. 
+ - Numpy: Cálculos numéricos de Python.
+
+- Red neuronal: Método que utiliza la inteligencia artificial para que las computadoras procesen datos. 
 
 # **Instrucciones primera parte de la clase:**
 1. Nos dirigimos al siguiente link: https://www.tensorflow.org/tutorials/keras/classification?hl=es-419
