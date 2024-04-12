@@ -34,7 +34,9 @@
 
 - **Jupyter.org:** Página web interactiva.
 
-- **Pyenv:** Permite tener varias versiones de Python al mismo tiempo en el computador. 
+- **Pyenv:** Permite tener varias versiones de Python al mismo tiempo en el computador.
+
+- **Delta:** Significa diferencia. 
 
 # **Instrucciones primera parte de la clase:**
 
