@@ -23,7 +23,9 @@ Fuente: Tensorflow.
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/4c78d3ab-97e6-4e83-9bb6-f196c7b5dc07)
 
-  - Aprendizaje profundo: Conjunto de algoritmos de aprendizaje. 
+  - Aprendizaje profundo: Conjunto de algoritmos de aprendizaje.
+
+ - Numpy: Cálculos numéricos de Python. 
 
 # **Instrucciones primera parte de la clase:**
 1. Nos dirigimos al siguiente link: https://www.tensorflow.org/tutorials/keras/classification?hl=es-419
