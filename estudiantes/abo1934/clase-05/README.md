@@ -24,3 +24,5 @@ Proyect Gutenberg --> libros gratis online
 *  __Gene Koga__ 
 *  __Proyect Jupyter__
 *  __HTML5 Canvas__: dibujar con JavaScript 
+
+En ejemplo canvas, cambiar linea 61, de quijote a prideAndPrejudice, dentro  del codigo sketch.js
