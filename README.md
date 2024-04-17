@@ -1,7 +1,12 @@
+salu2
+
 # audiv027-2024-1
 
 ## acerca de
 
+
+
+- Hola profe salu2
 - universidad: Universidad de Chile
 - facultad: Facultad de Arquitectura y Urbanismo
 - departamento: Departamento de Diseño
