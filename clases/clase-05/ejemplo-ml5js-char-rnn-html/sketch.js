@@ -54,7 +54,7 @@ function setup() {
 
   // definir modelo rnn con ml5.js
   // cuando el modelo se carga, correr la funcion modeloCargado
-  rnn = new ml5.charRNN("./models/quijote", modeloCargado);
+  rnn = new ml5.charRNN("./models/"dracula", modeloCargado);
   
   // textoActual es un caracter aleatorio
   textoActual = caracteres[int(random(caracteres.length))];
