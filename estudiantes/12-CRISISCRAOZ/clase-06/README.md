@@ -27,6 +27,14 @@ este trabajo lo hice con los siguientes materiales:
 - wekinator escrito por Rebecca Fiebrink y disponible en [http://www.wekinator.org/examples/]
 - navegador Google Chrome 
 - utilizamos webcam HDFULL
+- dentro de processing descargamos tres librerias:
+
+  *Video Library for Processing 4 2.2.2*
+
+  *oscP5*
+
+  *OpenCV for Processing*
+  
 
 ## código
 
@@ -38,7 +46,7 @@ u otro material multimedia
 
 ## conclusiones
 
-en este trabajo aprendí ETC
+en este trabajo aprendímos como vincular dos códigos a través de wikinator para hacerlos funcionar en processing de una partícula según el movimiento de una cabeza
 
 ## citas y referentes
 
