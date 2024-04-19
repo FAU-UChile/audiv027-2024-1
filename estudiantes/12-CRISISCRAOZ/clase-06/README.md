@@ -1,14 +1,12 @@
 # clase-06
 
-skdksdjf
-
 ## entrega: Play FugazFace
 
 CRISISCRAOZ
 
-Pabecy
+[Pabecy](https://github.com/Pabecy/audiv027-2024-1)
 
-abo1934
+[abo1934](https://abo1934.github.io/audiv027-2024-1/)
 
 
 
