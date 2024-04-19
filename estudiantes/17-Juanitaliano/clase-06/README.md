@@ -2,9 +2,14 @@
 
 ## entrega: título
 
-integrantes
+integrantes: Giovanni Torres, Diego Lopez, Benjamin Espinoza
 
-fecha
+fecha 19-04-2024
+
+Notas primer dia trabajo:
+-Investigamos sobre como jugar mediante webcam los videojuegos.
+-Encontramos algunos videos referentes del tema ademas de encontrar informacion de como programarlo.
+-
 
 ## materiales
 
@@ -28,6 +33,11 @@ u otro material multimedia
 ## conclusiones
 
 en este trabajo aprendí ETC
+
+Links:
+https://www.youtube.com/watch?v=Vi3Li3TkUVY
+https://github.com/everythingishacked/Gamebody
+https://github.com/everythingishacked/keyboard
 
 ## citas y referentes
 
