@@ -20,7 +20,13 @@ este trabajo lo hice con los siguientes materiales:
 
 - p5.js en su versión x.y.z disponible en la web (POSIBLEMENTE SEA UNA BUENA ALTERNATIVA PARA EL ENTRENAMIENTO Y RECONOCIMIENTO DE GESTOS)
 - [Markdown para escribir la documentación de este archivo](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#h1)
-- la base de datos en Probablemente exploraremos las alternativas que nos entrega TEachable Machine
+- la base de datos en Probablemente exploraremos las alternativas que nos entrega 
+Teachable machine
+
+Aunque tmb hoy otros modelos que aun no hemos comprobado los cuales tienen un tiempo de respuesta mas rapido y estan mas desarrollados como POSE NET
+
+https://www.youtube.com/watch?v=OIo-DIOkNVg
+
 - Wekinator escrito por X y disponible en
 - Navegador Mozilla Firefox en su versión x.y.z
 - Micrófono o webcam dependiendo de que idea de proyecto elijamos
