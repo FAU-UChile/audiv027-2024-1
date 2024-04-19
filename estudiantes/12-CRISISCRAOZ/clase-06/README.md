@@ -15,11 +15,14 @@ este trabajo lo hice con los siguientes materiales:
 - processing versión 4.3 ejecutado en el ordenador
 - markdown para escribir la documentación de este archivo
 - la base de datos desde la página de wekinator, de donde sacamos los siguientes Example code:
+  
   *Simple continuously-controlled particle system*
+  
   *Face Tracking Processing version; tracks the x- and y- position and width of one face*
-- Wekinator escrito por X y disponible en
-- Navegador Mozilla Firefox en su versión x.y.z
-- Micrófono, webcam?
+  
+- Wekinator escrito por Rebecca Fiebrink y disponible en [http://www.wekinator.org/examples/]
+- Navegador Google Chrome 
+- Utilizamos webcam HDFULL
 
 ## código
 
