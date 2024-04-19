@@ -14,6 +14,8 @@ Notas primer dia trabajo:
 https://www.youtube.com/watch?v=Vi3Li3TkUVY
 https://github.com/everythingishacked/Gamebody
 https://github.com/everythingishacked/keyboard
+https://www.youtube.com/watch?v=FYgYyq-xqAw
+
 
 -Hicimos algunas pruebas para generar datos de movimiento con Teachable Machine.
 a lo cual detectacmos algunos fallos para que detecte algunos movimientos, es por ello que pensamos hacer una recopilacion de mayor imagen y categorias.
