@@ -42,3 +42,8 @@ en este trabajo aprendí ETC
 Progreso:
 
 https://teachablemachine.withgoogle.com/models/4hGtLV8sq/
+
+
+Lo intente correr en colabb pero obvio no funciono porque no porque en colab no tengo la camara
+
+https://colab.research.google.com/drive/1nVxQhbv2GOgdZq3YyDoNdu8viPTeDo1f?usp=sharing
