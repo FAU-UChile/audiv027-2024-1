@@ -31,8 +31,8 @@ en este trabajo aprendí ETC
 
 ## citas y referentes
 
-[https://www.youtube.com/watch?v=96sWFP9CCkQ](Video: Turning My Body Into a Controller with Machine Learning, ml5.js, and p5.js)
+[https://www.youtube.com/watch?v=96sWFP9CCkQ](Video Turning My Body Into a Controller with Machine Learning, ml5.js, and p5.js)
 
-[https://www.youtube.com/watch?v=Vi3Li3TkUVY](Video:  I made a full-body GAME controller!)
+[https://www.youtube.com/watch?v=Vi3Li3TkUVY](Video  I made a full-body GAME controller)
 
 [https://github.com/everythingishacked/Gamebody](Codigo abierto Full body game controler)
