@@ -34,3 +34,11 @@ en este trabajo aprendí ETC
 - <https://github.com/>
 - <https://github.com/>
 - <https://github.com/>
+
+
+
+
+
+Progreso:
+
+https://teachablemachine.withgoogle.com/models/4hGtLV8sq/
