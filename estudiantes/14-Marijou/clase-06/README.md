@@ -2,7 +2,7 @@
 
 ## entrega: título
 
-integrantes
+integrantes: Trabaje con Benjamin Alarcón 
 
 fecha
 
