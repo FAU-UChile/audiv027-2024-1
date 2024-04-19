@@ -55,3 +55,5 @@ en este trabajo aprendí.....
 [Codigo abierto Full body game controler](https://github.com/everythingishacked/Gamebody)
 
 [Entrenamiento de reconocimiento de gestos de mano](https://editor.p5js.org/AndreasRef/sketches/vyiGyVon9)
+
+[Clasificacion de poses con ml5](https://www.youtube.com/watch?v=FYgYyq-xqAw)
