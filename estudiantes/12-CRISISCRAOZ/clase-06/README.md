@@ -38,7 +38,7 @@ este trabajo lo hice con los siguientes materiales:
 
 ## código
 
-el código está subido en esta misma carpeta, y en el editor de p5.js, etc.
+el código está subido en esta misma carpeta
 
 ## capturas de pantalla
 
