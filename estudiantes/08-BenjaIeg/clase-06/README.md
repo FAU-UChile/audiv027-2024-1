@@ -36,4 +36,3 @@ en este trabajo aprendí ETC
 [https://www.youtube.com/watch?v=Vi3Li3TkUVY](Video:  I made a full-body GAME controller!)
 
 [https://github.com/everythingishacked/Gamebody](Codigo abierto Full body game controler)
-- 
