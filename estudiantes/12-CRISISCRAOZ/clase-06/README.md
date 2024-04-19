@@ -20,9 +20,9 @@ este trabajo lo hice con los siguientes materiales:
   
   *Face Tracking Processing version; tracks the x- and y- position and width of one face*
   
-- Wekinator escrito por Rebecca Fiebrink y disponible en [http://www.wekinator.org/examples/]
-- Navegador Google Chrome 
-- Utilizamos webcam HDFULL
+- wekinator escrito por Rebecca Fiebrink y disponible en [http://www.wekinator.org/examples/]
+- navegador Google Chrome 
+- utilizamos webcam HDFULL
 
 ## código
 
