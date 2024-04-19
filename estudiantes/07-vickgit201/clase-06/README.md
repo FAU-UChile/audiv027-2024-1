@@ -47,6 +47,15 @@ en este trabajo aprendí ETC
 
 ## citas y referentes
 
+Específicamente:
+  
+  Speech Controlled Bugs (https://editor.p5js.org/AndreasRef/sketches/Xme4ymb13)
+  
+  Word2Vec suggestion tool (https://editor.p5js.org/AndreasRef/sketches/ylEz8k3V)
+  
+  Similar Words Floating in Space (https://editor.p5js.org/AndreasRef/sketches/4dlayBySz)
+
+
 - <https://github.com/>
 - <https://github.com/>
 - <https://github.com/>
