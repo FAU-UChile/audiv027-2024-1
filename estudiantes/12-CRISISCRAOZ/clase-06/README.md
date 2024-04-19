@@ -1,22 +1,22 @@
 # clase-06
 
-## entrega: título
+## entrega: Play FugazFace
 
 CRISISCRAOZ
-
 Pabecy
-
 abo1934
 
-fecha
+19-04-2024
 
 ## materiales
 
 este trabajo lo hice con los siguientes materiales:
 
-- p5.js en su versión x.y.z disponible en la web...
-- Markdown para escribir la documentación de este archivo
-- la base de datos en ...
+- processing versión 4.3 ejecutado en el ordenador
+- markdown para escribir la documentación de este archivo
+- la base de datos desde la página de wekinator, de donde sacamos los siguientes Example code:
+  *Simple continuously-controlled particle system*
+  *Face Tracking Processing version; tracks the x- and y- position and width of one face*
 - Wekinator escrito por X y disponible en
 - Navegador Mozilla Firefox en su versión x.y.z
 - Micrófono, webcam?
