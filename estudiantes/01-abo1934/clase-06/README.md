@@ -2,7 +2,7 @@
 
 ## Entrega: PlayFugazFace
 
-####Trabajo con:
+#### Trabajo con:
 
 CRISISCRAOZ [https://crisiscraoz.github.io/audiv027-2024-1/]
 
