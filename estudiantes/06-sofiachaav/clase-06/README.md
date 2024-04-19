@@ -2,7 +2,7 @@
 
 ## entrega: título
 
-integrantes
+mi equipo de trabajo es <https://github.com/vickgit201> y <<https://github.com/vickgit201>>, entregamos en el repositorio en este enlace <https://github.com/disenoUChile/audiv027-2024-1/estudiantes/vickgit201/clase-06>.
 
 fecha
 
