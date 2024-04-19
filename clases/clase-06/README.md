@@ -2,13 +2,12 @@
 
 ## instrucciones de trabajo de mitad de semestre
 
-instrucciones solemne:
-
 - se empieza hoy
 - se entrega el viernes 26 abril 2024, hasta las 2:00pm, vía GitHub, en tu fork.
 - si hay un commit posterior, no se tomará en cuenta
 - el proyecto es en grupos de 2 o 3 personas
 - el proyecto se hace con la tecnología que ustedes quieran
+- el proyecto se presenta en clases, mostrando los contenidos de la entrega en GitHub
 - el proyecto es sobre lo que hemos visto en clases, posibles formatos:
   - proyecto de inteligencia artificial hecho con p5.js, ml5.js, Wekinator, Teachable Machine, etc.
   - proyecto de inteligencia artificial hecho a partir de GitHub, Google Colab, etc
@@ -38,11 +37,17 @@ la pauta es:
 ## requisitos formales de la entrega
 
 - subir a tu carpeta de tu clase-06 tu proceso al final de la clase de hoy, y luego a la clase-07 tu entrega final, incluyendo TODOS tus archivos.
+- la entrega se puede concentrar en un README.md por equipo, siempre y cuando el resto del equipo incluya enlaces al perfil de ese colega, del estilo
+
+```md
+mi equipo de trabajo es <https://github.com/NOMBRE> y <<https://github.com/NOMBRE>>, entregamos en el repositorio en este enlace <https://github.com/disenoUChile/audiv027-2024-1/estudiantes/NOMBRE/clase-06>.
+```
+
 - variables y archivos sin espacios, en camelCase o notación camello.
 - los comentarios se escriben en la línea de arriba del código
 - los comentarios se escriben en español
 
-## integrantes
+## enlaces de la clase de hoy
 
 - [01-abo1934](./../../estudiantes/01-abo1934/clase-06/)
 - [02-GrimmUChile](./../../estudiantes/02-GrimmUChile/clase-06/)
