@@ -10,10 +10,11 @@ instrucciones solemne:
 - el proyecto es en grupos de 2 o 3 personas
 - el proyecto se hace con la tecnología que ustedes quieran
 - el proyecto es sobre lo que hemos visto en clases, posibles formatos:
-  - proyecto de inteligencia artificial hecho con p5.js, ml5.js
-  - proyecto de inteligencia artificial
+  - proyecto de inteligencia artificial hecho con p5.js, ml5.js, Wekinator, Teachable Machine, etc.
+  - proyecto de inteligencia artificial hecho a partir de GitHub, Google Colab, etc
   - investigación sobre bases de datos
-  -
+  - tutoriales sobre herramientas hechas en clases
+  - adaptación de ejemplos vistos en clases
 
 ## pauta
 
@@ -44,20 +45,20 @@ la pauta es:
 ## integrantes
 
 - [01-abo1934](./../../estudiantes/01-abo1934/clase-06/)
-- [02-GrimmUChile](./../../estudiantes/02-GrimmUChile/)
-- [03-NAF02](./../../estudiantes/03-NAF02/)
-- [04-angebv00](./../../estudiantes/04-angebv00/)
-- [05-Pabecy](./../../estudiantes/05-Pabecy/)
-- [06-sofiachaav](./../../estudiantes/06-sofiachaav/)
-- [07-vickgit201](./../../estudiantes/07-vickgit201/)
-- [08-BenjaIeg](./../../estudiantes/08-BenjaIeg/)
-- [09-chicomaker](./../../estudiantes/09-chicomaker/)
-- [11-ValentinaOchoa09](./../../estudiantes/11-ValentinaOchoa09/)
-- [12-CRISICRAOZ](./../../estudiantes/12-CRISISCRAOZ/)
-- [13-FranReyes](./../../estudiantes/13-FranReyes/)
-- [14-Marijou](./../../estudiantes/14-Marijou/)
-- [15-NaimRoman](./../../estudiantes/15-NaimRoman/)
-- [16-josefa52](./../../estudiantes/16-josefa52/)
-- [17-Juanitaliano](./../../estudiantes/17-Juanitaliano/)
-- [18-ZiggPunk](./../../estudiantes/18-ZiggPunk/)
-- [WiseOctopus](./../../estudiantes/WiseOctopus/)
+- [02-GrimmUChile](./../../estudiantes/02-GrimmUChile/clase-06/)
+- [03-NAF02](./../../estudiantes/03-NAF02/clase-06/)
+- [04-angebv00](./../../estudiantes/04-angebv00/clase-06/)
+- [05-Pabecy](./../../estudiantes/05-Pabecy/clase-06/)
+- [06-sofiachaav](./../../estudiantes/06-sofiachaav/clase-06/)
+- [07-vickgit201](./../../estudiantes/07-vickgit201/clase-06/)
+- [08-BenjaIeg](./../../estudiantes/08-BenjaIeg/clase-06/)
+- [09-chicomaker](./../../estudiantes/09-chicomaker/clase-06/)
+- [11-ValentinaOchoa09](./../../estudiantes/11-ValentinaOchoa09/clase-06/)
+- [12-CRISICRAOZ](./../../estudiantes/12-CRISISCRAOZ/clase-06/)
+- [13-FranReyes](./../../estudiantes/13-FranReyes/clase-06/)
+- [14-Marijou](./../../estudiantes/14-Marijou/clase-06/)
+- [15-NaimRoman](./../../estudiantes/15-NaimRoman/clase-06/)
+- [16-josefa52](./../../estudiantes/16-josefa52/clase-06/)
+- [17-Juanitaliano](./../../estudiantes/17-Juanitaliano/clase-06/)
+- [18-ZiggPunk](./../../estudiantes/18-ZiggPunk/clase-06/)
+- [WiseOctopus](./../../estudiantes/WiseOctopus/clase-06/)
