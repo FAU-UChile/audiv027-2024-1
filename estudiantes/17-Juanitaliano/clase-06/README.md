@@ -54,6 +54,10 @@ https://www.youtube.com/watch?v=Vi3Li3TkUVY
 https://github.com/everythingishacked/Gamebody
 https://github.com/everythingishacked/keyboard
 
+links para mi:
+https://www.youtube.com/watch?v=146YL6qYaYw
+
+
 ## citas y referentes
 
 - <https://github.com/>
