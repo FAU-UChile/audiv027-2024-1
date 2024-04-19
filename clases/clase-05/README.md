@@ -1,15 +1,9 @@
-Empezamos a trabajar con tensor flow en google colab
+# clase-05
 
-https://colab.research.google.com/drive/1i0DiZrs8ZqpU7-BEKUwSo6j1aDu4AB7f?hl=es-419#scrollTo=vasWnqRgy1H4
+viernes 12 abril 2024
 
+<https://www.tensorflow.org/tutorials/keras/classification>
 
-entrenamos una ia que reconoce ropa
+<https://github.com/ml5js/training-charRNN>
 
-
-Ahora hicimos que corriera un libro uwu
-
-escoji dracula pq me gusta mucho y soyese
-
-https://colab.research.google.com/drive/17X2QfOC_jWgEE2XMkqjfdUMjwDnKn1UB#scrollTo=ZvuoU3j9li4k
-
-tambien aprendi como hacer mi pagina de github de mi repositorio
+<https://colab.research.google.com/drive/1mMeIBf90IkbYEcfrnr_ohXjkvE7afhIO?usp=sharing>
