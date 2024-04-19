@@ -26,7 +26,7 @@
 
 6. Abrir **Wekinator** `Por Default Wekinator está configurado para escuchar por el puerto 6448` > Pulsar _"Start Listening"_ > Cambiar las opciones para que quede igual a la siguiente imagen:
   
-![screenshot](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-02/Captura%20de%20pantalla%20(1).png)
+![screenshot](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-02/Captura%20de%20pantalla%20(1).png)
 
 ## Processing 4 _(Post-break)_
 
@@ -44,9 +44,9 @@ Descargar y ejecutar [Simple 10×10 color grid](http://www.doc.gold.ac.uk/~mas01
 
 Sirve para crear modelos IA facilmente. Prototipos simples, rápidos y mucho mas flexibles que lo tradicional.
 
-![Ejemplos en vivo de uso en Teachable Machine 1](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-02/Captura%20de%20pantalla%20(2).png)
+![Ejemplos en vivo de uso en Teachable Machine 1](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-02/Captura%20de%20pantalla%20(2).png)
 
-![Ejemplos en vivo de uso en Teachable Machine 2](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-02/Captura%20de%20pantalla%20(3).png)
+![Ejemplos en vivo de uso en Teachable Machine 2](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-02/Captura%20de%20pantalla%20(3).png)
 
 
 ## Varios
