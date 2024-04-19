@@ -2,7 +2,11 @@
 
 ## entrega: título
 
-integrantes
+CRISISCRAOZ
+
+Pabecy
+
+abo1934
 
 fecha
 
