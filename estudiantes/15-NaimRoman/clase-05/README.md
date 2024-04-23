@@ -18,27 +18,27 @@ Entrenar modelo en [google collab](https://colab.research.google.com/drive/1kcuk
 
 >En python se comenta con el simbolo # por eso para escoger uno de los libros debes borrar el # de delante del nombre y ponerselo al que estaba sin él.
 
->Ejemplo de libro escogido "el quijote" ![Screenshotcelda17opcionquijote](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-05/Captura%20de%20pantalla%20(1).png)
+>Ejemplo de libro escogido "el quijote" ![Screenshotcelda17opcionquijote](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-05/Captura%20de%20pantalla%20(1).png)
 
->Ejemplo de libro escogido "Metamorphosis" ![Screenshotcelda17opcionmetamorphosis](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-05/Captura%20de%20pantalla%20(2).png)
+>Ejemplo de libro escogido "Metamorphosis" ![Screenshotcelda17opcionmetamorphosis](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-05/Captura%20de%20pantalla%20(2).png)
 
 Ejecutar la siguiente celda. En esta celda empezara a "leer" el libro escogido y entrenar el modelo. Para que funcione correctamente debes reemplazar en el codigo el nombre del libro default por el que escogiste. Por ejemplo en la siguiente imagen se escogio el libro "metamorfosis"
 
-![Screenshotcelda18](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-05/Captura%20de%20pantalla%20(3).png)
+![Screenshotcelda18](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-05/Captura%20de%20pantalla%20(3).png)
 
 Ejecutar siguiente celda, y seguir los pasos que explica. 
 
 Copiar la carpeta descargada "*models*" en el repositorio, "*estudiantes/NaimRoman/clase-05/ejemplo-ml5js-char-rnn-canvas*" o "*estudiantes/NaimRoman/clase-05/ejemplo-ml5js-char-rnn-html*". Cambiar en el archivo "*skech.js*" la palabra "quijote" por el nombre del libro escogido.
 
-![ScreenshotcodigoMetamorphosis](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-05/Captura%20de%20pantalla%20(4).png)
+![ScreenshotcodigoMetamorphosis](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-05/Captura%20de%20pantalla%20(4).png)
 
 Acceder a [tu pagina web](https://naimroman.github.io/audiv027-2024-1/) gratuita creada en github:
 
-![ScreenshotEjemploMetamorphosis](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-05/Captura%20de%20pantalla%20(5).png)
+![ScreenshotEjemploMetamorphosis](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-05/Captura%20de%20pantalla%20(5).png)
 
-Copiar la direccion "*estudiantes/NaimRoman/clase-05/ejemplo-ml5js-char-rnn-canvas*" o "*estudiantes/NaimRoman/clase-05/ejemplo-ml5js-char-rnn-html*" (dependiendo de a cula de las 2 hayas copiado tu modelo) en la barra de direcciones, esto ejecutara el [modelo como en el ejemplo](https://naimroman.github.io/audiv027-2024-1/estudiantes/NaimRoman/clase-05/ejemplo-ml5js-char-rnn-canvas/):
+Copiar la direccion "*estudiantes/NaimRoman/clase-05/ejemplo-ml5js-char-rnn-canvas*" o "*estudiantes/NaimRoman/clase-05/ejemplo-ml5js-char-rnn-html*" (dependiendo de a cula de las 2 hayas copiado tu modelo) en la barra de direcciones, esto ejecutara el [modelo como en el ejemplo](https://naimroman.github.io/audiv027-2024-1/estudiantes/15-NaimRoman/clase-05/ejemplo-ml5js-char-rnn-canvas/):
 
-![Screenshotmodelofuncionando](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-05/Captura%20de%20pantalla%20(6).png)
+![Screenshotmodelofuncionando](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-05/Captura%20de%20pantalla%20(6).png)
 
 
 ## Random
