@@ -17,7 +17,7 @@ Este trabajo lo realizamos con lo siguiente:
 
 - Programa llamado Processing, lenguaje Java.
 - Markdown para escribir la documentación de este archivo.
-- Programa llamdo Wekinator.
+- Programa llamado Wekinator.
 
 ## ¿Cómo iniciamos este proyecto?
 En la clase del (insertar fecha), terminamos un poco antes de lo habitual, por lo que el docente nos recomendó comenzar a investigar sobre ideas para nuestra primera evaluación, que vendría siendo esta. Con mi compañera Natalie estuvimos conversando y le interesaba mucho hacer algo relacionado a colores, con lo cual teníamos una base para buscar antecedentes. En nuestra búsqueda, encontramos algunas animaciones llamadas ''Magic Fluids'' y ''Colorful Gradient Abstract Liquid'', que dejaremos a continuación:
