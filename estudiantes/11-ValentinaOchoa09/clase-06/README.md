@@ -8,6 +8,7 @@ Trabajo en pares:
 2. Valentina Ochoa. 
 
 Clase del 19-04-2024
+
 Actualización el 24 de abril 
 
 ## Materiales:
