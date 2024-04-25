@@ -72,7 +72,8 @@ _Referentes de proyectos de Metaballs en la página OpenProcessing_
 
 En primer lugar, trabajamos en horario fuera de clases los días 16, 17 y 18 de abril, para así estudiar el código base que teníamos por parte del canal de youtube The Coding Train, el cual es el siguiente:
 
-> var blobs = []
+```
+var blobs = []
 
 function setup() {
   createCanvas(400, 200);
@@ -102,9 +103,11 @@ function draw() {
     blobs[i].update();
   }
 }
+```
 
 Este código, además, está acompañado de un apartado de ''blob.js'', que contienen las siguientes líneas de código:
 
+```
 // Basile Pesin
 // http://vertmo.github.io
 
@@ -135,6 +138,7 @@ class Blob {
     ellipse(this.x, this.y, this.r * 2, this.r * 2);
   }
 }
+```
 
 Ahora bien, lo que nosotras hicimos fue modificar el código para aplicarlo únicamente en Processing, sin utilizar el editor de p5.js, cambiando medidas numéricas, texturas (el contorno de las metaballs) y colores a utilizar. Así mismo, agregamos funcionalidades con el mouse, haciendo que cada vez que haciamos click, aparecía una metaball en la pantalla. El primer resultado fue este:
 
