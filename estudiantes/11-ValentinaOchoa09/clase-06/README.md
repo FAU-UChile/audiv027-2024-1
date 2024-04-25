@@ -374,7 +374,7 @@ ArrayList<Blob> blobs;
 
 // Tamaño del lienzo
 void setup() {
-  size(1000, 1000);
+  size(1200, 800);
   blobs = new ArrayList<Blob>();
   // Inicializar la conexión OSC con Wekinator en el puerto 9000
   oscP5 = new OscP5(this, 9000);
