@@ -266,27 +266,27 @@ El resultado de todo el proceso anterior, aplicando el uso de Wekinator para que
 
 ## Citas y referentes: 
 
-1. Fluid Color Liquid.
+1. Magic Fluids by Roman De Giuli: https://www.youtube.com/watch?v=1MieluM0c6c&ab_channel=RomanDeGiuli
   
-2. The Coding Train (insertar link) 
+2. The Coding Train (https://thecodingtrain.com/challenges/28-metaballs) 
    
-3. https://www.youtube.com/watch?v=PrFgIBchqno&ab_channel=HariDulal (Metaballs in Processing)
+3. Metaballs in Processing: https://www.youtube.com/watch?v=PrFgIBchqno&ab_channel=HariDulal 
    
-4. https://www.youtube.com/watch?v=LZfmCuEPRIM&ab_channel=AbangFarhan (Colorful Metaballs in Processing)
+4. Coloful Metaballs in Processing: https://www.youtube.com/watch?v=LZfmCuEPRIM&ab_channel=AbangFarhan 
    
-5.  Ejemplos de la página oficial de Processing: https://processing.org/
+5. Página oficial de Processing: https://processing.org/
    
-6.  Proyectos de Processing: openprocessing.org
+6. Metaballs by Richard Bourne: https://openprocessing.org/sketch/1527761
    
-7.  https://github.com/CodingTrain/website-archive/tree/main/CodingChallenges/CC_028_MetaBalls/Processing/CC_028_MetaBalls
+7. Código en Github de The Coding Train: https://github.com/CodingTrain/website-archive/tree/main/CodingChallenges/CC_028_MetaBalls/Processing/CC_028_MetaBalls
    
-8. Para agregar audio a Processing: https://www.youtube.com/watch?v=Jq2N8Y9NgMM&t=30s&ab_channel=AirRoom
+8. Metaball by aadebdeb: https://openprocessing.org/sketch/375374
 
-9. https://openprocessing.org/sketch/375374
-    
-10. https://www.youtube.com/watch?v=mfQ_-uCU2qI
+9. Metaball Shader by Myria Nezvitskaya: https://openprocessing.org/sketch/1726115
   
-12. https://forum.processing.org/one/topic/making-things-glow-like-in-the-metaball-example.html
+10. Código de Metaball en un foro dedicado a Processing: https://forum.processing.org/one/topic/making-things-glow-like-in-the-metaball-example.html
 
-13. Artículo sobre Metaballs en Processing: https://www.gamedev.net/articles/programming/graphics/exploring-metaballs-and-isosurfaces-in-2d-r2556/
+11. Artículo sobre Metaballs en Processing: https://www.gamedev.net/articles/programming/graphics/exploring-metaballs-and-isosurfaces-in-2d-r2556/
+
+12. Colorful Gradient Abstract Liquid by Shutter Footage: https://www.youtube.com/watch?v=SDHX1KyLleg&ab_channel=ShutterFootage
 
