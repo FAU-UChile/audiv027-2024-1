@@ -486,7 +486,11 @@ void keyPressed() {
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/f8a19248-d97c-408b-a4a4-42770f6a0e3b)
 
-(El código base está mezclado con referentes de The Coding Train y proyectos encontrados en la página Processing.org) 
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/7959bf73-bf8b-43e9-a2e1-dcb1c6650f21)
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/b484a51e-4fd8-4817-9d6f-1d1d60c111ac)
+
+Video probando el código: https://www.youtube.com/watch?v=8H4D6vcgyEw&feature=youtu.be
 
 ## Conclusiones:
 
