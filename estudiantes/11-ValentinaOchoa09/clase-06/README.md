@@ -492,6 +492,8 @@ void keyPressed() {
 
 Video probando el código: https://www.youtube.com/watch?v=8H4D6vcgyEw&feature=youtu.be
 
+Video entrenando el Wekinator: https://youtu.be/4g4l8J5oT-E
+
 ## Conclusiones:
 
 ...
