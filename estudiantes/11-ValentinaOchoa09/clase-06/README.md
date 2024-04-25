@@ -68,13 +68,14 @@ Ya con todo esto, podíamos dar inicio a nuestro trabajo. Nos apoyamos del códi
 
 _Referentes de proyectos de Metaballs en la página OpenProcessing_ 
 
+## Proceso del proyecto: 
+
+
 ## Código:
 
 Por completar. 
 
 ## Capturas de pantalla: 
-
-La idea principal de este proyecto era realizar un código en donde aparecieran partículas por la pantalla rebotando, con un efecto similar al ''Metaball''. Le estábamos incorporando que al hacer click con el mouse apareciera una partícula y también queríamos agregarle audio como si fueran burbujitas. Sin embargo, se nos olvidó el detalle de que debíamos incorporar alguna herramienta de inteligencia artificial antes de empeazar la programación. Por ende, estamos dando otro enfoque al proyecto y evaluando nuevas alternativas para el proyecto final, ya que no hemos podido incorporar Wekinator con el código original. Estamos investigando qué otro proyecto podemos realizar en base a ejemplos que encontremos en internet. 
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/f8a19248-d97c-408b-a4a4-42770f6a0e3b)
 
