@@ -247,7 +247,9 @@ void mousePressed() {
 
 ## Código:
 
-Por completar. 
+El resultado de todo el proceso anterior, aplicando el uso de Wekinator para que detecte la posición de la metaball al hacer click, fue lo siguiente: 
+
+
 
 ## Capturas de pantalla: 
 
