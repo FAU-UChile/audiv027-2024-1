@@ -150,7 +150,8 @@ Luego, configurando el color negro por uno celeste, obtuvimos lo siguiente:
 
 Por otro lado, netamente durante clases, nuestro gran obstáculo fue reconocer como conectar la programación de particulas/metaballs, directamente con una entrada y salida en wekinator, para poder interactúar de lleno con el usuario. Intentamos en primeras instancias poder ver los cambios en el código, agregando aspectos como el mousetracker y sumando líneas de OSCP5, basándonos en los ejemplos que vimos en clases. El ejemplo lo sacamos de la página oficial de Wekinator (http://www.wekinator.org/examples/#Processing_animation_screen-based_input): 
 
-> import oscP5.*;
+```
+import oscP5.*;
 import netP5.*;
 
 OscP5 oscP5;
@@ -240,6 +241,7 @@ void mousePressed() {
   }
   oscP5.send(msg, dest);
 }
+```
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/ffe8c168-4f9e-402e-91ed-4fa78187d473)
 
