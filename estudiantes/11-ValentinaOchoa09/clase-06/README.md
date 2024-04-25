@@ -20,7 +20,7 @@ Este trabajo lo realizamos con lo siguiente:
 - Programa llamdo Wekinator.
 
 ## ¿Cómo iniciamos este proyecto?
-En la clase del (insertar fecha), terminamos la clase un poco antes de lo habitual, por lo que el docente nos recomendó comenzar a investigar sobre ideas para nuestra primera evaluación, que vendría siendo esta. Con mi compañera Natalie estuvimos conversando y le interesaba mucho hacer algo relacionado a colores, con lo cual teníamos una base para buscar antecedentes. En nuestra búsqueda, encontramos algunas animaciones llamadas ''Magic Fluids'' y ''Colorful Gradient Abstract Liquid'', las cuales dejaremos a continuación:
+En la clase del (insertar fecha), terminamos un poco antes de lo habitual, por lo que el docente nos recomendó comenzar a investigar sobre ideas para nuestra primera evaluación, que vendría siendo esta. Con mi compañera Natalie estuvimos conversando y le interesaba mucho hacer algo relacionado a colores, con lo cual teníamos una base para buscar antecedentes. En nuestra búsqueda, encontramos algunas animaciones llamadas ''Magic Fluids'' y ''Colorful Gradient Abstract Liquid'', que dejaremos a continuación:
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/220e76b6-0281-4b82-acdb-98390e46bd63)
 
@@ -42,7 +42,7 @@ https://github.com/baunov/gradients-bg
 
 _Referencia de idea de proyecto_ 
 
-Por otra parte, también estuvimos buscando proyectos en la siguiente página: openprocessing.org, en la cual podíamos visualizar diferentes proyectos que se hicieron con el programa Processing, lo cual era algo que queríamos utilizar. Encontramos ideas similares a las mostradas con anterioridad, sin embargo, sus códigos eran de aproximadamente mil líneas, algo que quizás sería demasiado pesado para completarlo en menos de una semana. No obstante, al seguir investigando encontramos algo interesante, llamado ''Metaballs''. Si bien no era igual a lo que teníamos como idea base, era similar y también nos pareció interesante.
+Por otra parte, también estuvimos buscando proyectos en la siguiente página: openprocessing.org, en la cual podíamos ver diferentes proyectos que se hicieron con el programa Processing, lo cual era algo que queríamos utilizar. Encontramos ideas similares a las mostradas con anterioridad, sin embargo, sus códigos eran de aproximadamente mil líneas, algo que quizás sería demasiado pesado para completarlo en menos de una semana. No obstante, al seguir investigando encontramos algo interesante, llamado ''Metaballs''. Si bien no era igual a lo que teníamos como idea base, era similar y también nos pareció interesante.
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/d1ec656b-362b-4ff7-b00c-d464479071f9)
 
