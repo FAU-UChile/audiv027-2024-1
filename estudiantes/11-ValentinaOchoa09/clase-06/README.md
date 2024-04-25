@@ -268,7 +268,7 @@ El resultado de todo el proceso anterior, aplicando el uso de Wekinator para que
 
 1. Fluid Color Liquid.
   
-2. The Coding Train.
+2. The Coding Train (insertar link) 
    
 3. https://www.youtube.com/watch?v=PrFgIBchqno&ab_channel=HariDulal (Metaballs in Processing)
    
@@ -287,4 +287,6 @@ El resultado de todo el proceso anterior, aplicando el uso de Wekinator para que
 10. https://www.youtube.com/watch?v=mfQ_-uCU2qI
   
 12. https://forum.processing.org/one/topic/making-things-glow-like-in-the-metaball-example.html
+
+13. Artículo sobre Metaballs en Processing: https://www.gamedev.net/articles/programming/graphics/exploring-metaballs-and-isosurfaces-in-2d-r2556/
 
