@@ -194,7 +194,7 @@ void sendOsc() {
 
 ```
 
-Así mismo, implementamos un ejemplo base durante el horario de clases: 
+Así mismo, implementamos un ejemplo base durante el horario de clases, con el apoyo de un amigo que estudia informática: 
 
 ```
 import oscP5.*;
