@@ -193,9 +193,10 @@ void sendOsc() {
 }
 
 ```
-```
+
 Así mismo, implementamos un ejemplo base durante el horario de clases: 
 
+```
 import oscP5.*;
 import netP5.*;
 
