@@ -142,11 +142,11 @@ class Blob {
 
 Ahora bien, lo que nosotras hicimos fue modificar el código para aplicarlo únicamente en Processing, sin utilizar el editor de p5.js, cambiando medidas numéricas, texturas (el contorno de las metaballs) y colores a utilizar. Así mismo, agregamos funcionalidades con el mouse, haciendo que cada vez que haciamos click, aparecía una metaball en la pantalla. El primer resultado fue este:
 
-(insertar capturas)
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/77a1aeff-db71-457a-9df7-6f060cc4029a)
 
 Luego, configurando el color negro por uno celeste, obtuvimos lo siguiente:
 
-(insertar captura)
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/1bceb8d2-7005-49f6-9b7c-ad96d432e2ad)
 
 Por otro lado, netamente durante clases, nuestro gran obstáculo fue reconocer como conectar la programación de particulas/metaballs, directamente con una entrada y salida en wekinator, para poder interactúar de lleno con el usuario. Intentamos en primeras instancias poder ver los cambios en el código, agregando aspectos como el mousetracker y sumando líneas de OSCP5, basándonos en los ejemplos que vimos en clases. El ejemplo lo sacamos de la página oficial de Wekinator (http://www.wekinator.org/examples/#Processing_animation_screen-based_input): 
 
