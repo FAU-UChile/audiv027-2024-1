@@ -9,7 +9,7 @@ Trabajo en pares:
 
 Clase del 19-04-2024
 
-Actualización el 24 de abril 
+Actualizado el 24 y 25 de abril 
 
 ## Materiales:
 
