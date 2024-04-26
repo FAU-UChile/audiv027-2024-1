@@ -1,6 +1,6 @@
 Clase 7
 
-##Control de gamepad-keyboard a travez de poses
+## Control de gamepad-keyboard a travez de poses
 
 Tipeo de teclas predeterminadas a travez del uso de inteligencia artificial para reconocer poses y asociarlos a acciones.
 
@@ -16,7 +16,7 @@ Camara Webcam
 
 #Documentacion
 
-##Teacheable machine
+## Teacheable machine
 
 Lo primero a realizar cuando la idea a realizar fue confirmada con el uso de gestos o poses a travez de la camara, nos pusimos
 manos a la obra con la primera herramienta de reconocimiento de poses pre entrenada, Teacheable Machine.
