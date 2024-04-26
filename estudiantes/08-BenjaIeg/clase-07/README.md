@@ -14,7 +14,7 @@ Navegador
 
 Camara Webcam
 
-#Documentacion
+# Documentacion
 
 ## Teacheable machine
 
@@ -27,7 +27,7 @@ Modelo entrenado para diferenciar las poses:
 
 https://teachablemachine.withgoogle.com/models/4hGtLV8sq/
 
-##Pyhthon
+## Pyhthon
 
 Ya con el modelo descargado, se investigo en internet que herramientas y referentes teniamos disponibles para traducir el reconocimiento de diferentes poses
 a la accion de teclear botones determinados del Teclado.
@@ -42,12 +42,11 @@ Nos pusimos a analizar y realizar una autopsia del codigo existente para la adap
 
 ## El Codigo 
 
+```
+
 import cv2
-
 import keyboard
-
 import numpy as np
-
 import tensorflow as tf
 
 // Cargar el modelo TensorFlow Lite
@@ -132,6 +131,7 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
+```
 
 ## Conclusiones
 
