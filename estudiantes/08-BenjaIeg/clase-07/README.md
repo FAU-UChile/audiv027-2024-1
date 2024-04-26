@@ -25,7 +25,11 @@ Las poses a realizar y diferenciar con el programa fueron, PATADA, PUÑO y NINGU
 
 Modelo entrenado para diferenciar las poses:
 
-![]/IMAGENES/GOLPE.PNG
+![](https://github.com/BenjaIeg/audiv027-2024-1/blob/main/estudiantes/08-BenjaIeg/clase-07/IMAGENES/PARADO.png)
+
+![](https://github.com/BenjaIeg/audiv027-2024-1/blob/main/estudiantes/08-BenjaIeg/clase-07/IMAGENES/PATADA.png)
+
+![](https://github.com/BenjaIeg/audiv027-2024-1/blob/main/estudiantes/08-BenjaIeg/clase-07/IMAGENES/GOLPE.png)
 
 https://teachablemachine.withgoogle.com/models/4hGtLV8sq/
 
