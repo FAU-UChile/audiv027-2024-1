@@ -4,7 +4,7 @@
 
 Tipeo de teclas predeterminadas a travez del uso de inteligencia artificial para reconocer poses y asociarlos a acciones.
 
-Herramientas utilizadas.
+###Herramientas utilizadas.
 
 Teacheable Machine
 
@@ -14,9 +14,9 @@ Navegador
 
 Camara Webcam
 
-# Documentacion
+## Documentacion
 
-## Teacheable machine
+### Teacheable machine
 
 Lo primero a realizar cuando la idea a realizar fue confirmada con el uso de gestos o poses a travez de la camara, nos pusimos
 manos a la obra con la primera herramienta de reconocimiento de poses pre entrenada, Teacheable Machine.
@@ -25,28 +25,38 @@ Las poses a realizar y diferenciar con el programa fueron, PATADA, PUÑO y NINGU
 
 Modelo entrenado para diferenciar las poses:
 
+Recopilacion de una pose en la cual no ejercemos ni una accion, simplemente brazos y piernas estirados hacia el suelo
+
 ![](https://github.com/BenjaIeg/audiv027-2024-1/blob/main/estudiantes/08-BenjaIeg/clase-07/IMAGENES/PARADO.png)
 
+Esta posicion fue la mas dificil de reconocer al modelo de teacheable machine pues no se le da muy bien recibir la informacion de las piernas cuando estas se encuentran perpendiculares. 
+Se podria traducir como una posicion en donde no se puedan leer las piernas o donde la rodilla esta ligeramente hacia arriba.
+
 ![](https://github.com/BenjaIeg/audiv027-2024-1/blob/main/estudiantes/08-BenjaIeg/clase-07/IMAGENES/PATADA.png)
+
+Y por ultimo la posicion de puño, en donde nuestro esqueleto esta tiene uno de los brazos extendidos horizontalmente.
 
 ![](https://github.com/BenjaIeg/audiv027-2024-1/blob/main/estudiantes/08-BenjaIeg/clase-07/IMAGENES/GOLPE.png)
 
 https://teachablemachine.withgoogle.com/models/4hGtLV8sq/
 
-## Pyhthon
+### Python
 
 Ya con el modelo descargado, se investigo en internet que herramientas y referentes teniamos disponibles para traducir el reconocimiento de diferentes poses
 a la accion de teclear botones determinados del Teclado.
 
-Nos encontramos con el material necesario en el cual se realiza aquellas acciones que describimos con una mayor cantidad de poses.
+Nos encontramos con el material similar en la cual se realiza aquellas acciones que describimos con una mayor cantidad de poses.
 
 [Video Youtube: I made a full-body GAME controller](https://www.youtube.com/watch?v=Vi3Li3TkUVY) 
 
 [Codigo abierto Full body game controler](https://github.com/everythingishacked/Gamebody)
 
-Nos pusimos a analizar y realizar una autopsia del codigo existente para la adaptacion de nuestros estandares los cuales eran solo 3 posiciones
+Uno de los problemas que tenemos con el uso de este codigos es el gran numero de lineas que este necesita utilizar, junto con la cantidad de archivos, peso y potencia que necesita el computador personal para su funcionamiento
+El codigo que se nos presenta no solo analizaba el esqueleto y las coordenadas de nuestro esqueleto si no que tambien mandaba las coordenadas de multiples posiciones de las diferentes opciones de modelos los cuales se entrenaron para dicho proyecto
 
-## El Codigo 
+En el presente trabajo mandaremos a python para cargar los 3 modelos entrenados anteriormente;"puño", "patada" y "parado-ninguno". Y le pediremos que compare el esqueleto mostrado en nuestra webcam y que el mismo tensorflow reconozca y decida cual es la posicion mas cercana a la que se esta realizando en la WEBCAM. 
+
+#### Nuestro Codigo 
 
 ```
 
@@ -150,7 +160,7 @@ En este trabajo aprendi sobre el uso de python y sobre todo asociado a las accio
 
 Tambien aprendimos a aplicar modelos de aprendizaje automatico, en este caso aquellos modelos que teacheable machine nos entrego, y ponerlos en practica en un codigo, es decir
 que el codigo y programa deben ser capaz de identificar que se les entrega un modelo de _Tensorflow Lite_, y diferenciar cada gesto el cual se le entrego, para asociarlos y compararlos con los datos que la webcam esta enviando
-y _reconocer_** que "pose" entrenada se esta realizando.
+y **reconocer** que "pose" entrenada se esta realizando.
 
 
 
