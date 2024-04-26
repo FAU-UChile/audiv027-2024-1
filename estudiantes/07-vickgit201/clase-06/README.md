@@ -68,12 +68,10 @@ Consideramos que los aprendizajes en relación a este trabajo se centran en tres
 
 - La importancia del conociemiento para poder apoyar, transformar y mejorar procesos y realidades, como en este caso el paradigma capacitista.
 
-- Nuevamente entender que existen reglas básicas implícitas para poder programar y trabajar con código (como el orden, escribir lo que se está haciendo paso a paso, la forma de citar y basasrse en trabajos de otras personas) que nos permiten seguir desarrollando 
+- Nuevamente entender que existen reglas básicas implícitas para poder programar y trabajar con código (como el orden, escribir lo que se está haciendo paso a paso, la forma de citar y basasrse en trabajos de otras personas) que nos permiten aprender y desarollar de manera más tranquila y clara.
 
 ## citas y referentes
 
-Específicamente:
-  
   Speech Controlled Bugs (https://editor.p5js.org/AndreasRef/sketches/Xme4ymb13)
 
   ![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/98ae0301-fe9c-4d6d-a81c-27bd4cec1467)
