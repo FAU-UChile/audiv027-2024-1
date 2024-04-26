@@ -149,8 +149,8 @@ previsualizacion del esqueleto.
 En este trabajo aprendi sobre el uso de python y sobre todo asociado a las acciones integradas del computador, como en este caso, tipear teclas usando python como medio.
 
 Tambien aprendimos a aplicar modelos de aprendizaje automatico, en este caso aquellos modelos que teacheable machine nos entrego, y ponerlos en practica en un codigo, es decir
-que el codigo y programa deben ser capaz de identificar que se les entrega un modelo de TENSORFLOW lite, y diferenciar cada gesto el cual se le entrego, para asociarlos y compararlos con los datos que la webcam esta enviando
-y RECONOCER que "pose" entrenada se esta realizando.
+que el codigo y programa deben ser capaz de identificar que se les entrega un modelo de _Tensorflow Lite_, y diferenciar cada gesto el cual se le entrego, para asociarlos y compararlos con los datos que la webcam esta enviando
+y _reconocer_** que "pose" entrenada se esta realizando.
 
 
 
