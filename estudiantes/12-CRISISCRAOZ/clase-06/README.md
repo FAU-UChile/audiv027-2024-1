@@ -65,6 +65,6 @@ en este trabajo aprendímos como vincular dos códigos a través de wikinator pa
 ## citas y referentes
 
 - <https://github.com/disenoUChile/audiv027-2024-1>
-- <(https://processing.org/)>
-- <https://github.com/>
-- 
+- <https://processing.org/>
+- <http://www.wekinator.org/examples/>
+
