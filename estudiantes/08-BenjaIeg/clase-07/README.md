@@ -165,7 +165,13 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 ```
+El codigo puesto en practica permite dar la orden al computador para esxribir 2 teclas.
 
+Al mantener el puño y brazo extendido, el codigo entendera que esa accion es tambien el tipeo de la tecla *a*
+
+Mientras que con la pierna levantada, el codigo enviara la orden de teclar la tecla *x*
+
+El modelo entrenado contempla una tercera pose la cual es una neutral en donde uno solo esta parado, esta pose sirve como medida para hacer entender al programa de que no queremos mandar ni una orden, pues sin la existencia de ese modelo, el programa intentaria describir la pose de "parado" como una de las 2 poses y por consecuencia, la orden asociada a esas teclas.
 ## Conclusiones
 
 Mientras que Aun existen modelos de Machine learning con enfoque en los gestos disponibles, aquellos que estan abiertos al publico como Teacheable Machine
