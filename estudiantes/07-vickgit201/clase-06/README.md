@@ -24,7 +24,6 @@ este trabajo lo hicimos con los siguientes materiales:
 
 ## código
 
-el código está subido en esta misma carpeta, y en el editor de p5.js
 
 Index:
 
