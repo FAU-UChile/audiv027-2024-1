@@ -16,6 +16,7 @@ este trabajo lo hice con los siguientes materiales:
 - Wekinator escrito por X y disponible en
 - Navegador Mozilla Firefox en su versión x.y.z
 - Micrófono, webcam?
+- [ca-times.brightspotcdn.png] 
 
 ## código
 

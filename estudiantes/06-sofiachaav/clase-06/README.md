@@ -2,7 +2,7 @@
 
 ## entrega: título
 
-integrantes
+mi equipo de trabajo es <https://github.com/vickgit201> y <<https://github.com/vickgit201>>, entregamos en el repositorio en este enlace <https://github.com/disenoUChile/audiv027-2024-1/estudiantes/vickgit201/clase-06>.
 
 fecha
 
@@ -19,7 +19,7 @@ este trabajo lo hice con los siguientes materiales:
 
 ## código
 
-el código está subido en esta misma carpeta, y en el editor de p5.js, etc.
+https://editor.p5js.org/sofiachaav/sketches/b7uM3eEZz 
 
 ## capturas de pantalla
 

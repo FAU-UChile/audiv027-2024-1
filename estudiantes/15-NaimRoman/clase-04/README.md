@@ -9,17 +9,17 @@ Ejecutar en **Processing 4** el codigo _"Simple_Mouse_DraggedObject"_ .Abrir Wek
 
 Cambiar el numero de input a 2, el numero de output a 1 y dejar el type en el default.
 
-![screenshot](https://raw.githubusercontent.com/NaimRoman/audiv027-2024-1/main/estudiantes/NaimRoman/clase-04/Captura%20de%20pantalla%20(2).png)
+![screenshot](https://raw.githubusercontent.com/NaimRoman/audiv027-2024-1/main/estudiantes/15-NaimRoman/clase-04/Captura%20de%20pantalla%20(2).png)
 
 
 Al ejecutarlo deberia salir la luz verde:
 
-![screenshot](https://raw.githubusercontent.com/NaimRoman/audiv027-2024-1/main/estudiantes/NaimRoman/clase-04/Captura%20de%20pantalla%20(1).png)
+![screenshot](https://raw.githubusercontent.com/NaimRoman/audiv027-2024-1/main/estudiantes/15-NaimRoman/clase-04/Captura%20de%20pantalla%20(1).png)
 
 
 Entrenar el modelo. La posicion del slider se "guarda" junto a la posición del cuadro en procesing. 
 
-![screenshot](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-04/Captura%20de%20pantalla%20(3).png)
+![screenshot](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-04/Captura%20de%20pantalla%20(3).png)
 
 
 Descargar y ejecutar _"Simple continuous color control"_ de la pagina de wekinator en processing.
@@ -27,7 +27,7 @@ Descargar y ejecutar _"Simple continuous color control"_ de la pagina de wekinat
 El color "Hue" cambiará dependiendo de adonde muevas el cuadrado de la otra ventana de processing.
 
 
-![screenshot](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-04/Captura%20de%20pantalla%20(4).png)
+![screenshot](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-04/Captura%20de%20pantalla%20(4).png)
 
 Cerrar todo menos el _"Simple_Mouse_DraggedObject"_.
 
@@ -39,7 +39,7 @@ Entrenar el modelo al gusto. yo hice que las particulas sigan al cuadro, es deci
 
 La tercera variable cambia la "gravedad", la direccion de la cola de particulas.
 
-![screenshot modelo entrenado](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-04/Captura%20de%20pantalla%20(5).png) ![screenshot modelo entrenado](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-04/Captura%20de%20pantalla%20(6).png) ![screenshot modelo entrenado](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/NaimRoman/clase-04/Captura%20de%20pantalla%20(7).png)
+![screenshot modelo entrenado](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-04/Captura%20de%20pantalla%20(5).png) ![screenshot modelo entrenado](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-04/Captura%20de%20pantalla%20(6).png) ![screenshot modelo entrenado](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-04/Captura%20de%20pantalla%20(7).png)
 
 
 ## Random
