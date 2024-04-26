@@ -1,0 +1,1 @@
+mi equipo de trabajo es <[https://github.com/NOMBRE](https://github.com/chicomaker)> y <<https://github.com/BenjaIeg>>, entregamos en el repositorio en este enlace <https://github.com/disenoUChile/audiv027-2024-1/tree/main/estudiantes/08-BenjaIeg/clase-07>
