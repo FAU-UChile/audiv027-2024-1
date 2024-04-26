@@ -20,7 +20,7 @@ este trabajo lo hicimos con los siguientes materiales:
 - p5.js en su versión x.y.z disponible en la web (https://editor.p5js.org/)
 - Markdown para escribir la documentación de este archivo
 - la base de datos se elaboró en Teacheble Machine (https://teachablemachine.withgoogle.com/)
-- Micrófono de SebCam y compuatdor
+- Micrófono de WebCam y compuatdor
 
 ## código
 
