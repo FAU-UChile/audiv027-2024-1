@@ -1,4 +1,4 @@
-Clase 7
+# Clase 7: Entrega Proyecto
 
 ## Control de gamepad-keyboard a travez de poses
 
@@ -43,39 +43,49 @@ Nos pusimos a analizar y realizar una autopsia del codigo existente para la adap
 ## El Codigo 
 
 import cv2
+
 import keyboard
+
 import numpy as np
+
 import tensorflow as tf
 
 // Cargar el modelo TensorFlow Lite
+
 ruta_al_modelo = 'model_unquant.tflite'
 interprete = tf.lite.Interpreter(model_path=ruta_al_modelo)
 interprete.allocate_tensors()
 
 // Obtener los detalles del input y output del modelo
+
 entrada_details = interprete.get_input_details()
 salida_details = interprete.get_output_details()
 altura = entrada_details[0]['shape'][1]
 ancho = entrada_details[0]['shape'][2]
 
 // Función para detectar el gesto (puño o patada)
+
 def detectar_gesto(frame):
     // Preprocesar el frame para que coincida con el formato de entrada del modelo
     frame = cv2.resize(frame, (ancho, altura))
-    frame = frame / 255.0  # Normalizar
+    frame = frame / 255.0  //Normalizar
 
     // Agregar una dimensión para el batch
+    
     frame = np.expand_dims(frame, axis=0).astype(entrada_details[0]['dtype'])
 
     // Configurar la entrada del modelo y realizar la inferencia
+    
     interprete.set_tensor(entrada_details[0]['index'], frame)
     interprete.invoke()
 
     // Obtener la salida y la clase con la mayor probabilidad
+    
     output_data = interprete.get_tensor(salida_details[0]['index'])
     clase_predicha = np.argmax(output_data)
 
     // Devolver el gesto detectado
+    
     if clase_predicha == 1:
         return 'Puño'
     elif clase_predicha == 2:
@@ -84,33 +94,42 @@ def detectar_gesto(frame):
         return 'Ninguno'
 
 // Inicializar la cámara
+
 cap = cv2.VideoCapture(0)
 
+//capturar frame por frame
+
 while True:
-    // Capturar frame por frame
     ret, frame = cap.read()
 
     // Mostrar el frame
+    
     cv2.imshow('Frame', frame)
 
     // Detectar un gesto
+    
     gesto = detectar_gesto(frame)
 
     // Accionar según el gesto detectado
+    
     if gesto == 'Puño':
         // Simular la pulsación de la tecla 'a'
         keyboard.press('a')
         keyboard.release('a')
     elif gesto == 'Patada':
+    
         // Simular la pulsación de la tecla 'x'
+        
         keyboard.press('x')
         keyboard.release('x')
 
     // Salir de del bucle si se presiona 'q'
+    
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
 
 // Liberar la cámara y cerrar todas las ventanas
+
 cap.release()
 cv2.destroyAllWindows()
 
