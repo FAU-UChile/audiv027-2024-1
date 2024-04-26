@@ -76,7 +76,7 @@ Consideramos que los aprendizajes en relación a este trabajo se centran en tres
 
   ![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/98ae0301-fe9c-4d6d-a81c-27bd4cec1467)
 
-  Word2Vec suggestion tool (https://editor.p5js.org/AndreasRef/sketches/ylEz8k3V)
+  Word2Vec suggestion tool (https://editor.p5js.org/AndreasRef/sketches/ylEz8k3V) 
 
   ![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/7633faa3-0a84-4f5e-af19-f4bc15535de3)
 
