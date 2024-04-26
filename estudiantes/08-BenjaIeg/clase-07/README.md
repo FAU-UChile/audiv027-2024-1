@@ -12,10 +12,15 @@ Tipeo de teclas predeterminadas a travez del uso de inteligencia artificial para
 Teacheable Machine
 
 Python
+
 Librerias Necesarias para python
+
 -OpenCV
+
 -Keyboard
+
 -Numpy
+
 -Tensorflow
 
 Navegador
