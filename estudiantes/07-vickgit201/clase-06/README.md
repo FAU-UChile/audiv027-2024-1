@@ -14,7 +14,7 @@ fecha
 
 ## materiales
 
-este trabajo lo hice con los siguientes materiales:
+este trabajo lo hicimos con los siguientes materiales:
 
 - Teacheble Machine (https://teachablemachine.withgoogle.com/)
 
