@@ -34,7 +34,7 @@ a la accion de teclear botones determinados del Teclado.
 
 Nos encontramos con el material necesario en el cual se realiza aquellas acciones que describimos con una mayor cantidad de poses.
 
-Video  I made a full-body GAME controller](https://www.youtube.com/watch?v=Vi3Li3TkUVY) 
+[Video Youtube: I made a full-body GAME controller](https://www.youtube.com/watch?v=Vi3Li3TkUVY) 
 
 [Codigo abierto Full body game controler](https://github.com/everythingishacked/Gamebody)
 
