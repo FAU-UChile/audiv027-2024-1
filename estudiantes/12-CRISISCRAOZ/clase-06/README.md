@@ -1,3 +1,5 @@
+
+https://github.com/CRISISCRAOZ/audiv027-2024-1/assets/163590948/7d1ac268-d5d4-4df7-a9bc-c6616f0698a3
 # clase-06
 
 ## entrega: Play FugazFace
@@ -44,6 +46,15 @@ el código está subido en esta misma carpeta
 
 ![WhatsApp Image 2024-04-23 at 18 16 54](https://github.com/CRISISCRAOZ/audiv027-2024-1/assets/163590948/cf6dabc6-8b58-4cf1-b6da-b670d252230d)
 
+![WhatsApp Image 2024-04-25 at 00 08 49](https://github.com/CRISISCRAOZ/audiv027-2024-1/assets/163590948/e9571a7c-94e8-4de7-a551-6689999cd406)
+
+![WhatsApp Image 2024-04-25 at 00 08 52 (1)](https://github.com/CRISISCRAOZ/audiv027-2024-1/assets/163590948/1229fa2c-2b8b-4f21-99a5-294690e3f21f)
+
+https://github.com/CRISISCRAOZ/audiv027-2024-1/assets/163590948/d2e25276-c011-442f-af00-3642078c83f1
+
+https://github.com/CRISISCRAOZ/audiv027-2024-1/assets/163590948/649dbaef-fd59-4e07-87c3-0e85c6b69b00
+
+https://github.com/CRISISCRAOZ/audiv027-2024-1/assets/163590948/02db16ce-4ce9-4108-bd03-b10808b10340
 
 ## conclusiones
 
@@ -54,3 +65,4 @@ en este trabajo aprendímos como vincular dos códigos a través de wikinator pa
 - <https://github.com/>
 - <https://github.com/>
 - <https://github.com/>
+- 
