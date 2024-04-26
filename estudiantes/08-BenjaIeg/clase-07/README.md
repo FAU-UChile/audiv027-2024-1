@@ -41,7 +41,11 @@ Y por ultimo la posicion de puño, en donde nuestro esqueleto esta tiene uno de 
 
 ![](https://github.com/BenjaIeg/audiv027-2024-1/blob/main/estudiantes/08-BenjaIeg/clase-07/IMAGENES/GOLPE.png)
 
+A continuacion es el modelo entrenado en clases, de las posiciones y disponibilidad para su descarga.
+
 https://teachablemachine.withgoogle.com/models/4hGtLV8sq/
+
+El resultado de la descarga tambien se encuentra disponible en este repositorio con el nombre de "model_unquant.tflite"
 
 ### Python
 
@@ -54,10 +58,19 @@ Nos encontramos con el material similar en la cual se realiza aquellas acciones 
 
 [Codigo abierto Full body game controler](https://github.com/everythingishacked/Gamebody)
 
-Uno de los problemas que tenemos con el uso de este codigos es el gran numero de lineas que este necesita utilizar, junto con la cantidad de archivos, peso y potencia que necesita el computador personal para su funcionamiento
-El codigo que se nos presenta no solo analizaba el esqueleto y las coordenadas de nuestro esqueleto si no que tambien mandaba las coordenadas de multiples posiciones de las diferentes opciones de modelos los cuales se entrenaron para dicho proyecto
+Uno de los problemas que tenemos con el uso de este codigos es el gran numero de lineas que este necesita utilizar, junto con la cantidad de archivos, peso y potencia que necesita el computador personal para su funcionamiento.
+El codigo que se nos presenta no solo analizaba el esqueleto y las coordenadas de nuestro esqueleto si no que tambien mandaba las coordenadas de multiples posiciones de las diferentes opciones de modelos los cuales se entrenaron para dicho proyecto.
 
 En el presente trabajo mandaremos a python para cargar los 3 modelos entrenados anteriormente;"puño", "patada" y "parado-ninguno". Y le pediremos que compare el esqueleto mostrado en nuestra webcam y que el mismo tensorflow reconozca y decida cual es la posicion mas cercana a la que se esta realizando en la WEBCAM. 
+
+Para la correcta ejecucion se necesitan las siguientes librerias de lenguaje para python
+**cv2** el cual es una libreria que nos permite trabajar con a visualizacion, manipulacion y filtrado de imagenes en python.
+
+**keyboard** lenguaje para recopilar las respuestas del teclado de nuestro computador.
+
+**Numpy** Soporte para la creacion de vectores y matices en python, se especializa en el calculo numerico y calculo de datos.
+
+**Tensorflow** permite la implementacion de aprendizaje automatico como lo es el archivo entregado por Teacheable Machine.
 
 #### Nuestro Codigo 
 
