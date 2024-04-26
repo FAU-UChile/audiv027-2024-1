@@ -7,11 +7,16 @@ Integrantes: <https://github.com/chicomaker> y <https://github.com/Juanitaliano>
 
 Tipeo de teclas predeterminadas a travez del uso de inteligencia artificial para reconocer poses y asociarlos a acciones.
 
-###Herramientas utilizadas.
+### Herramientas utilizadas.
 
 Teacheable Machine
 
 Python
+Librerias Necesarias para python
+-OpenCV
+-Keyboard
+-Numpy
+-Tensorflow
 
 Navegador
 
