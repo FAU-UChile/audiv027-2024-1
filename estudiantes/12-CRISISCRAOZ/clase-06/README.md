@@ -42,7 +42,8 @@ el código está subido en esta misma carpeta
 
 ## capturas de pantalla
 
-u otro material multimedia
+![WhatsApp Image 2024-04-23 at 18 16 54](https://github.com/CRISISCRAOZ/audiv027-2024-1/assets/163590948/cf6dabc6-8b58-4cf1-b6da-b670d252230d)
+
 
 ## conclusiones
 
