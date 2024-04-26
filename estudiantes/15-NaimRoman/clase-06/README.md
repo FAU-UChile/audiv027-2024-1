@@ -1,6 +1,6 @@
 # clase-06
 
-## entrega: título
+## entrega: Anotaciones y sonidos dependiendo de la gestualidad
 
 integrantes Naim Roman
 
@@ -8,20 +8,13 @@ fecha 19/04/20024
 
 ## materiales
 
-este trabajo lo hice con los siguientes materiales:
-
-- p5.js en su versión x.y.z disponible en la web...
-- Markdown para escribir la documentación de este archivo
-- la base de datos en ...
-- Wekinator escrito por X y disponible en
-- Navegador Mozilla Firefox en su versión x.y.z
-- Micrófono, webcam?
+- El trabajo lo realice con Teachable machine de google, p5.js en su version 0.9.0 disponible en su web, markdownpara este archivo, En el navegador Microsoft Edge en su Versión 124.0.2478.51 (Compilación oficial) (64 bits), y una webcam.
 
 ## código
 
-el código está subido en esta misma carpeta, y en el editor de p5.js, etc.
+El codigo se encuentra en [este enlace](https://editor.p5js.org/NaimRoman/sketches/spMJCoeEM)
 
-## capturas de pantalla
+## Proceso de investigación y capturas de pantalla
 Simple object animation (5 continuous control parameters)
 Processing source code http://www.doc.gold.ac.uk/~mas01rf/WekinatorDownloads/wekinator_examples/all_source_zips/Processing_SimpleObjectAnimation_5Continuous.zip
 ![1](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-06/Captura%20de%20pantalla%20(1).png)
@@ -59,12 +52,19 @@ No me convence el nivel del modelo.
 
 Decidiré bien que hacer y lo haré en mi casa cuando me sienta mejor.
 
+- Tras un largo proceso de pruebas decidiendo mi proyecto, decidí realizar un trabajo basado en un [Video](https://www.youtube.com/watch?v=9z9mbiOZqSs&t=461s) de "The coding Train" con varias modificaciones.
+
+A continuación dejare algunos de los registros fotograficos del proyecto final, pero hasta llegar a este ultimo y decisivo proyecto pasé por varios intentos en otros proyectos de los cuales le dejo el registro [aqui](https://github.com/NaimRoman/audiv027-2024-1/tree/main/estudiantes/15-NaimRoman/clase-06)
+
+Aqui se me puede ver creando el modelo en Teachable Machine y probandolo ya en p5.js
+![9](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-06/Captura%20de%20pantalla%20(37).png)
+
+![10](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-06/Captura%20de%20pantalla%20(35).png)
+
 ## conclusiones
 
-en este trabajo aprendí ETC
+en este trabajo aprendí a leer y entender muchodel codigo en p5.js y me di cuenta de que está muy simplificado para que gente como yo sin experiencia en codigo pueda entenderlo. Tambien aprendi a usar la mayoria de posibilidades que ofrece Teachable Machine.
 
 ## citas y referentes
-
-- <https://github.com/>
-- <https://github.com/>
-- <https://github.com/>
+[The coding train](https://www.youtube.com/watch?v=9z9mbiOZqSs&t=461s)
+[Codigo en linea](https://editor.p5js.org/jeremycricchus@gmail.com/sketches/QXyTvVePV)
