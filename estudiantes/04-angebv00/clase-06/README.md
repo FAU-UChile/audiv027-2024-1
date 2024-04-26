@@ -105,3 +105,6 @@ Pudimos aplicar lo que se trabajó en clases para el trabajo, específicamente e
 
 - Wekinator 
 [https://www.youtube.com/watch?v=NKyyBAKrQgE]
+
+- chat gpt
+  [https://chat.openai.com/]
