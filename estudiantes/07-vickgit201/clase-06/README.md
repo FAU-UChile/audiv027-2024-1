@@ -54,9 +54,21 @@ Style.css:
 
 - ![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/6dddb000-7a40-4377-a4c2-cf1bf100bb5f)
 
+- ![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/9f059ce5-7563-46e7-b8f0-d8c3675649c4)
+
+- ![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/c0950872-eebc-4039-83ad-044847d6945c)
+
+- ![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/02690332-cddb-485e-81fa-ec3ecd63a814)
+
 ## conclusiones
   
-En este trabajo se aprendio a...
+Consideramos que los aprendizajes en relación a este trabajo se centran en tres grandes ejes:
+
+- La relevancia de proyectos que permitan y promuevan la accesibilidad universal.
+
+- La importancia del conociemiento para poder apoyar, transformar y mejorar procesos y realidades, como en este caso el paradigma capacitista.
+
+- Nuevamente entender que existen reglas básicas implícitas para poder programar y trabajar con código (como el orden, escribir lo que se está haciendo paso a paso, la forma de citar y basasrse en trabajos de otras personas) que nos permiten seguir desarrollando 
 
 ## citas y referentes
 
