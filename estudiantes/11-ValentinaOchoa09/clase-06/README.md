@@ -20,7 +20,7 @@ Este trabajo lo realizamos con lo siguiente:
 - Programa llamado Wekinator.
 
 ## ¿Cómo iniciamos este proyecto?
-En la clase del (insertar fecha), terminamos un poco antes de lo habitual, por lo que el docente nos recomendó comenzar a investigar sobre ideas para nuestra primera evaluación, que vendría siendo esta. Con mi compañera Natalie estuvimos conversando y le interesaba mucho hacer algo relacionado a colores, con lo cual teníamos una base para buscar antecedentes. En nuestra búsqueda, encontramos algunas animaciones llamadas ''Magic Fluids'' y ''Colorful Gradient Abstract Liquid'', que dejaremos a continuación:
+En la clase del 5 de abril, terminamos un poco antes de lo habitual, por lo que el docente nos recomendó comenzar a investigar sobre ideas para nuestra primera evaluación, que vendría siendo esta. Con mi compañera Natalie estuvimos conversando y le interesaba mucho hacer algo relacionado a colores, con lo cual teníamos una base para buscar antecedentes. En nuestra búsqueda, encontramos algunas animaciones llamadas ''Magic Fluids'' y ''Colorful Gradient Abstract Liquid'', que dejaremos a continuación:
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/220e76b6-0281-4b82-acdb-98390e46bd63)
 
