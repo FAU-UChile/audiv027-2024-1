@@ -171,6 +171,8 @@ Al mantener el puño y brazo extendido, el codigo entendera que esa accion es ta
 
 Mientras que con la pierna levantada, el codigo enviara la orden de teclar la tecla *x*
 
+![](https://github.com/BenjaIeg/audiv027-2024-1/blob/main/estudiantes/08-BenjaIeg/clase-07/VideoPrueba.mp4)
+
 El modelo entrenado contempla una tercera pose la cual es una neutral en donde uno solo esta parado, esta pose sirve como medida para hacer entender al programa de que no queremos mandar ni una orden, pues sin la existencia de ese modelo, el programa intentaria describir la pose de "parado" como una de las 2 poses y por consecuencia, la orden asociada a esas teclas.
 ## Conclusiones
 
