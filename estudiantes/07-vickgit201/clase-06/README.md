@@ -65,6 +65,3 @@ Específicamente:
 
   ![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/17b2b0f4-ec45-4ceb-9084-c2fc0fbfe26a)
 
-- <https://github.com/>
-- <https://github.com/>
-- <https://github.com/>
