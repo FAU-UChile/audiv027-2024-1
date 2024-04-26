@@ -17,7 +17,7 @@ fecha
 este trabajo lo hicimos con los siguientes materiales:
 
 - ml5js examples https://ml5-fellowship-2020.github.io/examples/
-- p5.js en su versión x.y.z disponible en la web (https://editor.p5js.org/)
+- p5.js en su versión 2.12.7 versión web (https://editor.p5js.org/)
 - Markdown para escribir la documentación de este archivo
 - la base de datos se elaboró en Teacheble Machine (https://teachablemachine.withgoogle.com/)
 - Micrófono de WebCam y computador
