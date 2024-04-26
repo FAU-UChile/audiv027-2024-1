@@ -55,7 +55,7 @@ Style.css:
 - ![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/6dddb000-7a40-4377-a4c2-cf1bf100bb5f)
 
 ## conclusiones
-
+  
 En este trabajo se aprendio a...
 
 ## citas y referentes
