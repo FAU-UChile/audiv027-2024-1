@@ -1,6 +1,6 @@
 # Clase 7: Entrega Proyecto
 
-## Control de gamepad-keyboard a travez de poses
+## Control de gamepad-keyboard a traves de poses
 
 Tipeo de teclas predeterminadas a travez del uso de inteligencia artificial para reconocer poses y asociarlos a acciones.
 
@@ -24,6 +24,8 @@ manos a la obra con la primera herramienta de reconocimiento de poses pre entren
 Las poses a realizar y diferenciar con el programa fueron, PATADA, PUÑO y NINGUNO (estado neutro)
 
 Modelo entrenado para diferenciar las poses:
+
+![]/IMAGENES/GOLPE.PNG
 
 https://teachablemachine.withgoogle.com/models/4hGtLV8sq/
 
