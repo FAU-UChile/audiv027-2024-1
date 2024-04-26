@@ -28,137 +28,24 @@ el código está subido en esta misma carpeta, y en el editor de p5.js
 
 Index:
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.1/p5.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.1/addons/p5.sound.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <meta charset="utf-8" />
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/f9e017dc-71d9-4f11-af7c-7fa863447d83)
 
-  </head>
-  <body>
-    <main>
-    </main>
-    <script src="sketch.js"></script>
-  </body>
-  <div>Teachable Machine Audio Model - p5.js and ml5.js</div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"></script>
-<script src="https://unpkg.com/ml5@latest/dist/ml5.min.js"></script>
-<script type="text/javascript">
+pinguino-waton.png:
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/d8e3e0f9-9218-4dc4-b1e4-a6477703e078)
 
 
 Sketch:
 
-// Modo actual (texto o imagen)
-let mode = 'text';
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/41e9f329-5d99-4315-a387-ea5afe936cb7)
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/7af83fc9-4cca-4e26-8a9e-8f422575bf40)
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/022ae6b4-94ca-4c69-8894-63b4fd8333ae)
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/0457225e-6771-4177-b65c-4c6bef086418)
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/67c2669e-0976-40a0-9589-b262de975f9b)
 
-// Imagen del pingüino
-let img;
+Style.css:
 
-// Global variable to store the classifier
-let classifier;
-
-// Label
-let label = 'PREPARENSE...';
-
-// Tiempo en milisegundos que la imagen se mostrará en pantalla (5 segundos)
-//const displayTime = 5000;
-
-// Indicador para controlar si se está reproduciendo la descripción
-let isSpeaking = false;
-
-// Teachable Machine model URL:
-let soundModel = 'https://teachablemachine.withgoogle.com/models/mTRZ6Yho7/';
-
-// Crear un objeto de síntesis de voz
-const synth = window.speechSynthesis;
-
-function preload() {
-  // Variable clasificadora de sonido desde teachable machine, con .json, sounModel es el url alojado en la web de clasificador de sonido
-  classifier = ml5.soundClassifier(soundModel + 'model.json');
-  // Load the image
-  img = loadImage("pinguino-waton.PNG");
-}
-
-function setup() {
-  createCanvas(320, 240);
-  // Start classifying
-  // The sound model will continuously listen to the microphone
-  classifier.classify(gotResult);
-}
-
-function draw() {
-  background(0);
-  // Dibujar en funcion del modo actual
-  if (mode === 'text') {
-    fill(255);
-    textSize(32);
-    textAlign(CENTER, CENTER);
-    text(label, width / 2, height / 2);
-  } else if (mode === 'image') {
-    image(img, 0, 0, width, height);
-  }
-}
-
-// The model recognizing a sound will trigger this event
-function gotResult(error, results) {
-  if (error) {
-    console.error(error);
-    return;
-  }
-  console.log(results[0]); // Muestra los resultados en la consola
-  // Actualiza la etiqueta solo si se detecta "Uno"
-  if (results[0].label === 'Imagen') {
-    // Leer el texto en voz alta
-    speakText('Se presenta una imagen de un pingüino rey exageradamente redondo, con un filtro amarillento cubriéndolo. Y con el texto, oh, ya no me des más gaseosa, estoy muy satisfecho, pero claramente escrito con más cantidad de improperios');
-    // Marcar que la frase precargada ha sido detectada
-    presentationDetected = true;
-  } else {
-    // Volver al modo de texto
-    mode = 'text';
-    // Las otras etiquetas se asignan directamente
-    label = results[0].label;
-  }
-}
-
-// Función para leer el texto en voz alta
-function speakText(text) {
-  let utterance = new SpeechSynthesisUtterance(text);
-  utterance.onstart = function() {
-    // Cuando comienza la lectura en voz alta, cambiar al modo de imagen
-    mode = 'image';
-    isSpeaking = true;
-  };
-  utterance.onend = function() {
-    // Cuando la lectura en voz alta haya terminado, volver al modo de texto
-    mode = 'text';
-    isSpeaking = false;
-};
-  synth.speak(utterance);
-}
-
- //La función draw() se llama automáticamente en p5.js
-function draw() {
-  background(0);
-   //Dibujar la imagen si se está reproduciendo la descripción
-  if (isSpeaking) {
-    image(img, 0, 0, width, height);
-  } else {
-     //Dibujar el texto si no se está reproduciendo la descripción
-    fill(255);
-    textSize(32);
-   textAlign(CENTER, CENTER);
-     //colocar el texto a la mitad del ancho y de alto
-   text(label, width / 2, height / 2);
- }
-}
-  if (label === 'Imagen') {
-    stopLoop = true;
-  }
-
-
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/e262e0a1-fe33-445e-a6a8-9e01042ed033)
 
 
 ## capturas de pantalla
