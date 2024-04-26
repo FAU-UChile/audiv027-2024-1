@@ -42,6 +42,10 @@ el código está subido en esta misma carpeta
 
 ## capturas de pantalla
 
+![Captura de pantalla 2024-04-25 215112](https://github.com/CRISISCRAOZ/audiv027-2024-1/assets/163590948/bb948602-9bde-4de1-a298-5d8a59fa8d4e)
+
+![WhatsApp Image 2024-04-25 at 21 52 16](https://github.com/CRISISCRAOZ/audiv027-2024-1/assets/163590948/5d3dd15e-e28c-4683-8982-b6e2d220821e)
+
 ![WhatsApp Image 2024-04-23 at 18 16 54](https://github.com/CRISISCRAOZ/audiv027-2024-1/assets/163590948/cf6dabc6-8b58-4cf1-b6da-b670d252230d)
 
 ![WhatsApp Image 2024-04-25 at 00 08 49](https://github.com/CRISISCRAOZ/audiv027-2024-1/assets/163590948/e9571a7c-94e8-4de7-a551-6689999cd406)
@@ -56,11 +60,11 @@ https://github.com/CRISISCRAOZ/audiv027-2024-1/assets/163590948/02db16ce-4ce9-41
 
 ## conclusiones
 
-en este trabajo aprendímos como vincular dos códigos a través de wikinator para hacerlos funcionar en processing de una partícula según el movimiento de una cabeza
+en este trabajo aprendímos como vincular dos códigos a través de wikinator para hacerlos funcionar en processing, esto es una partícula que se mueve gracias al reconocimiento e interaccion con una cabeza
 
 ## citas y referentes
 
-- <https://github.com/>
-- <https://github.com/>
+- <https://github.com/disenoUChile/audiv027-2024-1>
+- <(https://processing.org/)>
 - <https://github.com/>
 - 
