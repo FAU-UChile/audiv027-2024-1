@@ -61,6 +61,8 @@ Aqui se me puede ver creando el modelo en Teachable Machine y probandolo ya en p
 
 ![10](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-06/Captura%20de%20pantalla%20(35).png)
 
+![11](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-06/Captura%20de%20pantalla%20(38).png)
+
 ## conclusiones
 
 en este trabajo aprendí a leer y entender muchodel codigo en p5.js y me di cuenta de que está muy simplificado para que gente como yo sin experiencia en codigo pueda entenderlo. Tambien aprendi a usar la mayoria de posibilidades que ofrece Teachable Machine.
