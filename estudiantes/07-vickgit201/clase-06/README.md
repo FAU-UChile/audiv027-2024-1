@@ -20,7 +20,7 @@ este trabajo lo hicimos con los siguientes materiales:
 - p5.js en su versión x.y.z disponible en la web (https://editor.p5js.org/)
 - Markdown para escribir la documentación de este archivo
 - la base de datos se elaboró en Teacheble Machine (https://teachablemachine.withgoogle.com/)
-- Micrófono de WebCam y compuatdor
+- Micrófono de WebCam y computador
 
 ## código
 
@@ -68,7 +68,7 @@ Consideramos que los aprendizajes en relación a este trabajo se centran en tres
 
 - La importancia del conociemiento para poder apoyar, transformar y mejorar procesos y realidades, como en este caso el paradigma capacitista.
 
-- Nuevamente entender que existen reglas básicas implícitas para poder programar y trabajar con código (como el orden, escribir lo que se está haciendo paso a paso, la forma de citar y basasrse en trabajos de otras personas) que nos permiten aprender y desarollar de manera más tranquila y clara.
+- Nuevamente entender que existen reglas básicas implícitas para poder programar y trabajar con código (como el orden, escribir lo que se está haciendo paso a paso, la forma de citar y basarse en trabajos de otras personas) que nos permiten aprender y desarollar de manera más tranquila y clara.
 
 ## citas y referentes
 
