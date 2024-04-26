@@ -64,6 +64,7 @@ El codigo que se nos presenta no solo analizaba el esqueleto y las coordenadas d
 En el presente trabajo mandaremos a python para cargar los 3 modelos entrenados anteriormente;"puño", "patada" y "parado-ninguno". Y le pediremos que compare el esqueleto mostrado en nuestra webcam y que el mismo tensorflow reconozca y decida cual es la posicion mas cercana a la que se esta realizando en la WEBCAM. 
 
 Para la correcta ejecucion se necesitan las siguientes librerias de lenguaje para python
+
 **cv2** el cual es una libreria que nos permite trabajar con a visualizacion, manipulacion y filtrado de imagenes en python.
 
 **keyboard** lenguaje para recopilar las respuestas del teclado de nuestro computador.
