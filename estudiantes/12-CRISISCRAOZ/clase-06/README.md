@@ -1,5 +1,3 @@
-
-https://github.com/CRISISCRAOZ/audiv027-2024-1/assets/163590948/7d1ac268-d5d4-4df7-a9bc-c6616f0698a3
 # clase-06
 
 ## entrega: Play FugazFace
