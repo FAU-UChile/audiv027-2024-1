@@ -67,4 +67,5 @@ en este trabajo aprendímos como vincular dos códigos a través de wikinator pa
 - <https://github.com/disenoUChile/audiv027-2024-1>
 - <https://processing.org/>
 - <http://www.wekinator.org/examples/>
+- <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
 
