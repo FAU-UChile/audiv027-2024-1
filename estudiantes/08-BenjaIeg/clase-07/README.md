@@ -188,6 +188,18 @@ Mientras que con la pierna levantada, el codigo enviara la orden de teclar la te
 ![](https://github.com/BenjaIeg/audiv027-2024-1/blob/main/estudiantes/08-BenjaIeg/clase-07/IMAGENES/tecleox.png)
 
 El modelo entrenado contempla una tercera pose la cual es una neutral en donde uno solo esta parado, esta pose sirve como medida para hacer entender al programa de que no queremos mandar ni una orden, pues sin la existencia de ese modelo, el programa intentaria describir la pose de "parado" como una de las 2 poses y por consecuencia, la orden asociada a esas teclas.
+
+Uno de los objetivos de utilizar la transcripcion de poses a teclas era tambien para realizar la conexion entre las poses y los controles para videojuegos.
+
+El primer juego a probar fue street fighter, juego el cual solo se pudo utilizar movimientos especificos asociados a 2 teclas debido a la configuracion del codigo.
+
+https://playclassic.games/games/fighting-dos-games-online/play-super-street-fighter-ii-turbo-online/play/
+
+El pong es el juego mas compatible con este comando, pues el el codigo cuenta con 2 teclas, las cuales son las necesarioas para jugar.
+
+https://freepong.org/
+
+
 ## Conclusiones
 
 Mientras que Aun existen modelos de Machine learning con enfoque en los gestos disponibles, aquellos que estan abiertos al publico como Teacheable Machine
@@ -200,6 +212,12 @@ En este trabajo aprendi sobre el uso de python y sobre todo asociado a las accio
 Tambien aprendimos a aplicar modelos de aprendizaje automatico, en este caso aquellos modelos que teacheable machine nos entrego, y ponerlos en practica en un codigo, es decir
 que el codigo y programa deben ser capaz de identificar que se les entrega un modelo de _Tensorflow Lite_, y diferenciar cada gesto el cual se le entrego, para asociarlos y compararlos con los datos que la webcam esta enviando
 y **reconocer** que "pose" entrenada se esta realizando.
+
+### Referentes utilizados
+
+[Video Youtube: I made a full-body GAME controller](https://www.youtube.com/watch?v=Vi3Li3TkUVY) 
+
+[Codigo abierto Full body game controler](https://github.com/everythingishacked/Gamebody)
 
 
 
