@@ -3,7 +3,7 @@
 ## Control de gamepad-keyboard a traves de poses
 
 Fecha: Viernes 26 de abril de 2024
-Integrantes: <https://github.com/chicomaker> y <https://github.com/juanitalino>
+Integrantes: <https://github.com/chicomaker> y <https://github.com/Juanitaliano>
 
 Tipeo de teclas predeterminadas a travez del uso de inteligencia artificial para reconocer poses y asociarlos a acciones.
 
