@@ -496,7 +496,8 @@ Video entrenando el Wekinator: https://youtu.be/4g4l8J5oT-E
 
 ## Conclusiones:
 
-...
+Nos pareció muy interesante trabajar con Processing y Wekinator. Si bien no logramos llevar a cabo un output como lo deseábamos, ya que nuestra idea era entrenar para que cuando una metaball estuviera en la parte superior del lienzo, apareciera otra partícula sin necesidad del mouse, no obstante, no encontramos referentes para concretarlo. A pesar de esto, si aprendimos a usar, aunque sea con lo básico, dichos programas. Además, nos gustó el resultado obtenido.
+Llegamos a la conclusión de que la programación tiene un área muy grande para abarcar, ya sea en el diseño, el arte generativo, la música y además, la inteligencia artificial. Sin embargo, sentimos que es complicado hacer un proyecto por nuestra cuenta desde cero, dependiendo netamente de alguien que te enseñe a utilizarlo, como es el caso del docente o de informáticos. Creemos que sería una buena idea mejorar las interfaces de los softwares relacionados al desarrollo de códigos, de una manera que sea más didáctica y accesible para los estudiantes que están iniciando en este campo. Con esto no nos referimos únicamente a los programas utilizados, sino también a otros como Touch Designer o Arduino.
 
 ## Citas y referentes: 
 
