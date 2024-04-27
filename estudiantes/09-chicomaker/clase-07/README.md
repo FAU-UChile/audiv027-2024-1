@@ -1,0 +1,1 @@
+ Mi equipo de trabajo es <https://github.com/BenjaIeg> y <<https://github.com/Juanitaliano>>, entregamos en el repositorio en https://github.com/disenoUChile/audiv027-2024-1/tree/main/estudiantes/08-BenjaIeg/clase-07
