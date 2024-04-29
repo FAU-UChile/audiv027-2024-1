@@ -1,6 +1,6 @@
 # clase-06
 
-## entrega: título
+## Entrega proyecto detector de mouse izquierda/derecha con respuesta auditiva.
 
 integrantes
 Benjamín Alarcón Vidal
@@ -25,18 +25,14 @@ este trabajo lo hice con los siguientes materiales:
 
 el código está subido en esta misma carpeta, y en el editor de p5.js, etc.
 
-## capturas de pantalla
-
-u otro material multimedia
-
-Proceso de Errores y soluciónes:
+## Proceso de Errores y soluciónes:
 
 Al momento de probar el funcionamiento de el código de sonido, el código no logra detectar 2 "voidSetup()" y por consecuencia no funciona: 
 
 No detecta los archivos de sonido, debido a su formato (que arreglamos conviertiendo los archivos de mp3 a vaw)
 ![imagen](https://github.com/GrimmUChile/audiv027-2024-1/assets/163590997/209b934a-55dd-49e9-a95b-c3ce96fb4359)
 
-Luego de analizar el código y buscar soluciones, logramos hacer que el código funcionará, pero no detecta izquierda o derecha con lo cual reproduce los 2 sonidos a la vez.
+Luego de analizar el código y buscar soluciones, logramos hacer que el código funcionará, pero no nos detectaba izquierda o derecha con lo cual reproduce los 2 sonidos a la vez.
 ![imagen](https://github.com/GrimmUChile/audiv027-2024-1/assets/163590997/f82f6594-d6e5-4537-9333-a52bca96d16d)
 (Video del problema en la carpeta)
 
@@ -49,9 +45,8 @@ Aun así seguimos y dimos con una página web que habla del control de sonido de
 Nuestro siguiente paso a seguir es probar editar el código de acuerdo a lo que aprendimos de esta página web y ver si funciona. 
 
 ## conclusiones
-- Aprendimos a conectar distintos processings en un mismo wekinator gracias al OSC IN y el OSC OUT. 
-- Encontramos distintos tipos de biblioteca para las mismas caracteristicas(filesound y minim).
-- Prueba y error.
+
+En conclusión podemos decir que logramos aprender más sobre Wekinator, y su OSC In y OSC Out. Donde pudimos utilizar un Processing de entrada y uno de salida, para nuestro proyecto. Además logramos aprender a investigar y comprender el código, también como los errores que nos marcaban y cómo solucionarlos. También aprendimos que pueden existir distintos tipos de bibliotecas para los mismos temas (como Sound y Minim para audio) y eso significa que tienen distintas formas de programar en código. Por último y lo que encontramos más importante es: prueba y error. Como demostramos en nuestro proceso, tuvimos muchísimos problemas para que el código funcionará, desde problemas con exportaciones, bibliotecas faltantes, bibliotecas no compatibles con el código. Errores de duplicaciones de "setup", etc. Y aunque no logramos terminar el proyecto como esperábamos. Terminamos investigando y aprendiendo cómo hacerlo. Pero no logramos implementarlo para la entrega. Pero al menos sabemos como arreglarlo. Estamos bastante orgullosos de nuestro proyecto y de lo que logramos entregar. 
 
 ## citas y referentes
 
