@@ -16,11 +16,17 @@ Link: https://component.gallery/
 
 - Actualmente no se utiliza el término ''var'', sino ''let''.
 
-- Gran parte de realizar una página web es programar eventos asincronos. 
+- Gran parte de realizar una página web es programar eventos asincronos.
 
+- MediaPipe: Realizado por Google. Ofrece soluciones para aplicaciones en distintas plataformas.
+  
 # **Primera parte:**
 1. Dirigirse al Github de Clmtrackr: https://github.com/auduno/clmtrackr
    
 2. Usar el ejemplo de ''Tracking in Image''. Probar con imágenes si la inteligencia artificial puede detectar las caras.
 
-3. Probamos el segundo ejemplo ''Tracking in Video''. Éste permite que a través de la cámara
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/0ab453c5-bfaa-4fcc-b6a3-74dff58072ae)
+
+*probando con imagen de personaje de anime* 
+
+4. Probamos el segundo ejemplo ''Tracking in Video''. Éste permite que a través de la cámara
