@@ -66,9 +66,7 @@ INDEX.HTML
 
 - Esta linea hace que aparezca el botón
 
-<button id="webcamButton" disabled>
-    ENABLE WEBCAM
-  </button>
+https://github.com/TetsuakiBaba/p5MediaPipe/blob/82c2578aa1d5d406ba8639869654593a0cb19f28/object-detection/index.html#L29C3-L31C12
 
 ![image](https://github.com/sofiachaav/audiv027-2024-1/assets/129554344/7d88ec3e-927f-45c3-89fe-a44441ec446f)
 
