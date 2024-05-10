@@ -12,7 +12,11 @@ Link: https://component.gallery/
 
 - Entrar a una página web consiste en descargar archivos que corren en ese momento.
 
-- El software no vive en el vacío. Tiene un momento y contexto en el que fue hecho. 
+- El software no vive en el vacío. Tiene un momento y contexto en el que fue hecho.
+
+- Actualmente no se utiliza el término ''var'', sino ''let''.
+
+- Gran parte de realizar una página web es programar eventos asincronos. 
 
 # **Primera parte:**
 1. Dirigirse al Github de Clmtrackr: https://github.com/auduno/clmtrackr
