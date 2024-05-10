@@ -7,5 +7,6 @@
 - Clmtrackr https://github.com/auduno/clmtrackr
 - Mediapipe
 - Ml5
-- CMU https://www.cmu.edu/
+- CMU https://www.cmu.edu/ Golan Levin >> Lingdong Huang
+- Mediapipe p5
 
