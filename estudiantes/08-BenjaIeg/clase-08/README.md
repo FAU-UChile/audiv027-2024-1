@@ -117,3 +117,32 @@ function adjustCanvas() {
 }
 
 ```
+
+
+Otros links y conceptos revisados en clases.
+
+https://component.gallery/
+
+https://en.wikipedia.org/wiki/Computer_vision
+
+atlas ai kate crawford
+
+https://github.com/auduno/clmtrackr?tab=readme-ov-file
+
+https://es.wikipedia.org/wiki/Harvard_Mark_I
+
+https://developers.google.com/mediapipe
+
+https://coral.ai/
+
+https://guardianproject.info/
+
+https://lingdong.works/
+
+https://github.com/LingDong-
+
+https://www.media.mit.edu/people/lingdong/projects/
+
+golan levin
+
+https://www.pratt.edu/design/
