@@ -31,4 +31,6 @@ Link: https://component.gallery/
 
 *probando con imagen de personaje de anime* 
 
-4. Probamos el segundo ejemplo ''Tracking in Video''. Éste permite que a través de la cámara
+3. Revisamos el segundo ejemplo ''Tracking in Video''.
+
+4. Vimos diferentes ejemplos e
