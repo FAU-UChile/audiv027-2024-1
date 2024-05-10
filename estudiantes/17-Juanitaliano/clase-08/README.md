@@ -13,3 +13,11 @@ Estudio en el Pratt, una escuela de diseño.
 Lingdong Huang estudio en MIT, Hace arte con codigo.Impresionante persona(Investigar sus proyectos)
 
 
+Analisis de proyecto de mediapipe p5
+
+Clasficador de imagenes 
+mediante el uso de una webcam el programa analiza lo visto y lo clasifica en numeros de porcentaje.
+
+
+
+
