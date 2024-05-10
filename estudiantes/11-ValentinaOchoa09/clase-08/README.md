@@ -18,7 +18,7 @@ Link: https://component.gallery/
 
 - Gran parte de realizar una página web es programar eventos asincronos.
 
-- MediaPipe: Realizado por Google. Ofrece soluciones para aplicaciones en distintas plataformas.
+- MediaPipe: Realizado por Google. Ofrece soluciones para aplicaciones en distintas plataformas. Permite que la inteligencia artificial pase dentro de un dispositivo, no depende de un navegador. 
   
 # **Primera parte:**
 1. Dirigirse al Github de Clmtrackr: https://github.com/auduno/clmtrackr
