@@ -20,7 +20,7 @@ Antes era muy caro. Ahora la Inteligencia Artificial permite hacerlo mucho mas b
 
 ["On-device Machine learning for everyone"](https://developers.google.com/mediapipe)
 
--Es el motor con el que se programan muchisimas aplicaciones que se usan hoy en dia. Reconocimiento de imagenes, de letras, de voz,... Por ejemplo Google Lens, Youtube, meet, etc.
+- Es el motor con el que se programan muchisimas aplicaciones que se usan hoy en dia. Reconocimiento de imagenes, de letras, de voz,... Por ejemplo Google Lens, Youtube, meet, etc.
 
 [**MediaPipe p5**](https://github.com/TetsuakiBaba/p5MediaPipe) 
 
