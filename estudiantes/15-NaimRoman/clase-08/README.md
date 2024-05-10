@@ -22,7 +22,9 @@ Antes era muy caro. Ahora la Inteligencia Artificial permite hacerlo mucho mas b
 
 -Es el motor con el que se programan muchisimas aplicaciones que se usan hoy en dia. Reconocimiento de imagenes, de letras, de voz,... Por ejemplo Google Lens, Youtube, meet, etc.
 
-##Random
+[**MediaPipe p5**](https://github.com/TetsuakiBaba/p5MediaPipe) 
+
+## Random
 
 - Daniela Catrileo. Novelas y poesias Bellas. palabras, poesia, diseño grafico, inspiración.
 
@@ -31,3 +33,9 @@ Antes era muy caro. Ahora la Inteligencia Artificial permite hacerlo mucho mas b
 - Pagina Web para visitar, ["Component Gallery"](https://component.gallery/)
 
 - iA para pequeños dispositivos, de manera privada. [Google Coral](https://www.coral.ai/)
+
+- [Guardian Project](https://guardianproject.info/) crea Easy secure apps, open source, custom personal solutions gratis para todos.
+
+- [Signal](https://signal.org/es/#signal). Aplicacion de mensajeria open source muy privada.
+
+- [Lindong Huang](https://lingdong.works/). Creador de Arte con codigo. 
