@@ -24,7 +24,9 @@ Antes era muy caro. Ahora la Inteligencia Artificial permite hacerlo mucho mas b
 
 [**MediaPipe p5**](https://github.com/TetsuakiBaba/p5MediaPipe) 
 
-- Investigamos sobre el codigo de la Demo de "Gesture Recognition", por Tetsuaki Baba, el cual se enfoca en reconocimiento de gestos de manos. El resumen de la investigacion se encuentra en [este repositorio](https://github.com/GrimmUChile/audiv027-2024-1/blob/main/estudiantes/02-GrimmUChile/clase-08/README.md) de mi compañero.
+- Investigamos sobre el codigo de la Demo de ["Gesture Recognition"](https://tetsuakibaba.github.io/p5MediaPipe/hands-landmarker-gesture-recognition/), por Tetsuaki Baba, el cual se enfoca en reconocimiento de gestos hechos con las manos. El resumen de la investigacion se encuentra en [este repositorio](https://github.com/GrimmUChile/audiv027-2024-1/blob/main/estudiantes/02-GrimmUChile/clase-08/README.md) de mi compañero.
+
+![ImgInvestigacion]()
 
 ## Random
 
