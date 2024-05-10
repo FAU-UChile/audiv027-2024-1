@@ -2,10 +2,10 @@
 # **Apuntes clase:**
 - The Component Gallery: Componentes para diseño de sistemas.
 
-Link: (https://component.gallery/)
+Link: https://component.gallery/
 
 - Computer Vision: Campo de la inteligencia artificial que la vuelve capaz de ver y comprender. Permite hacer tracking, reconocimiento de objetos, poses de la persona, entre otras cosas.
-- 
+  
 - Clmtrackr: Biblioteca de código de Javascript con el que se puede identificar una cara.
 
 - El algoritmo de visión por computador busca puntos estables para identificar rostros.
