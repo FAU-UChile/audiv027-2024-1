@@ -22,8 +22,13 @@ Visualizacion de los 3 codigos a la vez https://codepen.io/mediapipe-preview/pen
 
 ImageNet: Es un banco de datos de miles de imagenes cargadas y entrenadas para el area de computer vision y deep learning.
 
+https://www.image-net.org/
+
 ![Captura de pantalla 2024-05-10 172259](https://github.com/BenjaIeg/audiv027-2024-1/assets/128185999/8a141be9-d2e1-4846-b33d-01f8d5639774)
 
+Tensorflow Lite
+
+Los modelos descargados tambien se descargan en tipo tensorflow lite.
 
 
 Codigo para la visualizacion en la web
