@@ -18,8 +18,9 @@ Analisis de proyecto de mediapipe p5
 Clasficador de imagenes 
 mediante el uso de una webcam el programa analiza lo visto y lo clasifica en numeros de porcentaje.
 
-Trabajando en conjunto con  en el enlace de
-https://github.com/disenoUChile/audiv027-2024-1/tree/main/estudiantes/08-BenjaIeg/clase-07
+Trabajando en conjunto con <https://github.com/BenjaIeg> en el enlace de
+https://github.com/disenoUChile/audiv027-2024-1/tree/main/estudiantes/08-BenjaIeg/clase-08
+
 
 
 
