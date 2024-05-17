@@ -1,3 +1,18 @@
+IDEA PARA MI EXAMEN
+
+HACER UNA EXPO DE ESCULTURAS CON IA
+HACER QUE UNA IA DIBUJE ESCULTURA QUE CONSIDERE ARTE, PEDIRLE QUE HAGA ESCULTURA QUE TRANSMITAN  Y EMOCIONES
+
+
+HACER QUE UNA IA TRANSFORME ESAS IMAGENES EN MODELOS 3D
+
+IMPRIMIR EN 3D ESOS MODELOS
+
+HACER UNA EXPOSICION QUE SEA UNA CRITICA A LA CONSTANTE "HUMANIDAD" QUE VAMOS PERDIENDO PRODUCTO DE LA TECNOLOGIA
+
+
+
+
 esta clase llegue tarde pero mi compañero @benjaieg me paso sus apuntes.
 
 llegue y estaban usando un modelo de ia que recibe la señal de la cmara y usando una foto de referncia deforma la imagen para que sea como la de imagen que le pusimos, me dio miedo
