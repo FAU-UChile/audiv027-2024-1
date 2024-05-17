@@ -120,7 +120,7 @@ Así mismo, probé con otras figuras, obteniendo como resultado que el relleno d
 
 ¿Y qué pasaba si hacía un intento de dibujo de un gato, para que se rellenara de otro gato? 
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/7b872b0e-6383-4f16-a056-e48de938e173)
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/35fc0931-ded0-467d-93fe-4a6dc7c0eda0)
 
 
 
