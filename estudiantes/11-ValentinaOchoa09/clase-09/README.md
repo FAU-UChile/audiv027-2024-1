@@ -92,22 +92,26 @@ Título: Edges 2 Cats
 
 Autor: Christopher Hesse
 
+Adaptación de pix2pix a TensorFlow 
+
 **¿Qué hace?**
 
 Transforma un dibujo creado por el usuario en un gato, dentro de una página web. En mi comprensión, lo que hace es rellenar el dibujo con una imagen de gato. 
 
 **¿Cómo lo hace?**
 
-A través de un almacenamiento de base de datos, en donde se entrena la inteligencia artificial (lo que se entiende como Deep Learning) para que reconozca ciertos estilos de dibujo y los asimile a un gato. Mantiene un formato que consta de imágenes de entrada y de salida. 
+A través de un almacenamiento de base de datos, en donde se entrena la inteligencia artificial (lo que se entiende como Deep Learning) para que reconozca ciertos estilos de dibujo y los asimile a un gato. Mantiene un formato que consta de imágenes de entrada y de salida. Está entrenado con alrededor de 2 mil fotografías de gatos, generando bordes de manera automática a partir de dichas fotografías. 
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/de92e23c-ea72-4eff-8a2e-7252bfcc047e)
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/9a498f3f-1e07-4a61-b9d4-aaf44921a05d)
 
-**Metodología:**
+**Materiales:**
 
-- Pix2pix:
-- Red adversarial generativa condicional (cGAN):
+- GAN: Red neuronal para generar imágenes sintéticas. 
+- Pix2pix: Coloca píxeles sobre píxeles. Construye ''fachadas'', generando imágenes de salida en base a la entrada que le llegue. 
+- Red adversarial generativa condicional (cGAN): GAN condicionada. Es decir, genera algo en base a datos que se le proporcionan específicamente. 
+- Tensorflow 1.4.1
 
 **Ejemplo:**
 
@@ -129,7 +133,11 @@ Este mismo ejemplo se aplica a otros elementos, como generar bolsos, edificios, 
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/20daec23-7067-429b-8ec2-295bfc4f1ed3)
 
+**Bibliografía:**
 
-
-
-
+1. https://www.tensorflow.org/tutorials/generative/pix2pix?hl=es-419
+2. https://affinelayer.com/pixsrv/
+3. https://affinelayer.com/pix2pix/
+4. https://affinelayer.com/pix2pix/
+5. https://github.com/affinelayer/pix2pix-tensorflow
+6. https://arxiv.org/abs/1611.07004
