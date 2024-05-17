@@ -62,6 +62,76 @@ https://sites.research.google/tonetransfer----- algoritmo para transferir audio 
 
 Investigacion Sobre algunos algoritmos de Ia.
 
+Nombre: Cartoonify
+
+
+qué hace
+
+Transforma imagenes en dibujos simples  o basicos.
+
+
+cómo lo hace: herramientas, lenguajes, máquinas, hardware, software
+
+impulsado por Draw This de Dan Macnish y el conjunto de datos Google QuickDraw 
+
+Su GitHub 
+https://github.com/danmacnish/cartoonify
+
+
+medio de entrada: audio, texto, imagen, video, gesto, etc
+
+imagen clara y un fondo unico o solido.
+
+medio de salida: audio, texto, imagen, video, gesto, etc
+
+Imagen con caricatrura de la primera imagen mandada.
+
+en qué contexto: móvil, web
+
+web
+
+quién hizo esto: persona, empresa, colectivo
+
+Fue un experimento lanzado por el equipo de Kapwing.
+
+cuándo lo hizo: año, mes
+
+ En julio de 2018.
+ 
+capturas de funcionamiento: imágenes, videos, gifs, audios
+
+
+![Captura de pantalla 2024-05-17 174809](https://github.com/Juanitaliano/audiv027-2024-1/assets/163590978/29157004-6bb1-4459-984c-52e505f791d0)
+
+
+![Captura de pantalla 2024-05-17 174841](https://github.com/Juanitaliano/audiv027-2024-1/assets/163590978/7a90c6a5-ad2a-4719-98b9-a3229afa1c0d)
+
+
+
+Nombre:Tiny Sorter
+
+Que hace
+
+Es un experimento de bricolaje. que mediante teable machine, arduino y trabajo manual se logra crear un mini robot que clasifica el cereal o el mallows.
+
+quién hizo esto: persona, empresa, colectivo
+
+Gente de google.
+Link de como hacer el proyecto: https://experiments.withgoogle.com/tiny-sorter/view/
+
+cuándo lo hizo
+
+noviembre del 2019.
+
+con que se hizo
+
+tensorflow.js , web cam , Arduino , Javascript
+
+imagenes de referencia
+
+![Captura de pantalla 2024-05-17 180141](https://github.com/Juanitaliano/audiv027-2024-1/assets/163590978/7c9c730e-ca79-4052-9662-e28831dc6a42)
+
+
 
 
 
