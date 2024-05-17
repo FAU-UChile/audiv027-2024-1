@@ -19,6 +19,8 @@
 - Pix2pix: Un pixel se convierte en otro pixel.
 
 - Google Creative Lab.
+
+- La computación no se enfoca únicamente en el mouse y el teclado, hay un campo de posibilidades creativas. 
   
 **Primera parte:**
 
