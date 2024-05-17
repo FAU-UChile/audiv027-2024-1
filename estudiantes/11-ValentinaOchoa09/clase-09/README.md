@@ -22,6 +22,8 @@
 
 - La computación no se enfoca únicamente en el mouse y el teclado, hay un campo de posibilidades creativas. 
 
+- T-sne: Permite crear una distribución de probabilidad que represente las similitudes de un elemento. 
+  
 **Artistas que me interesan de ML Art:** 
 
 Lulu xXX, Memo Akten, Seung Joon Choi, Mario Klingemann, Derrick Schultz. 
