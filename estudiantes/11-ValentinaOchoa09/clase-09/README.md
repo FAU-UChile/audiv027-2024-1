@@ -86,3 +86,26 @@ Lulu xXX, Memo Akten, Seung Joon Choi, Mario Klingemann, Derrick Schultz.
 
 *https://sites.research.google/tonetransfer*
 
+**Trabajo de investigación:**
+
+Autor: Christopher Hesse
+
+**¿Qué hace?**
+
+Transforma un dibujo creado por el usuario en un gato, dentro de una página web.
+
+**¿Cómo lo hace?**
+
+A través de un almacenamiento de base de datos, en donde se entrena la inteligencia artificial para que reconozca ciertos estilos de dibujo y los asimile a un gato. Mantiene un formato que consta de imágenes de entrada y de salida. 
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/de92e23c-ea72-4eff-8a2e-7252bfcc047e)
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/9a498f3f-1e07-4a61-b9d4-aaf44921a05d)
+
+**¿Qué utiliza?**
+
+- Pix2pix: Red adversarial generativa condicional (cGAN) para aprender un mapeo de una imagen de entrada a una imagen de salida.
+
+
+
+
