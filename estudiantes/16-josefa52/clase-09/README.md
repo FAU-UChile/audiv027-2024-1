@@ -42,5 +42,24 @@ Se puede copiar la url de otra imagen y pegarla aquí borrando las que ya están
 https://yotammann.info/
 
 <h5>Tone transfer</h5>
+https://sites.research.google/tonetransfer
 https://magenta.tensorflow.org/tone-transfer
 
+
+ <h2>Tarea de investigación</h2>
+ <h3>Neu: AR Copy Paste App Real and Virtual Objects</h3>
+Prototipo de investigación: https://arcopypaste.app/
+ 
+ https://github.com/cyrildiagne/ar-cutpaste
+ 
+ ![Captura de pantalla 2024-05-17 174511](https://github.com/josefa52/audiv027-2024-1/assets/163590856/929f0b3a-8378-4fa9-aab9-85b581475f46)
+
+- qué hace: AR Copy Paste es una aplicación que permite a los usuarios tomar fotografías de un objeto en el mundo real y luego el objeto se seleccionará para que no se mezcle con otros
+objetos, incluido el fondo. Luego, AR Copy Paste colocará el objeto seleccionado en una imagen en un programa de computadora de acuerdo con la acción de la cámara en el teléfono inteligente del usuario.
+- cómo lo hace: tecnología de código abierto para que la aplicación pueda funcionar de manera óptima, a saber, la detección de objetos salientes con reconocimiento de límites (BASNet), este permite que la aplicación detecte objetos y elimine fondos. En cuanto a la transformación de características invariantes de escala se usa (SIFT), que compara las coordenadas del teléfono con la pantalla de la computadora, para garantizar que los objetos se coloquen donde el usuario desea que estén..
+- medio de entrada: imagen
+- medio de salida: imagen
+- en qué contexto: aplicación móvil para Android e iOS 
+- quién hizo esto: Cyril Diagne, https://cyrildiagne.com/
+- cuándo lo hizo: 2020/04
+- capturas de funcionamiento: mediante captura de imágenes
