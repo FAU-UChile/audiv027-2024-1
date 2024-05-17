@@ -38,6 +38,12 @@ Ocupamos este algoritmo para cambiar nuestras caras por alguna imagen
 
 
 
+![Captura de pantalla 2024-05-17 163123](https://github.com/Juanitaliano/audiv027-2024-1/assets/163590978/83c3a8df-4f6c-4e09-a36e-07ffff0dcc55)
+
+
+
+
+![Captura de pantalla 2024-05-17 163132](https://github.com/Juanitaliano/audiv027-2024-1/assets/163590978/ab0dad32-7bfb-4868-8419-8b717edf5c87)
 
 
 
