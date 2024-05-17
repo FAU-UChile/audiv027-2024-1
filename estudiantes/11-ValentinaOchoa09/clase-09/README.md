@@ -104,9 +104,10 @@ A través de un almacenamiento de base de datos, en donde se entrena la intelige
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/9a498f3f-1e07-4a61-b9d4-aaf44921a05d)
 
-**¿Qué utiliza?**
+**Metodología:**
 
-- Pix2pix: Red adversarial generativa condicional (cGAN) para aprender un mapeo de una imagen de entrada a una imagen de salida.
+- Pix2pix:
+- Red adversarial generativa condicional (cGAN):
 
 **Ejemplo:**
 
@@ -122,8 +123,11 @@ Así mismo, probé con otras figuras, obteniendo como resultado que el relleno d
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/35fc0931-ded0-467d-93fe-4a6dc7c0eda0)
 
+¿Qué otras aplicaciones tiene?
 
+Este mismo ejemplo se aplica a otros elementos, como generar bolsos, edificios, mapas. En palabras de los autores Isola, Junyaz, Tinghyuiz & Efros (2016) ''Demostramos que este enfoque es eficaz para sintetizar fotografías a partir de mapas de etiquetas, reconstrucción de objetos a partir de mapas de bordes, y colorear imágenes, entre otras tareas'' (p. 1). 
 
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/20daec23-7067-429b-8ec2-295bfc4f1ed3)
 
 
 
