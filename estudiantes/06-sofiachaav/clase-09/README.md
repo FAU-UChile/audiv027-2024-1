@@ -82,10 +82,6 @@ contexto: web
 
 Michael Friesen crea imagenes al estilo del artista polaco Zdzisław Beksinski, a traves de herramientas como Big Sleep, CLIP y BigGAN. Enero 2021
 
-![image](https://github.com/sofiachaav/audiv027-2024-1/assets/129554344/a3004cef-8065-4b2f-9716-12ce589dd0ad)
-
-![image](https://github.com/sofiachaav/audiv027-2024-1/assets/129554344/000a2f52-dd76-41d1-b410-368ea0fdbb1b)
-
 ![image](https://github.com/sofiachaav/audiv027-2024-1/assets/129554344/d8670081-3494-4ea7-8f0f-7f3142b5863f)
 
 medio de entrada: imagen
