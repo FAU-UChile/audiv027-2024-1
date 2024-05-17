@@ -18,6 +18,8 @@
 
 - Pix2pix: Un pixel se convierte en otro pixel.
 
+- Google Creative Lab.
+  
 **Primera parte:**
 
 1. Visita a la página web ML Art:
@@ -38,4 +40,8 @@
 
 *https://www.memo.tv/*
 
-4. 
+4. Revisamos un trabajo del artista Eyal Gruss:
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/9bd1d968-e1e7-4d30-83f4-a25c3b37f568)
+
+*https://mlart.co/item/a-browser-based-app-to-animate-faces-with-your-camera-in-real-time_-created-with-a-google-colab-wrapper-for-first-order-motion*
