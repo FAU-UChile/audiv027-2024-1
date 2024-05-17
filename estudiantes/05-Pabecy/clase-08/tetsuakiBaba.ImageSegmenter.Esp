@@ -1,0 +1,73 @@
+let segmentation_results;
+let pg;
+function setup() {
+  pixelDensity(1);
+  let p5canvas = createCanvas(400, 400);
+  p5canvas.parent('#canvas');
+
+  // segmentation描画用のグラフィックキャンバス
+  pg = createGraphics(100, 100);
+
+  // Cuando se encuentra una coincidencia, se llama a la siguiente función. 
+// Resultados contiene los resultados de detección para cada píxel (255 para fondo, 0 para selfie).．
+  gotSegmentation = function (results) {
+    let video = document.querySelector('#webcam');
+
+    // Cambie el tamaño del lienzo para que coincida con el tamaño del video cargado
+    pg.resizeCanvas(video.videoWidth, video.videoHeight);
+
+    if (pg) {
+      // Borre el contenido del dibujo de la página una vez
+      pg.clear();
+
+      // Cargue valores de píxeles en pg.pixels
+      pg.loadPixels();
+
+      // Reescribir valores de píxeles
+      let j = 0;
+      for (let i = 0; i < results.length; i++) {
+
+        if (results[i] == 255) { //background
+          pg.pixels[j + 0] = 0;
+          pg.pixels[j + 1] = 0;
+          pg.pixels[j + 2] = 0;
+          pg.pixels[j + 3] = 220;
+        }
+        else { // selfie( results == 0)
+          pg.pixels[j + 0] = 0;
+          pg.pixels[j + 1] = 0;
+          pg.pixels[j + 2] = 0;
+          pg.pixels[j + 3] = 0;
+
+        }
+        j += 4;
+
+      }
+
+      // Reflejar el valor del píxel
+      pg.updatePixels();
+    }
+    adjustCanvas();
+  }
+}
+
+function draw() {
+  //Procesamiento de dibujos
+  clear();  // Si no incluye esto, no podrá ver el vídeo en la capa inferior.
+
+  // Si la página está disponible, dibújala. 
+// pg contiene una imagen que indica la segmentación de la imagen. Se actualiza con gotSegmentation().
+  if (pg) {
+    image(pg, 0, 0, width, height);
+  }
+}
+
+function windowResized() {
+  adjustCanvas();
+}
+
+function adjustCanvas() {
+  // Get an element by its ID
+  var element_webcam = document.getElementById('webcam');
+  resizeCanvas(element_webcam.clientWidth, element_webcam.clientHeight);
+}
