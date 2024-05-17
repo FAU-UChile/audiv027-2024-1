@@ -1,4 +1,4 @@
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/8423bb2c-2bee-493d-95ca-cc94bc96d2ed)# Clase 17 de mayo: 
+# Clase 17 de mayo
 
 **Apuntes:**
 
