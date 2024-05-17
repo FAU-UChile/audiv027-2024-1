@@ -63,3 +63,6 @@ objetos, incluido el fondo. Luego, AR Copy Paste colocará el objeto seleccionad
 - quién hizo esto: Cyril Diagne, https://cyrildiagne.com/
 - cuándo lo hizo: 2020/04
 - capturas de funcionamiento: mediante captura de imágenes
+
+ <h3>Un libro del cielo</h3>
+https://genekogan.com/works/a-book-from-the-sky/
