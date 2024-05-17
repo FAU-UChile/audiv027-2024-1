@@ -55,7 +55,9 @@ Proyectos de mlart que me llamaron la atencion.
 
 - A collection of open source, interactive web experiments that use PoseNet to create a relationship between movement and machine. [Here](https://mlart.co/item/a-collection-of-open-source_-interactive-web-experiments-that-use-posenet-to-create-a-relationship-between-movement-and-machine)
 
-- 
+- [yotammann](https://yotammann.info/): "[Echo](https://yotammann.info/echo) is a musical puzzle game that I made with my musician/programmer friend Chris Deaner."
+
+  ![image](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-09/Sin%20t%C3%ADtulo2.jpg)
 
 
 ### Random
@@ -63,5 +65,7 @@ Proyectos de mlart que me llamaron la atencion.
 - Para crear [gifs](https://giphy.com/create/gifmaker)
 
 - ¿Que es [pix2pix](https://www.tensorflow.org/tutorials/generative/pix2pix?hl=es-419)?
+
+- <https://yotammann.info/>
 
 - 
