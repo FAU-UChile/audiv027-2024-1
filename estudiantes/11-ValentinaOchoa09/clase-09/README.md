@@ -98,7 +98,7 @@ Transforma un dibujo creado por el usuario en un gato, dentro de una página web
 
 **¿Cómo lo hace?**
 
-A través de un almacenamiento de base de datos, en donde se entrena la inteligencia artificial para que reconozca ciertos estilos de dibujo y los asimile a un gato. Mantiene un formato que consta de imágenes de entrada y de salida. 
+A través de un almacenamiento de base de datos, en donde se entrena la inteligencia artificial (lo que se entiende como Deep Learning) para que reconozca ciertos estilos de dibujo y los asimile a un gato. Mantiene un formato que consta de imágenes de entrada y de salida. 
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/de92e23c-ea72-4eff-8a2e-7252bfcc047e)
 
