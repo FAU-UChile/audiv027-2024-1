@@ -45,3 +45,8 @@
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/9bd1d968-e1e7-4d30-83f4-a25c3b37f568)
 
 *https://mlart.co/item/a-browser-based-app-to-animate-faces-with-your-camera-in-real-time_-created-with-a-google-colab-wrapper-for-first-order-motion*
+
+5. Probamos el ejemplo con nuestra cámara:
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/63dd6806-494e-417c-9cee-d418d969816e)
+
