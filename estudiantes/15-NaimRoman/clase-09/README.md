@@ -1,6 +1,6 @@
 # iA en aplicaciones web 2
 
-## mlart
+## MLART
 
 <https://mlart.co/>
 
@@ -25,9 +25,25 @@ Es comodo ya que no hacen falta grandes cantidades de datos, con una imagen bast
 
 ### Avatar4all
 
-A browser-based app to animate faces with your camera in real-time, created with a Google Colab wrapper for First Order Motion. [Aquí](https://github.com/eyaler/avatars4all).
+A browser-based app to animate faces with your camera in real-time, created with a Google Colab wrapper for First Order Motion. 
+
+[Link github](https://github.com/eyaler/avatars4all).
+
+[Link mlart](https://mlart.co/item/a-browser-based-app-to-animate-faces-with-your-camera-in-real-time_-created-with-a-google-colab-wrapper-for-first-order-motion)
 
 ![image](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-09/Sin%20t%C3%ADtulo.jpg)
+
+En la imagen se ve un ejemplo que realizamos en clase (proveniente del github) en el cual usando la imagen de tu cara mueve la cara de una imagen que puedes definir. 
+
+> _no pude verlo en mi mismo ya que olvidé mi camara_ 
+
+### Mix mlart Projects 
+
+Proyectos de mlart que me llamaron la atencion. 
+
+- A collaborative fiction with GPT-3. Video, personas, and voices are all generated. [Here](https://mlart.co/item/a-collaborative-fiction-with-gpt-3_-video_-personas_-and-voices-are-all-generated)
+
+- A collaborative fiction with GPT-3. Video, personas, and voices are all generated. [Here](https://mlart.co/item/a-collaborative-fiction-with-gpt-3_-video_-personas_-and-voices-are-all-generated)
 
 ### Random
 
