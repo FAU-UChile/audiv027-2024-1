@@ -23,10 +23,12 @@ Es comodo ya que no hacen falta grandes cantidades de datos, con una imagen bast
 
 [Ejemplos](https://mlart.co/item/produce-large-scale-style-transfer-like-artworks_-print_-and-paint-over)
 
+### Avatar4all
 
+A browser-based app to animate faces with your camera in real-time, created with a Google Colab wrapper for First Order Motion. [Aquí](https://github.com/eyaler/avatars4all).
+
+![image](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-09/Sin%20t%C3%ADtulo.jpg)
 
 ### Random
 
 - Para crear [gifs](https://giphy.com/create/gifmaker)
-
-- 
