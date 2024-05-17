@@ -1,4 +1,4 @@
-#Clase 17 de mayo: 
+# Clase 17 de mayo: 
 
 **Apuntes:**
 
