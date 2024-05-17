@@ -16,6 +16,8 @@
 
 - SIGGRAPH: Convención de cómo hacer técnicas interactivas para gráficas.
 
+- Pix2pix: Un pixel se convierte en otro pixel.
+
 **Primera parte:**
 
 1. Visita a la página web ML Art:
