@@ -1,4 +1,4 @@
-# Clase 17 de mayo: 
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/8423bb2c-2bee-493d-95ca-cc94bc96d2ed)# Clase 17 de mayo: 
 
 **Apuntes:**
 
@@ -21,7 +21,21 @@
 - Google Creative Lab.
 
 - La computación no se enfoca únicamente en el mouse y el teclado, hay un campo de posibilidades creativas. 
-  
+
+- Artistas que me interesan de ML Art: Lulu xXX, Memo Akten, Seung Joon Choi, Mario Klingemann. 
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/7b960b2e-c533-4ec6-ae14-cf75788a278f)
+
+*Seung Joon Choi*
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/5da393ff-62dc-49ac-8f80-45c40e31945d)
+
+*Lulu xXX*
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/28ca586c-3099-4ae9-8d3e-dda670fe1e77)
+
+*Mario Klingemann* 
+
 **Primera parte:**
 
 1. Visita a la página web ML Art:
