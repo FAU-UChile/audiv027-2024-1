@@ -20,13 +20,14 @@ tonetransfer
 https://mlart.co/item/translating-everyday-sounds-into-instruments-with-magenta_s-differentiable-digital-signal-processing https://mlart.co/item/translating-everyday-sounds-into-instruments-with-magenta_s-differentiable-digital-signal-processing
 # **Investigación en clases**
 
-# **Bill T. Jones* 
+# *Bill T. Jones* 
 https://mlart.co/item/detect-poses-and-voice-and-add-the-spoken-words-live-in-the-choreography
 Hecho con: Google Creative Lab
 Tecnología usada: PoseNet, Camera, Voice detection, Microphone
 ¿Qué hace? -> Detect poses and voice and add the spoken words live in the choreography  
-¿como interpreta la pose? 
+# *¿como interpreta la pose? 
 
+```js
 <!DOCTYPE html>
 <html>
 
@@ -60,11 +61,28 @@ Tecnología usada: PoseNet, Camera, Voice detection, Microphone
 </html>
 # **explicacion del codigo*
 <meta name="viewport" content="width=device-width, initial-scale=1">: Configura los parametros de visualizacion para que pueda ser visualizado desde dispositivos moviles 
-<script src="js/main.js"></script>: se incluye un archivo JavaScript externo main.js que probablemente contiene el código necesario para manejar la lógica de PoseNet 
+<script src="js/main.js"></script>: se incluye un archivo JavaScript externo main.js que probablemente contiene el código necesario para manejar la lógica de PoseNet
+```
               
-# **codigo de deteccion de cuerpo:
+# *codigo de deteccion de cuerpo:
 
 ```js
+/**
+ * @license
+ * Copyright 2019 Google Inc. All Rights Reserved.
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * https://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ * =============================================================================
+ */
 let canvas = document.getElementById('output');
 let ctx = canvas.getContext('2d');
 let poseDetection;
@@ -220,7 +238,12 @@ export function drawKeypoints(keypoints, minConfidence, ctx, scale = 1) {
   }
 }
 ```
- 
+ # explicación del codigo:
+dentro de la configuración inicial:
+- 1. ´poseDetection, poses, video, videoWidth, videoHeight: Variables que almacenarán la detección de poses, la lista de poses detectadas, el video y sus dimensiones.
+- ´sketchGuiState: Objeto en Java que interfiere en como se muestra el usuario, el esqueleto y los puntos de las poses.
+- 3. ´initSketchGui´ manipula variables en tiempo real 
+
 
 
 
