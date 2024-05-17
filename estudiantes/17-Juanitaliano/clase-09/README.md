@@ -14,12 +14,16 @@ Distintos sabores de GAN
 
 SIGGraph---- Es una conferencia anual donde se explican tecnicas interactivas y graficas por computadora.
 
+
 Memoakten---- En base a un conjunto de datos podemos hacer que la realidad se reinterprete por la computadora 
 y la modificamos a lo que deseamos.(Una posible nueva forma de diseñar y haer arte)
 
+
 Magenta---- ia para musica
 
+
 Mario klighenman---- Imagenes fluctuantes.
+
 Robbie Barrat------ Persona bastante talentoso con ia y lo utilza en sus obras de arte.
 
 
@@ -28,6 +32,7 @@ Robbie Barrat------ Persona bastante talentoso con ia y lo utilza en sus obras d
 
 
 https://colab.research.google.com/drive/1MXDioUaGqZZe9DInSiiIoKR6BBxEHvHy#scrollTo=g8qFmqu1J7-j
+
 
 Ocupamos este algoritmo para cambiar nuestras caras por alguna imagen
 
