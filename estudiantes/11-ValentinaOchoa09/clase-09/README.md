@@ -72,3 +72,15 @@ Lulu xXX, Memo Akten, Seung Joon Choi, Mario Klingemann, Derrick Schultz.
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/63dd6806-494e-417c-9cee-d418d969816e)
 
+6. Nos encargamos de revisar artistas que nos interesaran en Ml Art y tomamos apuntes.
+
+**Segunda parte:**
+
+7. Revisión de la página de Holly Plus.
+
+8. Observación de la página Tone Transfer, que ofrece diferentes sonidos de instrumentos. Puedes entrenarlo con tu propio audio.
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/43d00adf-602b-4e09-a6a0-d2802b1e16b8)
+
+*https://sites.research.google/tonetransfer*
+
