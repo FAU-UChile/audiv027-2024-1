@@ -22,7 +22,9 @@
 
 - La computación no se enfoca únicamente en el mouse y el teclado, hay un campo de posibilidades creativas. 
 
-- Artistas que me interesan de ML Art: Lulu xXX, Memo Akten, Seung Joon Choi, Mario Klingemann. 
+**Artistas que me interesan de ML Art:** 
+
+Lulu xXX, Memo Akten, Seung Joon Choi, Mario Klingemann. 
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/7b960b2e-c533-4ec6-ae14-cf75788a278f)
 
