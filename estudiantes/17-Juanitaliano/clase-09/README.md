@@ -47,3 +47,12 @@ Ocupamos este algoritmo para cambiar nuestras caras por alguna imagen
 
 
 
+
+kRAFTWERK---- Banda musical que hace musica con sonidos computarizados estilo bits.
+
+
+Try Another---- Algoritmo ia para hacer musica, transfiere el sonido de una musica y lo cambia a otro instrumento.
+
+
+
+
