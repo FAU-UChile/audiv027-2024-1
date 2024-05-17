@@ -43,8 +43,25 @@ Proyectos de mlart que me llamaron la atencion.
 
 - A collaborative fiction with GPT-3. Video, personas, and voices are all generated. [Here](https://mlart.co/item/a-collaborative-fiction-with-gpt-3_-video_-personas_-and-voices-are-all-generated)
 
-- A collaborative fiction with GPT-3. Video, personas, and voices are all generated. [Here](https://mlart.co/item/a-collaborative-fiction-with-gpt-3_-video_-personas_-and-voices-are-all-generated)
+- Fast 3D Style Transfer. [Agisoft](https://mlart.co/item/fast-3d-style-transfer)
+
+- Kanye West RNN lyrics generator. [Here](https://mlart.co/item/kanye-west-rnn-lyrics-generator)
+
+- Reverse Super-Resolution by turning high-res images into low-res [Here](https://mlart.co/item/reverse-super-resolution-by-turning-high-res-images-into-low-res)
+
+- Dibujar con metodos [alternativos](https://www.memo.tv/works/gloomy-sunday/)
+
+- Combining CPPN visuals and combining it with raymarching, VAE generated music. [Here](https://mlart.co/item/combining-cppn-visuals-and-combining-it-with-raymarching_-vae-generated-music)
+
+- A collection of open source, interactive web experiments that use PoseNet to create a relationship between movement and machine. [Here](https://mlart.co/item/a-collection-of-open-source_-interactive-web-experiments-that-use-posenet-to-create-a-relationship-between-movement-and-machine)
+
+- 
+
 
 ### Random
 
 - Para crear [gifs](https://giphy.com/create/gifmaker)
+
+- ¿Que es [pix2pix](https://www.tensorflow.org/tutorials/generative/pix2pix?hl=es-419)?
+
+- 
