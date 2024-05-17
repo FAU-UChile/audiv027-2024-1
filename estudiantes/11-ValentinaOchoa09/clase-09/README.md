@@ -88,11 +88,13 @@ Lulu xXX, Memo Akten, Seung Joon Choi, Mario Klingemann, Derrick Schultz.
 
 **Trabajo de investigación:**
 
+Título: Edges 2 Cats
+
 Autor: Christopher Hesse
 
 **¿Qué hace?**
 
-Transforma un dibujo creado por el usuario en un gato, dentro de una página web.
+Transforma un dibujo creado por el usuario en un gato, dentro de una página web. En mi comprensión, lo que hace es rellenar el dibujo con una imagen de gato. 
 
 **¿Cómo lo hace?**
 
@@ -105,6 +107,24 @@ A través de un almacenamiento de base de datos, en donde se entrena la intelige
 **¿Qué utiliza?**
 
 - Pix2pix: Red adversarial generativa condicional (cGAN) para aprender un mapeo de una imagen de entrada a una imagen de salida.
+
+**Ejemplo:**
+
+En la siguiente demostración, dibujé una estrella como imagen de entrada, mientras que la salida se basó en rellenar dicha estrella con la foto de un gato. 
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/26889c10-9d34-4dc1-8fe2-50228a906654)
+
+Así mismo, probé con otras figuras, obteniendo como resultado que el relleno de la forma se completaba con la foto de un gato. 
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/999c3841-3f2b-4151-90ff-7adcd1c364d2)
+
+¿Y qué pasaba si hacía un intento de dibujo de un gato, para que se rellenara de otro gato? 
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/7b872b0e-6383-4f16-a056-e48de938e173)
+
+
+
+
 
 
 
