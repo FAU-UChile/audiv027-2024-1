@@ -54,5 +54,16 @@ kRAFTWERK---- Banda musical que hace musica con sonidos computarizados estilo bi
 Try Another---- Algoritmo ia para hacer musica, transfiere el sonido de una musica y lo cambia a otro instrumento.
 
 
+Holly Plus---- Una persona decidio transferirse sus datos para venderse como material plastico.Entregando  imagenes y datos de voz de ella.
+
+https://sites.research.google/tonetransfer----- algoritmo para transferir audio y trnasferirlo a distintos instrumentos y sonidos.
+
+
+
+Investigacion Sobre algunos algoritmos de Ia.
+
+
+
+
 
 
