@@ -24,7 +24,7 @@
 
 **Artistas que me interesan de ML Art:** 
 
-Lulu xXX, Memo Akten, Seung Joon Choi, Mario Klingemann. 
+Lulu xXX, Memo Akten, Seung Joon Choi, Mario Klingemann, Derrick Schultz. 
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/7b960b2e-c533-4ec6-ae14-cf75788a278f)
 
@@ -37,6 +37,10 @@ Lulu xXX, Memo Akten, Seung Joon Choi, Mario Klingemann.
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/28ca586c-3099-4ae9-8d3e-dda670fe1e77)
 
 *Mario Klingemann* 
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/1bbe348a-44ca-4b92-8294-20f394bd2a64)
+
+*Derrick Schultz*
 
 **Primera parte:**
 
