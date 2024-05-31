@@ -80,8 +80,27 @@ console.log, muestra en la consola resultados
 
 confidence (0, 2) dame dos decimales
 
+ml5 classifier
+
+Ejemplo con perro salchicha gordo bachicha
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/317969f0-8217-494b-a4d1-1a16ee07f598)
+
+Ejemplo cenicienta
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/b4ab491f-880b-48b1-b37b-11469065c75d)
+
+Ejemplo Anne Hathaway
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/9cea34e9-cec1-44ff-8c32-401fa3964b08)
+
+Perro pelo largo
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/e9fd3bb7-d79c-4c3c-94a3-061c7466065e)
+
+Canvas Image Classification using DoodleNet and p5.js
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/29ead3a3-46dc-481a-9b54-7a688cbba25c)
 
 
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/f1ae994b-391c-49f5-b592-d1ffbfadbf72)
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/3a5cddf2-cc31-4354-8aa4-10908213e144)
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/0b48eff2-49cf-4498-9dc5-7a9b81f2d4d6)
 
 
 
