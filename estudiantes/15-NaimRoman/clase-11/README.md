@@ -13,6 +13,8 @@ El KNN es un metodo de machine learning que puede cargarse en un arduino.
 
 ## Image classification using MobileNet and p5.js
 
+<https://learn.ml5js.org/#/reference/image-classifier?id=demo>
+
 ![image](https://github.com/NaimRoman/audiv027-2024-1/assets/163591274/8b546757-ae78-43af-8295-bc1b05df95eb)
 
 
@@ -29,4 +31,5 @@ El KNN es un metodo de machine learning que puede cargarse en un arduino.
 
 ### Random
 
+- Design Justice
 
