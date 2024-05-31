@@ -4,7 +4,9 @@ Image Clasifier
 
 https://editor.p5js.org/ml5/sketches/ImageClassification
 
-´´´
+Esta entrenado a partir de un banco de 15 millones de imagenes
+
+```
 /* ===
 Ejemplo en p5 del casificador de imagenes de ml5
 El siguente es un codigo de javascript
@@ -41,12 +43,21 @@ function gotResult(error, results) {
   createDiv('Confidence: ' + nf(results[0].confidence, 0, 2));
 }
 
-´´´
+```
+
 ![Captura de pantalla 2024-05-31 165314](https://github.com/BenjaIeg/audiv027-2024-1/assets/128185999/cf85be98-c671-4eda-9577-4715a21dcddc)
 
 
 
-Doodle
+Clasificador de imagenes Doodle
+
+https://editor.p5js.org/ml5/sketches/ImageClassification_DoodleNet_Canvas
+
+Sentiment:
+
+https://learn.ml5js.org/#/reference/sentiment
+
+Modelo entrenado para predecir los sentimientos de un texto, esto se entreno con reseñas de imdb como base.
 
 
 Herramientas y paginas:
