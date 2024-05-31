@@ -2,8 +2,8 @@ Clase 31.05.24
 
 RECOMENDACIÓN seminario: Performatividad de esculturas invisibles (sin soporte de materialidad) (parte participativa, con gente interactuando por medio del dibujo, lo que no siempre se ve)  --> Yeseul Song 
 2. Vizcom (software que trabaja con prompts para transformar desde 2d y 3d, desde una baja resolución hasta una alta)
-![image](https://github.com/NAF
-RECO02/audiv027-2024-1/assets/126721546/45e0eb54-d14b-4067-b338-31ce567629bc)
+![image](https://github.com/NAF02/audiv027-2024-1/assets/126721546/3aa73bba-6547-410b-8343-db8bc00473ff)
+
 3. Suno (para realizar canciones y melodías) (noche de performance)
 ![image](https://github.com/NAF02/audiv027-2024-1/assets/126721546/11cb8885-6d0d-499b-8901-c319f88ced2e)
 
