@@ -1,3 +1,10 @@
+Intento de segunda opción
+
+Equipo:
+
+https://github.com/NaimRoman/audiv027-2024-1/tree/main/clases/clase-12
+
+https://github.com/GrimmUChile/audiv027-2024-1/tree/main/estudiantes/02-GrimmUChile/clase-12
 
 ![image](https://github.com/disenoUChile/audiv027-2024-1/assets/163590875/2a05c83a-5038-4d47-96bf-1596beef229d)
 
