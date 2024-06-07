@@ -32,3 +32,62 @@ Al observar las esculturas, los visitantes de la exposición se enfrentarán a u
 PD: esto fue escrito con IA
 
 
+Recursos:
+-Windows CoPilot
+-Dall-e 3
+-Makerworld, Makerlab, Images to 3d model
+-Creality print
+-Creality Cloud
+-Creality k1
+
+
+
+
+
+
+![image](https://github.com/chicomaker/audiv027-2024-1/assets/67646441/55939f52-a337-4946-bcf8-e28cc0b7615e)
+
+
+![image](https://github.com/chicomaker/audiv027-2024-1/assets/67646441/3712007d-acfd-4958-bc23-e629c81d8478)
+
+
+![image](https://github.com/chicomaker/audiv027-2024-1/assets/67646441/7dec42fc-66e4-4a76-95b9-26391d2c246b)
+
+
+![image](https://github.com/chicomaker/audiv027-2024-1/assets/67646441/523f46fc-d339-4902-9ef9-d7571dbffd1f)
+
+
+![image](https://github.com/chicomaker/audiv027-2024-1/assets/67646441/3be16870-4e81-43a9-aba0-689501bd3b45)
+
+
+![image](https://github.com/chicomaker/audiv027-2024-1/assets/67646441/2e34b6d2-82fc-49aa-9439-4d546e353495)
+
+![image](https://github.com/chicomaker/audiv027-2024-1/assets/67646441/85b569a6-f655-4739-b51e-002779eaf71c)
+
+
+![image](https://github.com/chicomaker/audiv027-2024-1/assets/67646441/e48a32ac-cf1b-4881-9c08-ff41a22e0de2)
+
+
+![image](https://github.com/chicomaker/audiv027-2024-1/assets/67646441/0277cb18-6518-4d05-9b60-09e695f73035)
+
+
+
+
+Algo curioso es que cuando le pedi que me hiciera una escultura que transmita amor me arrojo que no puede:
+
+
+![image](https://github.com/chicomaker/audiv027-2024-1/assets/67646441/fa419ab9-38b6-4bea-b47b-726825efa7b5)
+
+
+
+
+![image](https://github.com/chicomaker/audiv027-2024-1/assets/67646441/f60f9655-6107-474d-9e65-f43a814ce05f)
+
+Ajustes de impresión :
+-Altura de capa 0.24
+-Velocidad 300mm/s
+-Soportes de arbol
+
+
+
+![image](https://github.com/chicomaker/audiv027-2024-1/assets/67646441/2e93565d-798c-4028-80d6-c3365d5a5e90)
