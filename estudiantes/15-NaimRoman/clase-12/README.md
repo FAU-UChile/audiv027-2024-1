@@ -10,6 +10,9 @@ En este sitio parece haber varias herramientas que podríamos ocupar para el tra
 
 Continuando con la linea del **Style transfer**, llego al [StyleTransfer de imagenes](https://editor.p5js.org/ml5/sketches/3_J7IA680K) y al [StyleTransfer de video](https://editor.p5js.org/ml5/sketches/hIB3Nvfmk4).
 
+Me llama la atención el de video ya que permite mayor interacción con el usuario. Lamentablemente al ejecutarlo me da el siguiente error:
+
+
 
 
 ### Random
