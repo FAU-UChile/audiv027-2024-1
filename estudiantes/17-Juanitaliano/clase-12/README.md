@@ -1,4 +1,5 @@
-
+Para esta clase me dedique a buscar ideas para mi proyecto, en general son proyestos que encontre interesantes:
+Trabajando en conjunto con Benjaleg.
 
 ideas para el proyecto
 
@@ -39,6 +40,23 @@ Gradio ha presentado recientemente gr.ChatInterface(predict), que permite a los 
 Para obtener una guía completa sobre cómo crear tu propia interfaz de chat, visita la página Crear un chatbot rápidamente en gradio.app.
 
 Idea 3
+Que hace
+
+Es un experimento de bricolaje. que mediante teable machine, arduino y trabajo manual se logra crear un mini robot que clasifica el cereal o el mallows.
+
+quién hizo esto: persona, empresa, colectivo
+
+Gente de google. Link de como hacer el proyecto: https://experiments.withgoogle.com/tiny-sorter/view/
+
+cuándo lo hizo
+
+noviembre del 2019.
+
+con que se hizo
+
+tensorflow.js , web cam , Arduino , Javascript
+
+imagenes de referencia
 ![image](https://github.com/Juanitaliano/audiv027-2024-1/assets/163590978/52fbe8b8-003c-4441-8f01-0b8b30d54df6)
 
 
