@@ -83,7 +83,7 @@ la nota final del curso será el promedio simple de estas evaluaciones:
 los dos proyectos grupales son evaluados en las siguientes dimensiones:
 
 1. punto base
-2. listado de materiales
+2. aspectos formales (bibliografía, citas, orden, ortografía)
 3. instrucciones de uso
 4. código usado
 5. documentación multimedia
