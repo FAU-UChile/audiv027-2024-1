@@ -65,7 +65,9 @@ El usuario controla la dirección de la cabeza de la serpiente (arriba, abajo, i
 
 *Captura de pantalla entrenando el primer modelo*
 
-Al probarlo en otra persona, no lo detectaba correctamente, definiéndolo como arriba o abajo, pero menos izquierda.
+Al probarlo en otra persona, no detectaba el modelo correctamente. Definía la izquierda como arriba o abajo, pero menos izquierda.
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/d7ce4d94-0204-4fb2-99b3-fc6e19418781)
 
 **Primer análisis:**
 
