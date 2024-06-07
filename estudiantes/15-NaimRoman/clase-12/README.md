@@ -1,5 +1,9 @@
 # Proyecto Final
 
+Equipo:
+[GrimmUchile](https://github.com/GrimmUChile/audiv027-2024-1/tree/main/estudiantes/02-GrimmUChile/clase-12)
+[Marijou](https://github.com/Marijou/audiv027-2024-1/tree/main/estudiantes/14-Marijou/clase-12)
+
 ## Elección de proyecto
 
 Me gusta el trabajo de [Dani Joy](https://www.aiartonline.com/community/215/) que descubrí en [mlart](https://mlart.co/item/produce-large-scale-style-transfer-like-artworks_-print_-and-paint-over).
