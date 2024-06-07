@@ -96,6 +96,10 @@ División de los videos en frames (https://www.online-convert.com/es/result#)
 
 Importando los videos en Teachable Machine 
 
+**Tercer análisis:**
+
+En esta ocasión, la posición izquierda presentó problemas.
+
 **Referencias:**
 
 The Coding Train
