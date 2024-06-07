@@ -1,7 +1,7 @@
 # Proyecto Final
 
 Equipo:
-[GrimmUchile](https://github.com/GrimmUChile/audiv027-2024-1/tree/main/estudiantes/02-GrimmUChile/clase-12)
+[GrimmUchile](https://github.com/GrimmUChile/audiv027-2024-1/tree/main/estudiantes/02-GrimmUChile/clase-12) y 
 [Marijou](https://github.com/Marijou/audiv027-2024-1/tree/main/estudiantes/14-Marijou/clase-12)
 
 ## Elección de proyecto
