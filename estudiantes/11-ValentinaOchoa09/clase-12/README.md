@@ -24,11 +24,11 @@ Valentina Ochoa.
 
 2. https://www.youtube.com/watch?v=TOrVsLklltM
 
-3. https://github.com/Pawandeep-prog/virtual-paint (mediapipe)
+3. https://github.com/Pawandeep-prog/virtual-paint
 
 4. https://www.youtube.com/watch?v=TOrVsLklltM
    
-5. https://www.youtube.com/watch?v=ZiwZaAVbXQo (Python - MediaPipe - OpenCV)
+5. https://www.youtube.com/watch?v=ZiwZaAVbXQo 
 
 6. https://www.youtube.com/watch?v=UPgxnGC8oBU&t=406s
 
