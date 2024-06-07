@@ -6,6 +6,8 @@ Equipo:
 
 ## Elección de proyecto
 
+### Propuesta 1
+
 Me gusta el trabajo de [Dani Joy](https://www.aiartonline.com/community/215/) que descubrí en [mlart](https://mlart.co/item/produce-large-scale-style-transfer-like-artworks_-print_-and-paint-over).
 
 Se trata de **Style transfer**, buscando en la web encuentro [esta pagina](https://ml5js.github.io/ml5-examples/) en la que me dirijo al [github de ml5js](https://github.com/ml5js/ml5-library/tree/main/examples),
@@ -28,5 +30,20 @@ Como se puede apreciar en la imagen, nos arroja una advertencia: "High memory us
 ![Screenshot](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-12/Captura%20de%20pantalla%20(6).png)
 
 Funciona, pero va muy lento.
+
+### Propuesta 2
+
+Disponible en el [github de Marijou](https://github.com/Marijou/audiv027-2024-1/tree/main/estudiantes/14-Marijou/clase-12)
+
+### Propuesta 3
+
+Continuamos investigando los codigos disponibles [aquí](https://editor.p5js.org/ml5/sketches)
+
+Nos llamó la atención [KNNClassification_VideoSquare](https://editor.p5js.org/ml5/sketches/TW3JwmVdg8), simplemente usarlo es entretenido, y nos recordó al juego "snake", por lo que decidimos ir con la propuesta de jugar al snake usando como controles las manos.
+
+[Screenshot](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-12/Captura%20de%20pantalla%20(8).png)
+[Screenshot](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-12/Captura%20de%20pantalla%20(9).png)
+[Screenshot](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-12/Captura%20de%20pantalla%20(10).png)
+
 
 ### Random
