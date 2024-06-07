@@ -2,7 +2,7 @@
 
 ideas para el proyecto
 
-Basic AI Projects
+Idea 1
 Reconocimiento de dígitos manuscritos
 
 Objetivo: Construir un sistema que pueda reconocer dígitos escritos a mano con la ayuda de redes neuronales artificiales
@@ -26,6 +26,7 @@ Aplicación: Aparte de los papeles, un sistema de reconocimiento de dígitos man
 a partir de fotos, dispositivos con pantalla táctil y otras fuentes. Este software tiene diversas aplicaciones, como la autenticación de cheques
 bancarios, la lectura de formularios rellenados y la toma de notas rápidas.
 
+Idea 2
 Crear un chatbot
 
 Construye un chatbot de inteligencia artificial 
@@ -36,6 +37,10 @@ inference para crear la inferencia de usuario del chatbot. no necesitas salir de
 
 Gradio ha presentado recientemente gr.ChatInterface(predict), que permite a los usuarios crear fácilmente chatbots personalizados e integrarlos con agentes en menos de 5 minutos.
 Para obtener una guía completa sobre cómo crear tu propia interfaz de chat, visita la página Crear un chatbot rápidamente en gradio.app.
+
+Idea 3
+![image](https://github.com/Juanitaliano/audiv027-2024-1/assets/163590978/52fbe8b8-003c-4441-8f01-0b8b30d54df6)
+
 
 
 
