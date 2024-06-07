@@ -30,12 +30,18 @@ Al observar las esculturas, los visitantes de la exposición se enfrentarán a u
 "Transiciones: Entre Humanos y Máquinas" no busca dar respuestas definitivas, sino abrir un espacio para la reflexión y el debate sobre el papel emergente de la inteligencia artificial en la creatividad y la emoción humanas. En esta exploración conjunta, tanto humanos como máquinas contribuyen a un diálogo en constante evolución sobre el futuro de la inteligencia y la sensibilidad.
 
 PD: esto fue escrito con IA
+Referentes:
+
+Este proyecto nace desde un propio cuestionamiento de la relevancia de la IA en una sociedad contemporanea donde cada vez el ser humano tiene menos valor y es cada vez más dificil diferenciar algo hecho por una IA o por un humano.
+
+Hay mas personas que se han hecho cuestionamientos sobre los avances tecnologicos, como Sebastian Morales Prado
+https://www.manacontemporary.com/editorial/the-art-of-sebastian-morales-prado/  . Con su trabajo que demostro que hay más bots en internet que personas.
 
 
 Recursos:
 -Windows CoPilot
 -Dall-e 3
--Makerworld, Makerlab, Images to 3d model
+-Makerworld, Makerlab, Images to 3d model : https://makerworld.com/en/makerlab/tripo3D?from=makerlab
 -Creality print
 -Creality Cloud
 -Creality k1
@@ -78,8 +84,12 @@ Algo curioso es que cuando le pedi que me hiciera una escultura que transmita am
 
 ![image](https://github.com/chicomaker/audiv027-2024-1/assets/67646441/fa419ab9-38b6-4bea-b47b-726825efa7b5)
 
+En inglés tampoco me pudo arrojar alguna imagen
+
+![image](https://github.com/chicomaker/audiv027-2024-1/assets/67646441/b57d819d-b860-4c82-a744-0b12bc78eaa4)
 
 
+Algo que me llamo la atencion es que algunas imagenes cambiaban mucho dependiendo si hacia la solicitud en español o en inglés
 
 ![image](https://github.com/chicomaker/audiv027-2024-1/assets/67646441/f60f9655-6107-474d-9e65-f43a814ce05f)
 
