@@ -2,7 +2,8 @@
 
 **Estudiantes:** 
 
-Natalie Astudillo
+Natalie Astudillo.
+
 Valentina Ochoa. 
 
 **Ideas previas:**
