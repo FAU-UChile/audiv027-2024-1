@@ -25,5 +25,4 @@ Como se puede apreciar en la imagen, nos arroja una advertencia: "High memory us
 
 Funciona, pero va muy lento.
 
-![Screenshot]()
 ### Random
