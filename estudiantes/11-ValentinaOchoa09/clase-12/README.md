@@ -88,9 +88,10 @@ Nos percatamos que al momento de entrenar el modelo, la cámara grababa de la mi
 
 **Referencias:**
 
-1. The Coding Train
+The Coding Train
 
-Playlist: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aJwX0rFP-7ccA6ivsPDsK5
+https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aJwX0rFP-7ccA6ivsPDsK5
+https://www.youtube.com/watch?v=AaGK-fj-BAM
 
 2. 
 
