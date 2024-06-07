@@ -98,7 +98,11 @@ Importando los videos en Teachable Machine
 
 **Tercer análisis:**
 
-En esta ocasión, la posición izquierda presentó problemas.
+En esta ocasión, la posición izquierda presentó problemas. Esto debido a que los fotogramas no tomaban el cuerpo completo. 
+
+**Último modelo entrenado:**
+
+https://teachablemachine.withgoogle.com/models/x9jaICbA3/
 
 **Referencias:**
 
