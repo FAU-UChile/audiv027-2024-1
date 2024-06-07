@@ -41,9 +41,9 @@ Continuamos investigando los codigos disponibles [aquí](https://editor.p5js.org
 
 Nos llamó la atención [KNNClassification_VideoSquare](https://editor.p5js.org/ml5/sketches/TW3JwmVdg8), simplemente usarlo es entretenido, y nos recordó al juego "snake", por lo que decidimos ir con la propuesta de jugar al snake usando como controles las manos.
 
-[Screenshot](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-12/Captura%20de%20pantalla%20(8).png)
-[Screenshot](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-12/Captura%20de%20pantalla%20(9).png)
-[Screenshot](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-12/Captura%20de%20pantalla%20(10).png)
+![Screenshot](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-12/Captura%20de%20pantalla%20(8).png)
+![Screenshot](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-12/Captura%20de%20pantalla%20(9).png)
+![Screenshot](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-12/Captura%20de%20pantalla%20(10).png)
 
 
 ### Random
