@@ -45,5 +45,10 @@ Nos llamó la atención [KNNClassification_VideoSquare](https://editor.p5js.org/
 ![Screenshot](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-12/Captura%20de%20pantalla%20(9).png)
 ![Screenshot](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-12/Captura%20de%20pantalla%20(10).png)
 
+Buscamos en la web si alguien habia creado el codigo de snake para p5js y por suerte encontramos [una pagina](https://breakthecodenow.blogspot.com/2019/11/snake-game-using-javascript-p5.html) en la que estaba lo que necesitabamos (by Rishabh Aggarwal).
+
+Copiamos el codigo en el editor de p5js y todo funciona correctamente.
+
+![Screenshot](https://github.com/NaimRoman/audiv027-2024-1/blob/main/estudiantes/15-NaimRoman/clase-12/Captura%20de%20pantalla%20(14).png)
 
 ### Random
