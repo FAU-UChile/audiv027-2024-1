@@ -104,6 +104,13 @@ En esta ocasión, la posición izquierda presentó problemas. Esto debido a que 
 
 https://teachablemachine.withgoogle.com/models/x9jaICbA3/
 
+**Proceso 13 de junio**
+
+Este día quisimos dejar entrenado el modelo de Teachable Machine, para así poder llegar a las clases del viernes 15 de junio y avanzar con la parte del código. Por lo tanto, grabamos las posturas en el living de nuestras casas, con las mismas indicaciones anteriores: derecha, izquierda, arriba y abajo.
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/e750f5f6-4c73-4ef2-b248-cd0ab303b98c)
+
+
 **Referencias:**
 
 The Coding Train
