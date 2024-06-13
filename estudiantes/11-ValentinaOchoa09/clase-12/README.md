@@ -122,9 +122,6 @@ En el caso de la izquierda, se aplica lo mismo que en la derecha, pero para el l
 
 Para la postura arriba, debes levantar ambos brazos en 90 grados. 
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/cad08541-8e61-4bbc-8027-c795e7c78ff0)
-
-
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/c098dc3f-1a29-457d-81e7-a0159d760588)
 
 Por último, para hacer la postura de abajo, debes bajar ambos brazos en un ángulo de 90 grados. 
