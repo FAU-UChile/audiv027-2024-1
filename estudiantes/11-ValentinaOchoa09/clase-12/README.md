@@ -110,6 +110,30 @@ Este día quisimos dejar entrenado el modelo de Teachable Machine, para así pod
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/e750f5f6-4c73-4ef2-b248-cd0ab303b98c)
 
+**Instrucciones de postura**
+
+Para la derecha, debes levantar el brazo derecho en un ángulo de 90 grados. También, puedes bajarlo 90 grados a la derecha. 
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/7b8d9876-3d87-45bb-a832-d442e0eb35f9)
+
+En el caso de la izquierda, se aplica lo mismo que en la derecha, pero para el lado izquierdo, valga la redundancia.
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/8374a563-406d-4852-a283-c971287dba4e)
+
+Para la postura arriba, debes levantar ambos brazos en 90 grados. 
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/cad08541-8e61-4bbc-8027-c795e7c78ff0)
+
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/c098dc3f-1a29-457d-81e7-a0159d760588)
+
+Por último, para hacer la postura de abajo, debes bajar ambos brazos en un ángulo de 90 grados. 
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/a2bfdeb9-c9cc-4c41-a92c-fff050ad1a72)
+
+
+
+
 
 **Referencias:**
 
