@@ -4,15 +4,13 @@ a. Casos de Estudio y Ejemplos Prácticos
 
 Implementación de GANs en proyectos reales
 
-Imagenes
-
 b. Introducción
 
 Definición de GANs
 
 Casos actuales
 
-Características de una GAN: Generación de imágenes realistas:Mejora de imágenes y super-resolución;Transferencia de estilo y síntesis de texturas
+Características de una GAN: Generación de imágenes realistas: Mejora de imágenes y super-resolución; Transferencia de estilo y síntesis de texturas
  
 Arquitectura básica de una GAN
 
