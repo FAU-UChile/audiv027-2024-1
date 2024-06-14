@@ -361,11 +361,11 @@ b. Entonces, ¿Qué es una GAN?
 
 #c. Conclusiones
 
+En esta investigación hemos profundizado en las GANs su estructura, componentes principales y algunas de sus aplicaciones. Además de mostrar con un ejemplo parte de la forma en que se programan este tipo de redes antagónicas. 
 
-Resumen de los principales puntos tratados
+En adición a esto consideramos que las GANs tienen una gran proyección en relación a los usos que posee tanto en campo del arte y tratamiento de imágenes como sus potenciales usos en seguridad y en el área de la salud, entre otros. 
 
-
-Impacto potencial de las GANs en la industria y la investigación
+Consideramos además relevante mencionar que el aprendeizaje y práctica de una matertia tan compleja como lo es la GAN, permite ampliar no solo la idea que poseemos de la tecnología sino también de nuestras propias capacidades entorno al "espacio latente" del desarrollo académico y profesional.
 
 
 #d. Referencias
