@@ -359,7 +359,7 @@ b. Entonces, ¿Qué es una GAN?
 
 ![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/b823f203-280f-4b88-ac23-587f3744c115)
 
-#c. Conclusiones
+# Conclusiones
 
 En esta investigación hemos profundizado en las GANs su estructura, componentes principales y algunas de sus aplicaciones. Además de mostrar con un ejemplo parte de la forma en que se programan este tipo de redes antagónicas. 
 
