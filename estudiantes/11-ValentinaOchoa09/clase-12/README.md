@@ -352,6 +352,10 @@ function draw() {
 }
 ```
 
+**Análisis del código base**
+
+El código realizado por The Coding Train está hecho considerando un modelo entrenado de Teachable Machine de Proyecto de Imagen. En nuestro caso, entrenamos un modelo de Proyecto de Posturas, por lo cual tenemos dos salidas: volver a entrenar un modelo, pero esta vez de un proyecto de imagen o hacer las modificaciones necesarias en el código para relacionarlo con nuestro modelo de posturas.
+
 **Referencias:**
 
 The Coding Train
