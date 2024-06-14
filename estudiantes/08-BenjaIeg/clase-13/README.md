@@ -22,6 +22,8 @@ Clasificacion de acciones: https://www.youtube.com/watch?v=7_mcWCB76Ps
 
 INVESTIGAR RESNET: https://github.com/tensorflow/models/tree/master/official 
 
+ESTE https://www.youtube.com/watch?v=1FYvvvwAUbo&list=PL18uP4AzeyVuqH7dRNmyLGR1USnSgfliV&index=2
+
 HUMOR: https://www.youtube.com/watch?v=R46cX0AjzT4
 
 Otros Ejemplos
