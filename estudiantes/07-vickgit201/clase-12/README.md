@@ -2,7 +2,7 @@
 
 Investigación basada en el análisis del funcionamiento, estructura y usabilidad de las GAN.
 
-# ÍNDICE
+## ÍNDICE
 
 a. Casos de Estudio y Ejemplos Prácticos
 
@@ -30,8 +30,7 @@ d. Referencias
 
 Listado de fuentes consultadas y citadas
 
-
-# DESARROLLO
+## DESARROLLO
 
 a. Casos de Estudio y Ejemplos Prácticos
 
@@ -42,14 +41,18 @@ TRabajo realizado con Google Colab (versión 3.10 de Python)
 Código:
 
 # Instalar bibliotecas necesarias
+
+```bash
 !pip install matplotlib
 
 !pip install tensorflow
 
 !pip install numpy
+```
 
 ![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/76d633a0-a6eb-4a41-ad52-15d6ea4dec66)
 
+```python
 import numpy as np
 
 import matplotlib.pyplot as plt
@@ -61,7 +64,7 @@ from tensorflow.keras.layers import Dense, LeakyReLU, BatchNormalization, Reshap
 from tensorflow.keras.models import Sequential
 
 from tensorflow.keras.datasets import cifar10
-
+```
 
 (Aquí se importan todas las bibliotecas necesarias. numpy se usa para operaciones numéricas, matplotlib.pyplot para visualización, tensorflow para construir y entrenar modelos de redes neuronales, y se importan capas específicas de tensorflow.keras para definir el generador y el discriminador de la GAN.)
 
