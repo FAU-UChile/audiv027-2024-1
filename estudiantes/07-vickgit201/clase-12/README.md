@@ -4,6 +4,8 @@ a. Casos de Estudio y Ejemplos Prácticos
 
 Implementación de GANs en proyectos reales
 
+Imágenes
+
 b. Introducción
 
 Definición de GANs
@@ -33,7 +35,7 @@ Implementación de GANs en proyectos reales
 
 Código:
 
-# instalar bibliotecas necesarias
+# Instalar bibliotecas necesarias
 !pip install matplotlib
 
 !pip install tensorflow
@@ -285,7 +287,7 @@ train_gan(epochs=10000, batch_size=32, sample_interval=1000)
 
 (Finalmente, se llama a la función train_gan para entrenar la GAN durante 10000 épocas, con un tamaño de lote de 32 y se muestran imágenes de muestra cada 1000 épocas.)
 
-# IMAGENES
+# IMÁGENES
 
 ![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/f87065d5-55ab-4aea-b27e-e23cd058f912)
 
