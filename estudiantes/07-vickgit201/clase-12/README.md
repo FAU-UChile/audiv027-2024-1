@@ -1,4 +1,4 @@
-INDICE
+# INDICE
 
 a. Casos de Estudio y Ejemplos Prácticos
 
@@ -26,14 +26,8 @@ d. Referencias
 
 Listado de fuentes consultadas y citadas
 
-Desarrollo 
 
-Casos de Estudio y Ejemplos Prácticos
-
-Implementación de GANs en proyectos reales
-
-
-DESARROLLO
+# DESARROLLO
 
 a. Casos de Estudio y Ejemplos Prácticos
 
