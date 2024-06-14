@@ -10,7 +10,7 @@ Implementación de GANs en proyectos reales
 
 Imágenes
 
-b. Introducción
+b. Entonces, ¿Qué es una GAN?
 
 Definición de GANs
 
@@ -318,19 +318,12 @@ train_gan(epochs=10000, batch_size=32, sample_interval=1000)
 ![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/021f51d3-1511-48f0-a637-89245f81e644)
 
 
-b. Introducción
+b. Entonces, ¿Qué es una GAN?
 
 # Definición de GANs
 
-# Casos actuales
+"Las redes generativas antagónicas (GAN) son un tipo de red neuronal profunda que se utiliza para generar imágenes sintéticas. Su arquitectura consta de dos redes neuronales profundas, una generativa y otra discriminativa, que compiten mutuamente (de ahí lo de “antagónicas”). El generador produce nuevas instancias de datos, mientras que el discriminador distingue entre instancias de datos “reales”, procedentes del conjunto de datos de entrenamiento, y datos “falsos”, producidos por el generador." (Definición de math work, una corporación privada estadounidense que se especializa en software de computación matemática.)
 
-![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/75fee2de-0c9d-408f-8d3f-c6add8cb56db)
-
-![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/15c457a0-b677-4381-98a3-a68d3ff278b2)
-
-![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/19c0a222-e010-4993-82c0-f23186add115)
-
-![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/b823f203-280f-4b88-ac23-587f3744c115)
 
 
 # Arquitectura básica de una GAN
@@ -348,6 +341,15 @@ b. Introducción
 
 # Características de una GAN: Generación de imágenes realistas:Mejora de imágenes y super-resolución;Transferencia de estilo y síntesis de texturas
  
+# Casos actuales
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/75fee2de-0c9d-408f-8d3f-c6add8cb56db)
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/15c457a0-b677-4381-98a3-a68d3ff278b2)
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/19c0a222-e010-4993-82c0-f23186add115)
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/b823f203-280f-4b88-ac23-587f3744c115)
 
 c. Conclusiones
 
