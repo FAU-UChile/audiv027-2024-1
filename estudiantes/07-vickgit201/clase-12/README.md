@@ -359,16 +359,16 @@ b. Entonces, ¿Qué es una GAN?
 
 ![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/b823f203-280f-4b88-ac23-587f3744c115)
 
-c. Conclusiones
+#c. Conclusiones
 
 
-# Resumen de los principales puntos tratados
+Resumen de los principales puntos tratados
 
 
-# Impacto potencial de las GANs en la industria y la investigación
+Impacto potencial de las GANs en la industria y la investigación
 
 
-d. Referencias
+#d. Referencias
 
 
 # Listado de fuentes consultadas y citadas
