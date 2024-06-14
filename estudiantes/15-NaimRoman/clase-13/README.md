@@ -21,4 +21,5 @@ Probar codigo [aquí](https://editor.p5js.org/NaimRoman/sketches/TsBuF2UoH)
 
 Como se puede ver el modelo de reconocimiento de gestos funciona correctamente, 
 
-
+contrapropuesta de profe
+https://editor.p5js.org/montoyamoraga/sketches/x-6oLnzoi
