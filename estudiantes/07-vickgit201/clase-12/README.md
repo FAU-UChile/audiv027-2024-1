@@ -10,6 +10,8 @@ b. Introducción
 
 Definición de GANs
 
+Casos actuales
+
 Características de una GAN: Generación de imágenes realistas:Mejora de imágenes y super-resolución;Transferencia de estilo y síntesis de texturas
  
 Arquitectura básica de una GAN
@@ -322,6 +324,15 @@ b. Introducción
 
 # Definición de GANs
 
+# Casos actuales
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/75fee2de-0c9d-408f-8d3f-c6add8cb56db)
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/15c457a0-b677-4381-98a3-a68d3ff278b2)
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/19c0a222-e010-4993-82c0-f23186add115)
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/b823f203-280f-4b88-ac23-587f3744c115)
 
 
 # Arquitectura básica de una GAN
@@ -330,19 +341,37 @@ b. Introducción
 
 ![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/c1b04357-9657-45d0-9499-664fba795f2f)
 
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/dbe994a3-a0ad-4aed-b3d3-5367590223f1)
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/b0fcc678-7118-471c-b509-ef7ad7bc702c)
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/8d276aed-eaa9-4fbc-8073-17e2763cead1)
 
 
 # Características de una GAN: Generación de imágenes realistas:Mejora de imágenes y super-resolución;Transferencia de estilo y síntesis de texturas
  
 
+c. Conclusiones
+
+
+# Resumen de los principales puntos tratados
+
+
+# Impacto potencial de las GANs en la industria y la investigación
+
+
+d. Referencias
+
+
+# Listado de fuentes consultadas y citadas
 
 
 
 
+# MUCHAS GRACIAS 
 
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/f4676a82-4637-4985-94bc-04fc5dee1e84)
 
-
-
-
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/a1043160-296c-4d96-ad49-d206de7aad12)
 
 
