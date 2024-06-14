@@ -322,6 +322,12 @@ b. Entonces, ¿Qué es una GAN?
 
 # Definición de GANs
 
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/089685ae-ffb3-44d4-a02d-288d1de1bf6e)
+
+"Las Redes Generativas Antagónicas (RGAs), también conocidas como GAN en inglés, son una clase de algoritmos de inteligencia artificial que se utilizan en el aprendizaje no supervisado. Fueron presentadas por primera vez por Ian Goodfellow en el 2014."(Proyecto IDIS (Investigación en Diseño de Imagen y Sonido) de la Facultad de Arquitectura, Diseño y Urbanismo, Universidad de Buenos Aires)
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/e572d56d-1b17-42dc-8584-4c66c24c5019)
+
 "Las redes generativas antagónicas (GAN) son un tipo de red neuronal profunda que se utiliza para generar imágenes sintéticas. Su arquitectura consta de dos redes neuronales profundas, una generativa y otra discriminativa, que compiten mutuamente (de ahí lo de “antagónicas”). El generador produce nuevas instancias de datos, mientras que el discriminador distingue entre instancias de datos “reales”, procedentes del conjunto de datos de entrenamiento, y datos “falsos”, producidos por el generador." (Definición de math work, una corporación privada estadounidense que se especializa en software de computación matemática.)
 
 
