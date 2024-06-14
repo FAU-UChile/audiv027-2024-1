@@ -37,6 +37,8 @@ a. Casos de Estudio y Ejemplos Prácticos
 
 Implementación de GANs en proyectos reales
 
+TRabajo realizado con Google Colab (versión 3.10 de Python)
+
 Código:
 
 # Instalar bibliotecas necesarias
@@ -371,7 +373,37 @@ d. Referencias
 
 # Listado de fuentes consultadas y citadas
 
+Vídeos
 
+GANs - Introducción
+
+https://www.youtube.com/watch?v=VEO0-AHxm-U&ab_channel=SensIO
+
+Curso Gratuito de Python​: Creación de una Red Generativa Antagónica
+
+https://www.youtube.com/watch?v=06cNmEwvJ4s&ab_channel=UniversidadVIU
+
+Fuentes web
+
+Proyecto IDIS (Investigación en Diseño de Imagen y Sonido)
+
+https://proyectoidis.org/propuesta/
+
+Mathworks
+
+https://la.mathworks.com/discovery/generative-adversarial-networks.html
+
+Textos:
+
+Generative Adversarial Networks (GANs) (por: LeewayHertz)
+
+Making Pictures With Generative Adversarial Networks (por: Casey Reas)
+
+Generative Adversarial Nets (por: Ian J. FGoodfellow)
+
+A Style-Based Generator Architecture for Generative Adversarial Networks (por: Tero Karras, Samuli Laine, Timo Aila)
+
+Generative Adversarial Networks (GANs)  (por: Binglin, Shashank & Bhargav)
 
 
 # MUCHAS GRACIAS 
