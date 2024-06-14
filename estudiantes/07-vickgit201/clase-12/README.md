@@ -37,18 +37,25 @@ Implementación de GANs en proyectos reales
 
 Código:
 
-#instalar bibliotecas necesarias
+# instalar bibliotecas necesarias
 !pip install matplotlib
+
 !pip install tensorflow
+
 !pip install numpy
 
 ![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/76d633a0-a6eb-4a41-ad52-15d6ea4dec66)
 
 import numpy as np
+
 import matplotlib.pyplot as plt
+
 import tensorflow as tf
+
 from tensorflow.keras.layers import Dense, LeakyReLU, BatchNormalization, Reshape, Flatten, Conv2D, Conv2DTranspose
+
 from tensorflow.keras.models import Sequential
+
 from tensorflow.keras.datasets import cifar10
 
 
@@ -88,9 +95,12 @@ Capa que aplica una convolución bidimensional sobre una entrada, típicamente u
 Conv2DTranspose (Convolución 2D transpuesta):
 Capa que realiza una convolución transpuesta sobre una entrada bidimensional, utilizada principalmente para generar imágenes a partir de representaciones vectoriales en modelos de redes generativas.
 
-#Cargar y preprocesar datos
+# Cargar y preprocesar datos
+
 (X_train, _), (_, _) = cifar10.load_data()
+
 X_train = (X_train - 127.5) / 127.5  # Normalizar a [-1, 1]
+
 X_train = X_train.astype('float32')
 
 
@@ -104,26 +114,42 @@ La función tangente hiperbólica (tanh) es una función de activación comúnme
 
 
 X_train originalmente puede tener un tipo de datos uint8 (valores enteros sin signo de 8 bits) debido a los valores de píxeles en el rango [0, 255].
+
 X_train.astype('float32') convierte los valores de píxeles a tipo de datos float32 (números de coma flotante de 32 bits).
+
 Esto es importante porque las operaciones en redes neuronales suelen realizarse mejor con tipos de datos de punto flotante, ya que proporcionan la precisión necesaria para los cálculos graduales durante el entrenamiento.
 
-#Definir el generador
+# Definir el generador
+
 def build_generator():
+    
     model = Sequential()
+    
     model.add(Dense(8 * 8 * 256, activation="relu", input_dim=100))
+    
     model.add(Reshape((8, 8, 256)))
+    
     model.add(BatchNormalization(momentum=0.8))
+    
     model.add(Conv2DTranspose(128, kernel_size=4, strides=2, padding='same'))
+    
     model.add(LeakyReLU(alpha=0.2))
+    
     model.add(BatchNormalization(momentum=0.8))
+    
     model.add(Conv2DTranspose(64, kernel_size=4, strides=2, padding='same'))
+    
     model.add(LeakyReLU(alpha=0.2))
+    
     model.add(BatchNormalization(momentum=0.8))
+    
     model.add(Conv2D(3, kernel_size=3, padding='same', activation='tanh'))
+    
     return model
 
 
 generator = build_generator()
+
 generator.summary()
 
 
@@ -140,16 +166,27 @@ Esto transforma el vector de 16,384 valores en un volumen de 8x8 con 256 canales
 (Este es el generador de la GAN. Toma una entrada de ruido aleatorio de dimensión 100 y produce imágenes de tamaño 32x32x3 (CIFAR-10). La arquitectura incluye capas densas, reshape, normalización por lotes y capas de convolución transpuesta para generar las imágenes.)
 
 # Definir el discriminador
+
 def build_discriminator():
+   
     model = Sequential()
+    
     model.add(Conv2D(64, kernel_size=3, strides=2, input_shape=(32, 32, 3), padding='same'))
+    
     model.add(LeakyReLU(alpha=0.2))
+    
     model.add(Conv2D(128, kernel_size=3, strides=2, padding='same'))
+    
     model.add(LeakyReLU(alpha=0.2))
+    
     model.add(Conv2D(256, kernel_size=3, strides=2, padding='same'))
+    
     model.add(LeakyReLU(alpha=0.2))
+    
     model.add(Flatten())
+    
     model.add(Dense(1, activation='sigmoid'))
+    
     return model
 
 
@@ -157,52 +194,88 @@ def build_discriminator():
 
 
 discriminator = build_discriminator()
+
 discriminator.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
+
 discriminator.summary()
 
 
 # Compilar la GAN
+
 discriminator.trainable = False
+
 gan_input = tf.keras.Input(shape=(100,))
+
 generated_image = generator(gan_input)
+
 gan_output = discriminator(generated_image)
+
 gan = tf.keras.Model(gan_input, gan_output)
+
 gan.compile(loss='binary_crossentropy', optimizer='adam')
 
 
 (Aquí se configura y compila la GAN. El discriminador se establece como no entrenable en esta fase, ya que solo queremos entrenar el generador a través de la GAN.)
 
 # Definir funciones de entrenamiento y muestra
+
 def train_gan(epochs, batch_size, sample_interval):
+
     for epoch in range(epochs):
+    
         idx = np.random.randint(0, X_train.shape[0], batch_size)
+        
         real_images = X_train[idx]
+        
         real_labels = np.ones((batch_size, 1))
+        
         noise = np.random.normal(0, 1, (batch_size, 100))
+        
         fake_images = generator.predict(noise)
+        
         fake_labels = np.zeros((batch_size, 1))
+        
         d_loss_real = discriminator.train_on_batch(real_images, real_labels)
+        
         d_loss_fake = discriminator.train_on_batch(fake_images, fake_labels)
+        
         d_loss = 0.5 * np.add(d_loss_real, d_loss_fake)
+        
         noise = np.random.normal(0, 1, (batch_size, 100))
+        
         valid_labels = np.ones((batch_size, 1))
+        
         g_loss = gan.train_on_batch(noise, valid_labels)
+        
         if epoch % sample_interval == 0:
+        
             print(f"{epoch} [D loss: {d_loss[0]} | D accuracy: {100*d_loss[1]}] [G loss: {g_loss}]")
+            
             sample_images(epoch)
 
 
 def sample_images(epoch):
+  
     noise = np.random.normal(0, 1, (25, 100))
+    
     gen_images = generator.predict(noise)
+    
     gen_images = 0.5 * gen_images + 0.5
+    
     fig, axs = plt.subplots(5, 5)
+    
     count = 0
+    
     for i in range(5):
+       
         for j in range(5):
+        
             axs[i, j].imshow(gen_images[count])
+            
             axs[i, j].axis('off')
+            
             count += 1
+  
     plt.show()
 
 
@@ -210,6 +283,7 @@ def sample_images(epoch):
 
 
 # Entrenar la GAN
+
 train_gan(epochs=10000, batch_size=32, sample_interval=1000)
 
 
