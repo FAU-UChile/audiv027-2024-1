@@ -4,6 +4,8 @@ a. Casos de Estudio y Ejemplos Prácticos
 
 Implementación de GANs en proyectos reales
 
+Imagenes
+
 b. Introducción
 
 Definición de GANs
@@ -288,5 +290,59 @@ train_gan(epochs=10000, batch_size=32, sample_interval=1000)
 
 
 (Finalmente, se llama a la función train_gan para entrenar la GAN durante 10000 épocas, con un tamaño de lote de 32 y se muestran imágenes de muestra cada 1000 épocas.)
+
+# IMAGENES
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/f87065d5-55ab-4aea-b27e-e23cd058f912)
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/508a0d48-7195-4844-a4ee-e94ee1b4f29f)
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/873153fe-f2d0-4e34-bd00-d3e31f984d44)
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/2a5d9ed5-f269-4d94-b98a-c4b8ccdabcf1)
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/5254f5f3-3b9e-4d20-a661-b91802ea8717)
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/c3106c97-d820-4a36-8f9a-3e948551168f)
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/c7610e2a-7b1f-4001-bb5a-315ba06f0fb2)
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/0a5ffd6e-c683-4903-aa66-a550f70ee607)
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/becc0559-9501-46c5-94c6-da2e143b96a8)
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/a12eecc2-7679-442f-8e3f-3f057c7c0b08)
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/d948742e-5421-4acb-8cbb-36039caa6424)
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/021f51d3-1511-48f0-a637-89245f81e644)
+
+
+b. Introducción
+
+# Definición de GANs
+
+
+
+# Arquitectura básica de una GAN
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/4263e23e-8e12-4dfa-9b0a-868f19e925fe)
+
+![image](https://github.com/vickgit201/audiv027-2024-1/assets/128842460/c1b04357-9657-45d0-9499-664fba795f2f)
+
+
+
+# Características de una GAN: Generación de imágenes realistas:Mejora de imágenes y super-resolución;Transferencia de estilo y síntesis de texturas
+ 
+
+
+
+
+
+
+
+
+
+
 
 
