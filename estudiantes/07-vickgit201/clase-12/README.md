@@ -1,4 +1,6 @@
-# YES WE GAN
+# OF COURSE WE GAN
+
+Investigación basada en el análisis del funcionamiento, estructura y usabilidad de las GAN.
 
 # ÍNDICE
 
