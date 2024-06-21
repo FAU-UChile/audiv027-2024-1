@@ -54,7 +54,7 @@ Snake Game (juego de la serpiente)
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/fda6d9a5-b9a8-40ea-9ab0-59a5a9a4058e) (citar)
 
-¿Qué es el Snake Game?
+**¿Qué es el Snake Game?**
 
 Snake Game o mejor conocido al español como "el juego de la serpiente", es un videojuego lanzado a mediados de los 70' por Nokia, para los dispositivos electrónicos popularizando su formato en dispositivos telefónicos a modo de entretención para los usuarios.
 
