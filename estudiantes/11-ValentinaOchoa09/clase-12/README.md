@@ -6,19 +6,7 @@ Natalie Astudillo.
 
 Valentina Ochoa.
 
-**Ideas previas:**
-
-1. Utilización de partículas con un reactivo ante la música usando TouchDesigner.
-
-2. Utilización de partículas/colores con imagen.
-
-3. Clasificación de objetos con TensorFlow.
-
-4. Arte generativo con p5js.
-
-5. Clasificación de dibujos con ml5.js.
-
-**Ideas The Coding Train:**
+**Ideas previas por The Coding Train:**
 
 1. https://www.youtube.com/watch?v=ABN_DWnM5GQ
 
