@@ -366,6 +366,7 @@ Investigamos sobre cómo importar un modelo entrenado en Teachable Machine de pr
 **Código de sketch.js:**
 
 ```
+// Cargar el modelo entrenado
 let poseModelURL = 'https://teachablemachine.withgoogle.com/models/29Q7HHyno/';
 
 let video;
@@ -410,6 +411,7 @@ function foodLocation() {
   food = createVector(x, y);
 }
 
+// Función para mover la serpiente con el teclado una vez inicia el juego
 function keyPressed() {
   if (!gameStarted) {
     gameStarted = true;
@@ -436,6 +438,7 @@ function draw() {
   text(label, 10, 40);
   text('Puntuación: ' + (snake.len - 1), 10, 80);
 
+// Reflejar imagen 
   push();
   translate(width, 0);
   scale(-1, 1);
@@ -462,10 +465,11 @@ function draw() {
   fill(255, 0, 0);
   rect(food.x, food.y, 1, 1);
 
-  // Llama a la función controlSnake() para controlar la serpiente
+// Función para controlar la serpiente
   controlSnake();
 }
 
+// Código de la serpiente
 class Snake {
   constructor() {
     this.body = [];
@@ -488,6 +492,7 @@ class Snake {
     this.body.push(head);
   }
 
+// Función para que la serpiente crezca al comer
   grow() {
     let head = this.body[this.body.length - 1].copy();
     this.len++;
@@ -498,12 +503,12 @@ class Snake {
   let x = this.body[this.body.length - 1].x;
   let y = this.body[this.body.length - 1].y;
 
-  // Verificar los límites del canvas
+// Límite del canvas para que la serpiente muera
   if (x > w - 1 || x < 0 || y > h - 1 || y < 0) {
     return true;
   }
 
-  // Verificar colisión consigo misma (opcional)
+// La serpiente muere al colisionar consigo misma
   for (let i = 0; i < this.body.length - 1; i++) {
     let part = this.body[i];
     if (part.x === x && part.y === y) {
@@ -513,7 +518,7 @@ class Snake {
   return false;
 }
 
-
+// Función para que la serpiente coma 
   eat(pos) {
   let head = this.body[this.body.length - 1];
   let snakeX = head.x;
@@ -521,13 +526,13 @@ class Snake {
   let foodX = pos.x;
   let foodY = pos.y;
 
-  // Convertimos las coordenadas de la serpiente y la comida a la misma escala
+// Agregamos estas funciones para intentar evitar que la serpiente muera al comer, convertimos las coordenadas de la serpiente y la comida a la misma escala
   snakeX *= rez;
   snakeY *= rez;
   foodX *= rez;
   foodY *= rez;
 
-  // Comparamos las posiciones con un margen de error adecuado
+// Comparamos las posiciones con un margen de error 
   let d = dist(snakeX, snakeY, foodX, foodY);
   if (d < 1) {
     return true;
@@ -544,7 +549,7 @@ class Snake {
   }
 }
 
-// Función para controlar la serpiente basada en las poses detectadas
+// Función para controlar la serpiente basada en las poses del modelo
 function controlSnake() {
   if (!gameStarted && poses.length > 0) {
     let pose = poses[0].pose;
@@ -582,7 +587,7 @@ function controlSnake() {
 
 **Quinto análisis** 
 
-Hasta este punto, el código desarrollado funcionaba relativamente bien, sin embargo, presentó algunos inconvenientes, tales como que la serpiente muere al comer la comida, en vez de crecer. Tratamos de corregir este error durante los días 17, 18 y 19 de junio, pero no tuvimos resultado, por lo que buscamos complementar este proyecto con otro. 
+Hasta este punto, el código desarrollado funcionaba relativamente bien, sin embargo, presentó algunos inconvenientes, tales como que la serpiente muere al comer la comida, en vez de crecer. Tratamos de corregir este error durante los días 17, 18 y 19 de junio, pero no obtuvimos resultado, por lo que buscamos complementar este proyecto con otro. 
 
 # Proyecto final: Dibujando con un modelo entrenado 
 
@@ -607,7 +612,6 @@ Nuestro proyecto busca que el usuario pueda dibujar en un lienzo, utilizando su 
 
 _Modelo de Hand Pose proporcionado por ml5: https://learn.ml5js.org/#/reference/handpose_
 
-
 **Instrucciones del código** 
 
 El usuario debe abrir la palma de la mano para que cargue el modelo de ml5 de Hand Pose. Una vez el modelo cargue, aparecerá en la parte inferior 'Model Ready!'.
@@ -618,6 +622,62 @@ Para seleccionar colores, debe mover el dedo al círculo de color y mover el ded
 
 Si quiere borrar lo dibujado, debe presionar sobre el círculo negro. 
 
+**Proceso del proyecto**
+
+En primer lugar, revisamos el modelo previamente entrenado que proporciona Ml5, el cual funcionaba correctamente.
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/119694d4-9a83-474d-8a0e-6bf0090d3d3d)
+
+Link: https://editor.p5js.org/ml5/sketches/Handpose_Webcam
+
+```
+El código proporcionado para utilizar este modelo es el siguiente:
+
+let handpose;
+let video;
+let predictions = [];
+
+function setup() {
+  createCanvas(640, 480);
+  video = createCapture(VIDEO);
+  video.size(width, height);
+
+  handpose = ml5.handpose(video, modelReady);
+
+  // This sets up an event that fills the global variable "predictions"
+  // with an array every time new hand poses are detected
+  handpose.on("predict", results => {
+    predictions = results;
+  });
+
+  // Hide the video element, and just show the canvas
+  video.hide();
+}
+
+function modelReady() {
+  console.log("Model ready!");
+}
+
+function draw() {
+  image(video, 0, 0, width, height);
+
+  // We can call both functions to draw all keypoints and the skeletons
+  drawKeypoints();
+}
+
+// A function to draw ellipses over the detected keypoints
+function drawKeypoints() {
+  for (let i = 0; i < predictions.length; i += 1) {
+    const prediction = predictions[i];
+    for (let j = 0; j < prediction.landmarks.length; j += 1) {
+      const keypoint = prediction.landmarks[j];
+      fill(0, 255, 0);
+      noStroke();
+      ellipse(keypoint[0], keypoint[1], 10, 10);
+    }
+  }
+}
+```
 
 **Referencias:**
 
