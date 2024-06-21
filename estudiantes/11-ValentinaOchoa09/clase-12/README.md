@@ -584,7 +584,7 @@ function controlSnake() {
 
 Hasta este punto, el código desarrollado funcionaba relativamente bien, sin embargo, presentó algunos inconvenientes, tales como que la serpiente muere al comer la comida, en vez de crecer. Tratamos de corregir este error durante los días 17, 18 y 19 de junio, pero no tuvimos resultado, por lo que buscamos complementar este proyecto con otro. 
 
-# Proyecto final
+# Proyecto final: Dibujando con un modelo entrenado 
 
 La idea de este proyecto surge de investigaciones de proyectos realizados con Ml5 en la red social Youtube, en donde tuvimos como referente a The Coding Train, con ideas como clasificación de dibujos, clasificación de sonidos y clasificación de objetos en webcam. No obstante, nuestro mayor exponente que nos entregó el código base para hacer el trabajo fue Steve's Makerspace, quien nos proporciona la idea de dibujar con tu dedo a través de la cámara y eligiendo colores, con un modelo entrenado de Hand Space. 
 
@@ -592,6 +592,12 @@ La idea de este proyecto surge de investigaciones de proyectos realizados con Ml
 
 _Idea de proyecto por Steve's Makerspace: https://www.youtube.com/watch?v=96sWFP9CCkQ&ab_channel=Steve%27sMakerspace_
 
+**Materiales** 
+
+- Editor de p5js.
+- Ml5.js.
+- Webcam.
+- Markdown para escribir este documento. 
 
 **Referencias:**
 
