@@ -610,7 +610,15 @@ _Modelo de Hand Pose proporcionado por ml5: https://learn.ml5js.org/#/reference/
 
 **Instrucciones del código** 
 
-El usuario debe abrir la palma de la mano para que
+El usuario debe abrir la palma de la mano para que cargue el modelo de ml5 de Hand Pose. Una vez el modelo cargue, aparecerá en la parte inferior 'Model Ready!'.
+
+Posterior a esto, para dibujar, debe estirar el dedo índice y moverlo por el lienzo.
+
+Para seleccionar colores, debe mover el dedo al círculo de color y mover el dedo como si estuviera haciendo click. 
+
+Si quiere borrar lo dibujado, debe presionar sobre el círculo negro. 
+
+
 **Referencias:**
 
 The Coding Train
