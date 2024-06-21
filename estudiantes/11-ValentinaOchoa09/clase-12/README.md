@@ -597,8 +597,20 @@ _Idea de proyecto por Steve's Makerspace: https://www.youtube.com/watch?v=96sWFP
 - Editor de p5js.
 - Ml5.js.
 - Webcam.
-- Markdown para escribir este documento. 
+- Markdown para escribir este documento.
 
+**Definición de proyecto:** 
+
+Nuestro proyecto busca que el usuario pueda dibujar en un lienzo, utilizando su cuerpo como un controlador mediante la cámara web. Implementa el uso de ml5 con un modelo de Hand Pose previamente entrenado con 17 puntos claves de la mano. 
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/64304c42-f625-4555-8d13-94d9446564a1)
+
+_Modelo de Hand Pose proporcionado por ml5: https://learn.ml5js.org/#/reference/handpose_
+
+
+**Instrucciones del código** 
+
+El usuario debe abrir la palma de la mano para que
 **Referencias:**
 
 The Coding Train
