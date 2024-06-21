@@ -522,7 +522,7 @@ function controlSnake() {
 
 **Quinto análisis** 
 
-Hasta este punto, el código desarrollado funcionaba relativamente bien, sin embargo, presentó algunos inconvenientes, tales como que la serpiente muere al comer la comida, en vez de crecer. Tratamos de corregir este error durante los días 17, 18 y 19 de junio, pero no obtuvimos resultado, por lo que buscamos complementar este proyecto con otro. 
+Hasta este punto, el código desarrollado funcionaba relativamente bien, sin embargo, presentó algunos inconvenientes, tales como que la serpiente muere al comer la comida, en vez de crecer. Además, observamos que las poses entrenadas no se detectaban correctamente, teniendo que girar todo el torso para que funcionen. Tratamos de corregir este error durante los días 17, 18 y 19 de junio, pero no obtuvimos resultado, por lo que buscamos complementar este proyecto con otro. 
 
 # Proyecto final: Dibujando con un modelo entrenado 
 
