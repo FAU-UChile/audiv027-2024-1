@@ -59,7 +59,7 @@ En el juego, el usuario desplaza a una velocidad constante un animal; la serpien
 
 El usuario controla la dirección de la cabeza de la serpiente (arriba, abajo, izquierda o derecha) y el cuerpo de la serpiente la sigue. Además, el usuario/jugador no puede detener el movimiento de la serpiente, mientras que el juego está en marcha, el animal seguirá avanzando y recolectando puntos.
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/9ebbb0dd-aca3-4f5a-9233-2a062f943ada) TecnoXplora (2024). El juego de la serpiente de los Nokia ya está en Facebook Messenger [Página Web, imagen web]. https://www.lasexta.com/tecnologia-tecnoxplora/apps/juego-serpiente-nokia-esta-facebook messenger_2017022758b522300cf2fa92de5445be.html
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/9ebbb0dd-aca3-4f5a-9233-2a062f943ada) TecnoXplora (2024). El juego de la serpiente de los Nokia ya está en Facebook Messenger [Página Web, imagen web]. https://www.lasexta.com/tecnologia-tecnoxplora/apps/juego-serpiente-nokia-esta-facebookmessenger_2017022758b522300cf2fa92de5445be.html
 
 **Lista de materiales**
 
@@ -87,17 +87,17 @@ Utilizar el proyecto de posturas es acorde a lo que se desea ejecutar (entrenar 
 
 4. Fue entrenado un segundo modelo en base al análisis realizado anteriormente, esta vez usando el Proyecto de Posturas, en base a ello, fueron establecidas las mismas clases: "izquierda, derecha, arriba y abajo".
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/1d10a5d3-d72a-4932-bb63-a4bd94b087d8) Ochoa,V. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile.
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/1d10a5d3-d72a-4932-bb63-a4bd94b087d8)  Ochoa,V. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile.
 
 **Segundo análisis:**
 
 Bajo el segundo análisis, se dieron los resultados al momento de entrenar el modelo, la cámara grababa de la mitad del cuerpo para arriba por estar en un espacio acotado por lo que, al probarla en otros espacios la cámara captaba el cuerpo completo, mezclando la parte de los brazos con las piernas.
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/0923d70f-4aae-4af8-b507-beb614663722) Ochoa,V. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile.
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/0923d70f-4aae-4af8-b507-beb614663722)  Ochoa,V. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile.
 
 5. A partir del análisis anterior, se hizo la prueba de grabarnos al exterior de la sala en un fondo liso, con la cámara de nuestra tablet distintos videos, cada uno con las diferentes posiciones (izquierda, derecha, abajo y arriba). Posteriormente, dividimos estos videos en frames (usando un convertidor online) para importarlos en Teachable Machine.
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/fe6b1eba-fc73-4e31-a261-ffaab9b96b4f) Ochoa,V. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile.
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/fe6b1eba-fc73-4e31-a261-ffaab9b96b4f)  Ochoa,V. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile.
 
 (La división de los videos para pasarlo a frames se realizó con un convertidor online--> https://www.online-convert.com/es/result#)
 
@@ -108,7 +108,7 @@ Bajo el segundo análisis, se dieron los resultados al momento de entrenar el mo
 En esta ocasión, la posición "izquierda" presentó problemas de reconocimiento al momento de realizar las acciones. Esto es debido a que, los fotogramas no tomaban el cuerpo completo siendo incapaces de reconocer adecuadamente.
 
 El último modelo entrenado antes de dar con el definitivo está el siguiente link:
-https://teachablemachine.withgoogle.com/models/x9jaICbA3/ 
+https://teachablemachine.withgoogle.com/models/x9jaICbA3/  
 
 (Es importante destacar que para poder subir un modelo de Teachable Machine a la web, el modelo entrenada se debe guardar y seleccionar la parte para subir) (añadir imagen)
 
