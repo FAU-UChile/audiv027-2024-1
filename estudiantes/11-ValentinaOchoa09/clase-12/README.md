@@ -800,7 +800,7 @@ function makesquares() {
 
 3. Al modificar la posición de los círculos en el canvas, debimos modificar las coordenadas de Y. Esto debido a que para pintar del color del círculo, debes mantener el rango en donde haces click.
 
-4. 
+4. También modificamos el color inicial con el que pintas en el lienzo, el cual anteriormente era azul y ahora por gusto lo pusimos blanco. 
 
 **Referencias:**
 
