@@ -551,7 +551,7 @@ El usuario debe abrir la palma de la mano para que cargue el modelo de ml5 de Ha
 
 Posterior a esto, para dibujar, debe estirar el dedo índice y moverlo por el lienzo.
 
-Para seleccionar colores, debe mover el dedo al círculo de color y mover el dedo como si estuviera haciendo click. 
+Para seleccionar colores, debe mover el dedo al círculo de color y simular como si el dedo estuviera haciendo click. 
 
 Si quiere borrar lo dibujado, debe presionar sobre el círculo negro. 
 
@@ -561,11 +561,11 @@ En primer lugar, revisamos el modelo previamente entrenado que proporciona Ml5, 
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/119694d4-9a83-474d-8a0e-6bf0090d3d3d)
 
-Link: https://editor.p5js.org/ml5/sketches/Handpose_Webcam
+_Modelo de Hand Pose por Ml5: https://editor.p5js.org/ml5/sketches/Handpose_Webcam_
 
-```
 El código proporcionado para utilizar este modelo es el siguiente:
 
+```
 let handpose;
 let video;
 let predictions = [];
@@ -611,12 +611,32 @@ function drawKeypoints() {
   }
 }
 ```
+**Código base para el proyecto** 
+
+**Modificaciones**
+
+1. Cambiamos los cuadrados por círculos.
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/87ebdd4b-31ca-4202-b905-ca53e630e981)
+
+2. Cambiamos los colores por tonalidades pasteles.
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/735f2e16-38f3-4fdd-988d-ab5cf989de16)
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/ad1e6a05-a171-456a-a63f-5049a3d94923)
+
+3. Al modificar la posición de los círculos en el canvas, debimos modificar las coordenadas de Y. Esto debido a que para pintar del color del círculo, debes mantener el rango en donde haces click.
+
+4. 
 
 **Referencias:**
 
 The Coding Train
 
-https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aJwX0rFP-7ccA6ivsPDsK5
-https://www.youtube.com/watch?v=AaGK-fj-BAM
-https://www.youtube.com/watch?v=OMoVcohRgZA&t=0s
-https://www.youtube.com/watch?v=FYgYyq-xqAw&list=PL0FrmHECzRfCDMRpGPpQwj4WpGv51Ip_5&ab_channel=TheCodingTrain
+1. https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aJwX0rFP-7ccA6ivsPDsK5
+ 
+2. https://www.youtube.com/watch?v=AaGK-fj-BAM
+   
+3. https://www.youtube.com/watch?v=OMoVcohRgZA&t=0s
+   
+5. https://www.youtube.com/watch?v=FYgYyqxqAw&list=PL0FrmHECzRfCDMRpGPpQwj4WpGv51Ip_5&ab_channel=TheCodingTrain
