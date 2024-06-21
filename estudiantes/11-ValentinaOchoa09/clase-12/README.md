@@ -373,7 +373,7 @@ El código realizado por The Coding Train está hecho considerando un modelo ent
 
 **Proceso 17 de junio** 
 
-Investigamos sobre cómo importar un modelo entrenado en Teachable Machine de proyecto de posturas, encontrando la función **Pose Net**en videos de The Coding Train, el cual permite detectar las posturas. A partir de esto, realizamos la modificaciones necesarias en el código para aplicarlo.
+Investigamos sobre cómo importar un modelo entrenado en Teachable Machine de proyecto de posturas, encontrando la función **Pose Net** en videos de The Coding Train, el cual permite detectar las posturas. A partir de esto, realizamos la modificaciones necesarias en el código para aplicarlo.
 
 **Código de sketch.js:**
 
@@ -594,11 +594,16 @@ function controlSnake() {
 
 **Quinto análisis** 
 
-Hasta este punto, el código desarrollado funcionaba relativamente bien, sin embargo, presentó algunos inconvenientes, tales como que la serpiente muere al comer la comida, en vez de crecer. Tratamos de corregir este error durante los días 17 y 18 de junio, pero no tuvimos resultado, por lo que buscamos complementar este proyecto con otro. 
+Hasta este punto, el código desarrollado funcionaba relativamente bien, sin embargo, presentó algunos inconvenientes, tales como que la serpiente muere al comer la comida, en vez de crecer. Tratamos de corregir este error durante los días 17, 18 y 19 de junio, pero no tuvimos resultado, por lo que buscamos complementar este proyecto con otro. 
 
-**Segundo proyecto a realizar** 
+# Proyecto final
 
-(Escribir) 
+La idea de este proyecto surge de investigaciones de proyectos realizados con Ml5 en la red social Youtube, en donde tuvimos como referente a The Coding Train, con ideas como clasificación de dibujos, clasificación de sonidos y clasificación de objetos en webcam. No obstante, nuestro mayor exponente que nos entregó el código base para hacer el trabajo fue Steve's Makerspace, quien nos proporciona la idea de dibujar con tu dedo a través de la cámara y eligiendo colores, con un modelo entrenado de Hand Space. 
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/d1dacb59-b6f3-4c59-b343-c7061b2d0a5d)
+
+_Idea de proyecto por Steve's Makerspace: https://www.youtube.com/watch?v=96sWFP9CCkQ&ab_channel=Steve%27sMakerspace_
+
 
 **Referencias:**
 
