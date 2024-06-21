@@ -285,10 +285,11 @@ Investigamos sobre cómo importar un modelo entrenado en Teachable Machine de pr
 
 ```
 // Cargar el modelo entrenado
+
 let poseModelURL = 'https://teachablemachine.withgoogle.com/models/29Q7HHyno/';
 
 let video;
-let poseNet;
+let poseNet; // Incluimos pose y pose net al código
 let poses = [];
 let label = 'Cargando...';
 
@@ -330,6 +331,7 @@ function foodLocation() {
 }
 
 // Función para mover la serpiente con el teclado una vez inicia el juego
+
 function keyPressed() {
   if (!gameStarted) {
     gameStarted = true;
@@ -347,6 +349,8 @@ function keyPressed() {
   }
 }
 
+// Lienzo del canvas
+
 function draw() {
   background(220);
   image(video, 0, 0, width, height);
@@ -356,7 +360,8 @@ function draw() {
   text(label, 10, 40);
   text('Puntuación: ' + (snake.len - 1), 10, 80);
 
-// Reflejar imagen 
+// Reflejar imagen
+
   push();
   translate(width, 0);
   scale(-1, 1);
@@ -384,10 +389,12 @@ function draw() {
   rect(food.x, food.y, 1, 1);
 
 // Función para controlar la serpiente
+
   controlSnake();
 }
 
 // Código de la serpiente
+
 class Snake {
   constructor() {
     this.body = [];
@@ -411,17 +418,21 @@ class Snake {
   }
 
 // Función para que la serpiente crezca al comer
+
   grow() {
     let head = this.body[this.body.length - 1].copy();
     this.len++;
     this.body.push(head);
   }
 
+// Condiciones para que el juego termine
+
   endGame() {
   let x = this.body[this.body.length - 1].x;
   let y = this.body[this.body.length - 1].y;
 
 // Límite del canvas para que la serpiente muera
+
   if (x > w - 1 || x < 0 || y > h - 1 || y < 0) {
     return true;
   }
@@ -436,7 +447,8 @@ class Snake {
   return false;
 }
 
-// Función para que la serpiente coma 
+// Función para que la serpiente coma
+
   eat(pos) {
   let head = this.body[this.body.length - 1];
   let snakeX = head.x;
@@ -445,12 +457,14 @@ class Snake {
   let foodY = pos.y;
 
 // Agregamos estas funciones para intentar evitar que la serpiente muera al comer, convertimos las coordenadas de la serpiente y la comida a la misma escala
+
   snakeX *= rez;
   snakeY *= rez;
   foodX *= rez;
   foodY *= rez;
 
-// Comparamos las posiciones con un margen de error 
+// Comparamos las posiciones con un margen de error
+
   let d = dist(snakeX, snakeY, foodX, foodY);
   if (d < 1) {
     return true;
@@ -468,6 +482,7 @@ class Snake {
 }
 
 // Función para controlar la serpiente basada en las poses del modelo
+
 function controlSnake() {
   if (!gameStarted && poses.length > 0) {
     let pose = poses[0].pose;
