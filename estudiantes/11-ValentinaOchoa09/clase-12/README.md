@@ -48,7 +48,8 @@ Valentina Ochoa.
 
 Snake Game (juego de la serpiente)
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/fda6d9a5-b9a8-40ea-9ab0-59a5a9a4058e) Coolmath Games (2024). Snake Game [Vídeo]. https://www.coolmathgames.com/0-snake 
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/fda6d9a5-b9a8-40ea-9ab0-59a5a9a4058e) 
+Coolmath Games (2024). Snake Game [Screenshot, imagen web]. https://www.coolmathgames.com/0-snake 
 
 ¿Qué es Snake Game?
 
