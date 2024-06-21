@@ -61,8 +61,10 @@ El usuario controla la dirección de la cabeza de la serpiente (arriba, abajo, i
 
 **Proceso clase 07 de junio 2024**
 
-1. Fueron revisados vídeos previos, para así poder entrenar data en Teachable Machine.
+1. Revisamos vídeos previos, para así poder entrenar data en Teachable Machine.
+   
 2. Se hizo una visualización de la playlist de The Coding Train en donde entregaba tutoriales de Teachable Machine, la cual proporcionaba todas las ideas para el proyecto.
+   
 3. Se comenzó a entrenar un primer modelo en Teachable Machine con "Proyecto de Imagen", estableciendo las clases arriba, abajo, izquierda y derecha.
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/1b10350e-2339-4d66-a22d-1ccb46a521ff) (cita)
