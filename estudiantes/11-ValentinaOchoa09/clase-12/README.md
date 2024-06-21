@@ -790,9 +790,7 @@ function makesquares() {
 
 1. Cambiamos los cuadrados por círculos.
 
-<p align="center">
-  <img src="![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/87ebdd4b-31ca-4202-b905-ca53e630e981)" />
-</p>
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/87ebdd4b-31ca-4202-b905-ca53e630e981)
 
 2. Cambiamos los colores por tonalidades pasteles.
 
