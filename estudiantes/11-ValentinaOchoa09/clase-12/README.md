@@ -48,7 +48,7 @@ Valentina Ochoa.
 
    (descp)
 
-**Proyecto a realizar**
+**Primera idea de proyecto a realizar**
 
 Snake Game (juego de la serpiente)
 
@@ -69,11 +69,12 @@ El usuario controla la dirección de la cabeza de la serpiente (arriba, abajo, i
 - Teachable Machine.
 - Webcam.
 - Editor de p5js.
+- Ml5. 
 
 **Proceso clase 07 de junio 2024**
 
-1. Fueron resvisados vídeos previos, para así poder entrenar data en Teachable Machine.
-2. Se hizo una visualización de la playlist de The Coding Train, quien nos entregó toda la información para llevar a cabo el proyecto.
+1. Fueron revisados vídeos previos, para así poder entrenar data en Teachable Machine.
+2. Se hizo una visualización de la playlist de The Coding Train en donde entregaba tutoriales de Teachable Machine, la cual proporcionaba todas las ideas para el proyecto.
 3. Se comenzó a entrenar un primer modelo en Teachable Machine con "Proyecto de Imagen", estableciendo las clases arriba, abajo, izquierda y derecha.
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/1b10350e-2339-4d66-a22d-1ccb46a521ff) (cita)
@@ -108,13 +109,11 @@ División de los videos en frames (https://www.online-convert.com/es/result#)
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/4c82a8d2-dd61-49ce-b7e2-fa5df9d6c804) (cita)
 
-Importando los videos en Teachable Machine
+_Importando los videos en Teachable Machine_
 
 **Tercer análisis:**
 
 En esta ocasión, la posición izquierda presentó problemas. Esto es debido a que los fotogramas no tomaban el cuerpo completo.
-El último modelo entrenado antes de dar con el definitivo está el siguiente link:
-https://teachablemachine.withgoogle.com/models/x9jaICbA3/
 
 **Proceso 13 de junio**
 
@@ -370,7 +369,236 @@ function draw() {
 
 **Análisis del código base**
 
-El código realizado por The Coding Train está hecho considerando un modelo entrenado de Teachable Machine de Proyecto de Imagen. En nuestro caso, entrenamos un modelo de Proyecto de Posturas, por lo cual tenemos dos salidas: volver a entrenar un modelo, pero esta vez de un proyecto de imagen o hacer las modificaciones necesarias en el código para relacionarlo con nuestro modelo de posturas.
+El código realizado por The Coding Train está hecho considerando un modelo entrenado de Teachable Machine de Proyecto de Imagen. En nuestro caso, entrenamos un modelo de Proyecto de Posturas, por lo cual tuvimos dos salidas: volver a entrenar un modelo, pero esta vez de un proyecto de imagen o hacer las modificaciones necesarias en el código para relacionarlo con nuestro modelo de posturas. En este caso, elegimos la segunda opción. 
+
+**Proceso 17 de junio** 
+
+Investigamos sobre cómo importar un modelo entrenado en Teachable Machine de proyecto de posturas, encontrando la función **Pose Net**en videos de The Coding Train, el cual permite detectar las posturas. A partir de esto, realizamos la modificaciones necesarias en el código para aplicarlo.
+
+**Código de sketch.js:**
+
+```
+let poseModelURL = 'https://teachablemachine.withgoogle.com/models/29Q7HHyno/';
+
+let video;
+let poseNet;
+let poses = [];
+let label = 'Cargando...';
+
+let snake;
+let rez = 20;
+let food;
+let w;
+let h;
+let speed = 5;
+let gameStarted = false;
+
+function setup() {
+  createCanvas(600, 400);
+  video = createCapture(VIDEO);
+  video.size(width, height);
+  video.hide();
+
+  poseNet = ml5.poseNet(video, modelLoaded);
+  poseNet.on('pose', gotPoses);
+
+  w = floor(width / rez);
+  h = floor(height / rez);
+  snake = new Snake();
+  foodLocation();
+}
+
+function modelLoaded() {
+  console.log('Modelo de posturas cargado');
+}
+
+function gotPoses(results) {
+  poses = results;
+}
+
+function foodLocation() {
+  let x = floor(random(w));
+  let y = floor(random(h));
+  food = createVector(x, y);
+}
+
+function keyPressed() {
+  if (!gameStarted) {
+    gameStarted = true;
+    snake.setDir(0, 1); // Empieza moviéndose hacia abajo
+  } else {
+    if (keyCode === UP_ARROW && snake.ydir === 0) {
+      snake.setDir(0, -1);
+    } else if (keyCode === DOWN_ARROW && snake.ydir === 0) {
+      snake.setDir(0, 1);
+    } else if (keyCode === LEFT_ARROW && snake.xdir === 0) {
+      snake.setDir(-1, 0);
+    } else if (keyCode === RIGHT_ARROW && snake.xdir === 0) {
+      snake.setDir(1, 0);
+    }
+  }
+}
+
+function draw() {
+  background(220);
+  image(video, 0, 0, width, height);
+  textSize(32);
+  fill(255);
+  stroke(0);
+  text(label, 10, 40);
+  text('Puntuación: ' + (snake.len - 1), 10, 80);
+
+  push();
+  translate(width, 0);
+  scale(-1, 1);
+  image(video, 0, 0, width, height);
+  pop();
+
+  scale(rez);
+  if (snake.eat(food)) {
+    foodLocation();
+    snake.grow();
+  }
+  if (frameCount % speed === 0 && gameStarted) {
+    snake.update();
+  }
+  snake.show();
+
+  if (snake.endGame()) {
+    console.log('JUEGO TERMINADO');
+    background(255, 0, 0);
+    noLoop();
+  }
+
+  noStroke();
+  fill(255, 0, 0);
+  rect(food.x, food.y, 1, 1);
+
+  // Llama a la función controlSnake() para controlar la serpiente
+  controlSnake();
+}
+
+class Snake {
+  constructor() {
+    this.body = [];
+    this.body[0] = createVector(floor(w / 2), floor(h / 2));
+    this.xdir = 0;
+    this.ydir = 0;
+    this.len = 1; // Comienza con longitud 1
+  }
+
+  setDir(x, y) {
+    this.xdir = x;
+    this.ydir = y;
+  }
+
+  update() {
+    let head = this.body[this.body.length - 1].copy();
+    this.body.shift();
+    head.x += this.xdir;
+    head.y += this.ydir;
+    this.body.push(head);
+  }
+
+  grow() {
+    let head = this.body[this.body.length - 1].copy();
+    this.len++;
+    this.body.push(head);
+  }
+
+  endGame() {
+  let x = this.body[this.body.length - 1].x;
+  let y = this.body[this.body.length - 1].y;
+
+  // Verificar los límites del canvas
+  if (x > w - 1 || x < 0 || y > h - 1 || y < 0) {
+    return true;
+  }
+
+  // Verificar colisión consigo misma (opcional)
+  for (let i = 0; i < this.body.length - 1; i++) {
+    let part = this.body[i];
+    if (part.x === x && part.y === y) {
+      return true;
+    }
+  }
+  return false;
+}
+
+
+  eat(pos) {
+  let head = this.body[this.body.length - 1];
+  let snakeX = head.x;
+  let snakeY = head.y;
+  let foodX = pos.x;
+  let foodY = pos.y;
+
+  // Convertimos las coordenadas de la serpiente y la comida a la misma escala
+  snakeX *= rez;
+  snakeY *= rez;
+  foodX *= rez;
+  foodY *= rez;
+
+  // Comparamos las posiciones con un margen de error adecuado
+  let d = dist(snakeX, snakeY, foodX, foodY);
+  if (d < 1) {
+    return true;
+  }
+  return false;
+}
+
+  show() {
+    for (let i = 0; i < this.body.length; i++) {
+      fill(0);
+      noStroke();
+      rect(this.body[i].x, this.body[i].y, 1, 1);
+    }
+  }
+}
+
+// Función para controlar la serpiente basada en las poses detectadas
+function controlSnake() {
+  if (!gameStarted && poses.length > 0) {
+    let pose = poses[0].pose;
+    let leftWrist = pose.keypoints[9].position;
+    let rightWrist = pose.keypoints[10].position;
+
+    if (abs(leftWrist.x - rightWrist.x) < 50) {
+      gameStarted = true;
+      snake.setDir(0, 1); // Empieza moviéndose hacia abajo
+    }
+  }
+
+  if (gameStarted && !keyIsPressed) {
+    let pose = poses[0].pose;
+    let nose = pose.keypoints[0].position;
+    let leftWrist = pose.keypoints[9].position;
+    let rightWrist = pose.keypoints[10].position;
+
+    if (leftWrist.y < nose.y && rightWrist.y < nose.y) {
+      label = 'UP';
+      snake.setDir(0, -1);
+    } else if (leftWrist.x < nose.x && rightWrist.x < nose.x) {
+      label = 'DOWN';
+      snake.setDir(0, 1);
+    } else if (leftWrist.x > nose.x && rightWrist.x > nose.x) {
+      label = 'RIGHT';
+      snake.setDir(1, 0);
+    } else if (leftWrist.y > nose.y && rightWrist.y > nose.y) {
+      label = 'LEFT';
+      snake.setDir(-1, 0);
+    }
+  }
+}
+```
+
+**Quinto análisis** 
+
+Hasta este punto, el código desarrollado funcionaba relativamente bien, sin embargo, presentó algunos inconvenientes, tales como que la serpiente muere al comer la comida, en vez de crecer. Tratamos de corregir este error durante los días 17 y 18 de junio, pero no tuvimos resultado, por lo que buscamos complementar este proyecto con otro. 
+
+**Segundo proyecto a realizar** 
+
+(Escribir) 
 
 **Referencias:**
 
