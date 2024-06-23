@@ -107,7 +107,12 @@ _![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/4
 
 **Tercer análisis:**
 
-En esta ocasión, la posición izquierda presentó problemas. Esto es debido a que los fotogramas no tomaban el cuerpo completo.
+En esta ocasión, la posición "izquierda" presentó problemas de reconocimiento al momento de realizar las acciones. Esto es debido a que, los fotogramas no tomaban el cuerpo completo siendo incapaces de reconocer adecuadamente.
+
+El último modelo entrenado antes de dar con el definitivo está el siguiente link:
+https://teachablemachine.withgoogle.com/models/x9jaICbA3/  
+
+(Es importante destacar que para poder subir un modelo de Teachable Machine a la web, el modelo entrenada se debe guardar y seleccionar la parte para subir) (añadir imagen)
 
 **Proceso 13 de junio**
 
