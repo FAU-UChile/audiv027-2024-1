@@ -10,37 +10,35 @@ Valentina Ochoa.
 
 1. https://www.youtube.com/watch?v=ABN_DWnM5GQ
 
-   (descp)
+Clasificación de dibujos con DoodleNet, el cual es un modelo preentrenado de ml5.js que es capaz de reconocer 345 categorías de dibujos a mano gracias a su aprendizaje a base de garabatos y trazados hechos por más de 15 millones de personas. El modelo se entrena con el conjunto de datos de Google QuickDraw y se puede utilizar para clasificar dibujos en tiempo real.
 
 2. https://www.youtube.com/watch?v=TOrVsLklltM
 
-   (descp)
+El vídeo enseña y muestra cómo usar Teachable Machine, para crear un modelo de clasificación de sonidos tales como: "silbidos, campanas y ukelele". El modelo se entrena a base de utilizar muestras de audio e integrarlas a un código base que es el juego de serpientes, donde el movimiento de la serpiente se encuentra controlado por los sonidos.
 
 3. https://github.com/Pawandeep-prog/virtual-paint
 
-   (descp)
+El vídeo realiza una demostración del creador dibujando con los dedos por medio de la cámara, cambiando de formas, estilos e incluso borrando. Asimismo, su Github es una entrada a los códigos que realizó en Python con el objetivo del proyecto.
 
-4. https://www.youtube.com/watch?v=TOrVsLklltM
+4. https://www.youtube.com/watch?v=ZiwZaAVbXQo
 
-   (descp)
+Creación de un pintor virtual utilizando IA y OpenCV Python. El proyecto busca rastrear la mano y usar puntos para dibujar en la pantalla de manera que el resultado sea en tiempo real, seleccionando colores y un borrador.
 
-5. https://www.youtube.com/watch?v=ZiwZaAVbXQo
+5. https://www.youtube.com/watch?v=3MqJzMvHE3E
 
-   (descp)
+El vídeo enseña cómo crear una red neuronal con ml5.js para clasificar formas geométricas tales como: "círculos, cuadrados y triángulos". Recopilando datos para entrenar el modelo e implementarlo a la clasificación de formas dibujadas a mano.
 
-6. https://www.youtube.com/watch?v=UPgxnGC8oBU&t=406s
+6. https://www.youtube.com/watch?v=UPgxnGC8oBU&ab_channel=TheCodingTrain
 
-   (descp)
-
-7. https://www.youtube.com/watch?v=3MqJzMvHE3E
-
-   (descp)
+En este vídeo, se enseña y muestra cómo utilizar Teachable Machine para poder controlar un juego de serpientes mediante el reconocimiento de gestos manuales. El modelo se entrena a base de la clasificación para reconocer los movimientos de izquierda, derecha, arriba y abajo.
 
 **Primera idea de proyecto a realizar**
 
 Snake Game (juego de la serpiente)
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/fda6d9a5-b9a8-40ea-9ab0-59a5a9a4058e) (citar)
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/fda6d9a5-b9a8-40ea-9ab0-59a5a9a4058e) 
+
+_Coolmath Games (2024). Snake Game [Screenshot, imagen web]: https://www.coolmathgames.com/0-snake_
 
 **¿Qué es el Snake Game?**
 
@@ -50,30 +48,35 @@ En el juego, el usuario desplaza a una velocidad constante un animal; la serpien
 
 El usuario controla la dirección de la cabeza de la serpiente (arriba, abajo, izquierda o derecha) y el cuerpo de la serpiente la sigue. Además, el usuario/jugador no puede detener el movimiento de la serpiente, mientras que el juego está en marcha, el animal seguirá avanzando y recolectando puntos.
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/9ebbb0dd-aca3-4f5a-9233-2a062f943ada) (citar)
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/9ebbb0dd-aca3-4f5a-9233-2a062f943ada) 
+
+_TecnoXplora (2024). El juego de la serpiente de los Nokia ya está en Facebook Messenger [Página Web, imagen web]. https://www.lasexta.com/tecnologia-tecnoxplora/apps/juego-serpiente-nokia-esta-facebookmessenger_2017022758b522300cf2fa92de5445be.html_
 
 **Lista de materiales**
 
 - Teachable Machine.
 - Webcam.
 - Editor de p5js.
-- Ml5. 
+- Ml5.
+- Markdown para escribir este documento. 
 
 **Proceso clase 07 de junio 2024**
 
-1. Revisamos vídeos previos, para así poder entrenar data en Teachable Machine.
+1. Fueron revisados vídeos previos, para así poder entrenar data en Teachable Machine.
    
-2. Se hizo una visualización de la playlist de The Coding Train en donde entregaba tutoriales de Teachable Machine, la cual proporcionaba todas las ideas para el proyecto.
+2. Se hizo una visualización de la playlist de The Coding Train, quien entregó toda la información para llevar a cabo el proyecto.
    
 3. Se comenzó a entrenar un primer modelo en Teachable Machine con "Proyecto de Imagen", estableciendo las clases arriba, abajo, izquierda y derecha.
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/1b10350e-2339-4d66-a22d-1ccb46a521ff) (cita)
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/1b10350e-2339-4d66-a22d-1ccb46a521ff) 
 
-_Captura de pantalla entrenando el primer modelo_
+_Ochoa,V. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile._
 
-Al probarlo en otra persona, no detectaba el modelo correctamente ya que, se definía la izquierda como arriba o abajo, sin seguir el objetivo principal.
+Resultado: Al probarlo en otra persona, no detectaba el modelo correctamente ya que, se definía la izquierda como arriba o abajo, sin seguir el objetivo principal.
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/d7ce4d94-0204-4fb2-99b3-fc6e19418781) (cita)
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/d7ce4d94-0204-4fb2-99b3-fc6e19418781) 
+
+_Astudillo,N. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile._
 
 **Primer análisis:**
 
