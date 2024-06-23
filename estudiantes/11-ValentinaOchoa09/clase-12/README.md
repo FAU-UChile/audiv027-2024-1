@@ -290,7 +290,7 @@ function draw() {
 
 **Análisis del código base**
 
-El código realizado por The Coding Train está hecho considerando un modelo entrenado de Teachable Machine de Proyecto de Imagen. En nuestro caso, entrenamos un modelo de Proyecto de Posturas, por lo cual tuvimos dos salidas: volver a entrenar un modelo, pero esta vez de un proyecto de imagen o hacer las modificaciones necesarias en el código para relacionarlo con nuestro modelo de posturas. En este caso, elegimos la segunda opción. 
+El código realizado por "The Coding Train" está hecho considerando un modelo entrenado de Teachable Machine de Proyecto de Imagen. En nuestro caso, fue entrenado un modelo de Proyecto de Posturas, por lo cual nacieron dos salidas: volver a entrenar un modelo, pero esta vez de un Proyecto de Imagen o hacer las modificaciones necesarias en el código para relacionarlo con el modelo de posturas.
 
 **Proceso 17 de junio** 
 
@@ -539,11 +539,10 @@ Hasta este punto, el código desarrollado funcionaba relativamente bien, sin emb
 
 # Proyecto final: Dibujando con un modelo entrenado 
 
-La idea de este proyecto surge de investigaciones de proyectos realizados con Ml5 en la red social Youtube, en donde tuvimos como referente a The Coding Train, con ideas como clasificación de dibujos, clasificación de sonidos y clasificación de objetos en webcam. No obstante, nuestro mayor exponente que nos entregó el código base para hacer el trabajo fue Steve's Makerspace, quien nos proporciona la idea de dibujar con tu dedo a través de la cámara y eligiendo colores, con un modelo entrenado de Hand Space. 
+La idea de este proyecto surge de investigaciones de proyectos realizados con Ml5 en la red social Youtube, de donde surge como referente "The Coding Train", con ideas como clasificación de dibujos, clasificación de sonidos y clasificación de objetos en webcam. No obstante, el mayor exponente que entregó el código base para hacer el trabajo fue el canal de "Steve's Makerspace", quien proporcionó la idea de dibujar con los dedos a través de la cámara, eligiendo colores y el trazo de la mano de un modelo entrenado de Hand Space. 
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/d1dacb59-b6f3-4c59-b343-c7061b2d0a5d)
-
-_Idea de proyecto por Steve's Makerspace: https://www.youtube.com/watch?v=96sWFP9CCkQ&ab_channel=Steve%27sMakerspace_
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/d1dacb59-b6f3-4c59-b343-c7061b2d0a5d) 
+_Steve's Makerspace (2022). Turning My Body Into a Controller with Machine Learning, ml5.js, and p5.js [Vídeo]. https://www.youtube.com/watch?v=96sWFP9CCkQ&t=2s_
 
 **Materiales** 
 
@@ -554,21 +553,21 @@ _Idea de proyecto por Steve's Makerspace: https://www.youtube.com/watch?v=96sWFP
 
 **Definición de proyecto:** 
 
-Nuestro proyecto busca que el usuario pueda dibujar en un lienzo, utilizando su cuerpo como un controlador mediante la cámara web. Implementa el uso de ml5 con un modelo de Hand Pose previamente entrenado con 17 puntos claves de la mano. 
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/64304c42-f625-4555-8d13-94d9446564a1)
+El presente proyecto busca que el usuario pueda dibujar en un lienzo invisible, proporcionado por la cámara web, mediante la implementación de su cuerpo como controlador. Éste trabajo implementó el uso de Ml5.js, con un modelo de Hand Pose previamente entrenado con 17 puntos claves de la mano. 
 
-_Modelo de Hand Pose proporcionado por ml5: https://learn.ml5js.org/#/reference/handpose_
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/64304c42-f625-4555-8d13-94d9446564a1) 
+_Ml5.js (s.f). Hand pose [Screenshot]. https://learn.ml5js.org/#/reference/handpose_
 
 **Instrucciones del código** 
 
-El usuario debe abrir la palma de la mano para que cargue el modelo de ml5 de Hand Pose. Una vez el modelo cargue, aparecerá en la parte inferior 'Model Ready!'.
+1.El usuario debe abrir la palma de la mano para que cargue el modelo de Ml5.js, Hand Pose. Una vez el modelo cargue, aparecerá en la parte inferior 'Model Ready!'.
 
-Posterior a esto, para dibujar, debe estirar el dedo índice y moverlo por el lienzo.
+2.Posterior a esto, para dibujar, debe estirar el dedo índice y moverlo por el lienzo.
 
-Para seleccionar colores, debe mover el dedo al círculo de color y simular como si el dedo estuviera haciendo click. 
+3.Para seleccionar colores, debe mover el dedo al círculo de color y simular como si el dedo estuviera haciendo click. 
 
-Si quiere borrar lo dibujado, debe presionar sobre el círculo negro. 
+4.Si quiere borrar lo dibujado, debe presionar sobre el círculo negro. 
 
 **Proceso del proyecto**
 
@@ -801,19 +800,26 @@ function makesquares() {
 
 **Modificaciones**
 
-1. Cambiamos los cuadrados por círculos.
+1. Fueron cambiados los cuadrados por círculos.
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/87ebdd4b-31ca-4202-b905-ca53e630e981)
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/87ebdd4b-31ca-4202-b905-ca53e630e981) 
+_Ochoa,V. (2024). Modificar código [Screenshot]. Habitación del hogar, Santiago de Chile._
 
-2. Cambiamos los colores por tonalidades pasteles.
+2. Fueron cambiados los colores por tonalidades pasteles.
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/735f2e16-38f3-4fdd-988d-ab5cf989de16)
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/735f2e16-38f3-4fdd-988d-ab5cf989de16) 
+_Ochoa,V. (2024). Modificar código [Screenshot]. Habitación del hogar, Santiago de Chile._
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/ad1e6a05-a171-456a-a63f-5049a3d94923)
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/ad1e6a05-a171-456a-a63f-5049a3d94923) 
+_Ochoa,V. (2024). Modificar código [Screenshot]. Habitación del hogar, Santiago de Chile._
 
-3. Al modificar la posición de los círculos en el canvas, debimos modificar las coordenadas de Y. Esto debido a que para pintar del color del círculo, debes mantener el rango en donde haces click.
+3. Al modificar la posición de los círculos en el canvas, se debió modificar las coordenadas de Y. Esto debido a que, para pintar del color del círculo, debes mantener el rango en donde se hace click.
 
-4. También modificamos el color inicial con el que pintas en el lienzo, el cual anteriormente era azul y ahora por gusto lo pusimos blanco. 
+4. También fue modificado el color inicial con el que se pinta en el lienzo, el cual anteriormente era azul y ahora por gusto, se dispuso blanco.
+
+**Conclusiones**
+
+Es importante poder manejar de buena manera las herramientas para poder comprender y facilitar un poco más la realización de los códigos, sin embargo, la implementación de la IA a nivel de dispósitivos reactivos, acerca los trabajos más al público, como eran los dos proyectos que llevamos a cabo.
 
 **Referencias:**
 
