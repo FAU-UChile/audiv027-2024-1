@@ -96,15 +96,14 @@ Bajo el segundo análisis, se dieron los resultados al momento de entrenar el mo
 _![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/0923d70f-4aae-4af8-b507-beb614663722) 
 Ochoa,V. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile._
 
-5. A partir del análisis anterior, hicimos la prueba de grabarnos al exterior de la sala en un fondo liso, con la cámara de nuestra tablet distintos videos, cada uno con las diferentes posiciones (izquierda, derecha, abajo y arriba). Posteriormente, dividimos estos videos en frames (usando un convertidor online) para importarlos en Teachable Machine.
+5. A partir del análisis anterior, se hizo la prueba de grabarnos al exterior de la sala en un fondo liso, con la cámara de nuestra tablet distintos videos, cada uno con las diferentes posiciones (izquierda, derecha, abajo y arriba). Posteriormente, dividimos estos videos en frames (usando un convertidor online) para importarlos en Teachable Machine.
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/fe6b1eba-fc73-4e31-a261-ffaab9b96b4f) (cita)
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/fe6b1eba-fc73-4e31-a261-ffaab9b96b4f)  
+_Ochoa,V. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile._
 
-División de los videos en frames (https://www.online-convert.com/es/result#)
+(La división de los videos para pasarlo a frames se realizó con un convertidor online--> https://www.online-convert.com/es/result#)
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/4c82a8d2-dd61-49ce-b7e2-fa5df9d6c804) (cita)
-
-_Importando los videos en Teachable Machine_
+_![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/4c82a8d2-dd61-49ce-b7e2-fa5df9d6c804) Astudillo,N. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile._
 
 **Tercer análisis:**
 
