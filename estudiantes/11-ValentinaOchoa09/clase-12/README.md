@@ -116,28 +116,32 @@ https://teachablemachine.withgoogle.com/models/x9jaICbA3/
 
 **Proceso 13 de junio**
 
-Este día quisimos dejar entrenado el modelo de Teachable Machine, para así poder llegar a las clases del viernes 14 de junio y avanzar con la parte del código. Por lo tanto, grabamos las posturas en el living de nuestras casas, con las mismas indicaciones anteriores: derecha, izquierda, arriba y abajo.
+Este día fue empleado para dejar entrenado el modelo de Teachable Machine, para así poder llegar a las clases del viernes 14 de junio y avanzar con la parte del código. Por lo tanto, fueron grabadas las posturas en un living de una de las casas, con las mismas indicaciones anteriores: "derecha, izquierda, arriba y abajo".
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/e750f5f6-4c73-4ef2-b248-cd0ab303b98c)
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/e750f5f6-4c73-4ef2-b248-cd0ab303b98c) 
+_Ochoa,V. (2024). Seguir entrenando Teachable Machine [Screenshot]. Living del hogar, Santiago de Chile._
 
 **Instrucciones de postura**
 
-Para la derecha, debes levantar el brazo derecho en un ángulo de 90 grados. También, puedes bajarlo 90 grados a la derecha.
+Para la derecha, se debe levantar el brazo derecho en un ángulo de 90 grados. También, puede ser descendido a 90 grados a la derecha.
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/7b8d9876-3d87-45bb-a832-d442e0eb35f9)
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/7b8d9876-3d87-45bb-a832-d442e0eb35f9) 
+_Ochoa,V. (2024). Seguir entrenando Teachable Machine [Screenshot]. Living del hogar, Santiago de Chile._
 
-En el caso de la izquierda, se aplica lo mismo que en la derecha, pero para el lado izquierdo, valga la redundancia.
+En el caso de la izquierda, se aplica lo mismo que en la derecha, con la dirección en 90 grados. 
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/8374a563-406d-4852-a283-c971287dba4e)
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/8374a563-406d-4852-a283-c971287dba4e) 
+_Ochoa,V. (2024). Seguir entrenando Teachable Machine [Screenshot]. Living del hogar, Santiago de Chile._
 
-Para la postura arriba, debes levantar ambos brazos en 90 grados.
+Para la postura arriba, se debe levantar ambos brazos en 90 grados.
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/c098dc3f-1a29-457d-81e7-a0159d760588)
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/c098dc3f-1a29-457d-81e7-a0159d760588) 
+_Ochoa,V. (2024). Seguir entrenando Teachable Machine [Screenshot]. Living del hogar, Santiago de Chile._
 
-Por último, para hacer la postura de abajo, debes bajar ambos brazos en un ángulo de 90 grados.
+Por último, para hacer la postura de abajo, se debe bajar ambos brazos en un ángulo de 90 grados.
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/a2bfdeb9-c9cc-4c41-a92c-fff050ad1a72)
-
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/a2bfdeb9-c9cc-4c41-a92c-fff050ad1a72) 
+_Ochoa,V. (2024). Seguir entrenando Teachable Machine [Screenshot]. Living del hogar, Santiago de Chile._
 **Modelo entrenado**
 
 https://teachablemachine.withgoogle.com/models/Kuml-rphX/
