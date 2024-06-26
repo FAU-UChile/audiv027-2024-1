@@ -1,0 +1,5 @@
+[mi-proyecto.zip](https://github.com/user-attachments/files/15994187/mi-proyecto.zip)
+![Captura de pantalla 2024-06-26 144758](https://github.com/angebv00/audiv027-2024-1/assets/163590234/7bae209c-7f4f-46a0-8d93-edb6c4ad57c2)
+![Captura de pantalla 2024-06-26 150340](https://github.com/angebv00/audiv027-2024-1/assets/163590234/22ba8e2d-5fc8-49f0-9126-76087cbee360)
+![Captura de pantalla 2024-06-26 150353](https://github.com/angebv00/audiv027-2024-1/assets/163590234/38c7144b-3c27-4784-94a0-81cb4ca3ca5f)
+![Captura de pantalla 2024-06-26 150416](https://github.com/angebv00/audiv027-2024-1/assets/163590234/eb90f814-1fb0-4b21-a873-2bd4d0d69697)
