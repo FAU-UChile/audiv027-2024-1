@@ -40,3 +40,5 @@
 
 </html>
 ```
+# 2do codigo 
+![imagen](https://github.com/angebv00/audiv027-2024-1/assets/163590234/9b0e619c-82b6-4153-af29-94c8976fa55e)
