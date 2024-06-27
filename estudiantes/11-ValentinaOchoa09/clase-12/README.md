@@ -142,9 +142,31 @@ Por último, para hacer la postura de abajo, se debe bajar ambos brazos en un á
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/a2bfdeb9-c9cc-4c41-a92c-fff050ad1a72) 
 _Ochoa,V. (2024). Seguir entrenando Teachable Machine [Screenshot]. Living del hogar, Santiago de Chile._
+
 **Modelo entrenado**
 
-https://teachablemachine.withgoogle.com/models/Kuml-rphX/
+[https://teachablemachine.withgoogle.com/models/Kuml-rphX/](https://teachablemachine.withgoogle.com/models/29Q7HHyno/)
+
+**¿Cómo subir un modelo de Teachable Machine?** 
+
+En primer lugar, se entrenó el modelo en la página de Teachable Machine (https://teachablemachine.withgoogle.com/train). Una vez entrenado, se selecciona en donde dice ''preparar modelo'' para que el modelo se desarrolle. Se debe mantener la pestaña abierta mientras se prepara el modelo.
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/fa80be0a-8dc4-4236-8ef3-e7855460794c)
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/35feca4d-a1ea-4f7e-8760-7106d6cac049)
+
+Posterior a esto, se debe hacer click en ''Exportar modelo''. Aquí, se mostrará la opción de ''Subir mi modelo'', el cual al seleccionarla sube el modelo entrenado a una nube y a la red, otorgando el enlace para compartir. 
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/c2830894-6fa3-4ab2-a959-ac2f29fd00c3)
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/351007ce-571a-4f85-802b-0a9027390d12)
+
+Así mismo, puedes descargar el modelo para importarlo a tu proyecto con un archivo json. 
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/4caad11a-c6b3-4e4e-b3b0-0a7a4e13a4d3)
+
+
+
 
 **Código base**
 
@@ -821,7 +843,6 @@ _Ochoa,V. (2024). Modificar código [Screenshot]. Habitación del hogar, Santiag
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/152b753d-7a9e-4b0c-8e98-2dd3bd63fc24)
 _Ochoa,V. (2024). Colores agregados [Screenshot]. Habitación del hogar, Santiago de Chile._
-
 
 **Conclusiones**
 
