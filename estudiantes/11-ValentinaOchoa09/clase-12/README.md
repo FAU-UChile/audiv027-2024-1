@@ -87,6 +87,7 @@ Utilizar el proyecto de posturas es acorde a lo que se desea ejecutar (entrenar 
 4. Fue entrenado un segundo modelo en base al análisis realizado anteriormente, esta vez usando el Proyecto de Posturas, en base a ello, fueron establecidas las mismas clases: "izquierda, derecha, arriba y abajo".
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/1d10a5d3-d72a-4932-bb63-a4bd94b087d8)  
+
 _Ochoa,V. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile._
 
 **Segundo análisis:**
@@ -94,16 +95,20 @@ _Ochoa,V. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sa
 Bajo el segundo análisis, se dieron los resultados al momento de entrenar el modelo, la cámara grababa de la mitad del cuerpo para arriba por estar en un espacio acotado por lo que, al probarla en otros espacios la cámara captaba el cuerpo completo, mezclando la parte de los brazos con las piernas.
 
 _![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/0923d70f-4aae-4af8-b507-beb614663722) 
+
 Ochoa,V. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile._
 
 5. A partir del análisis anterior, se hizo la prueba de grabarnos al exterior de la sala en un fondo liso, con la cámara de nuestra tablet distintos videos, cada uno con las diferentes posiciones (izquierda, derecha, abajo y arriba). Posteriormente, dividimos estos videos en frames (usando un convertidor online) para importarlos en Teachable Machine.
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/fe6b1eba-fc73-4e31-a261-ffaab9b96b4f)  
+
 _Ochoa,V. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile._
 
 (La división de los videos para pasarlo a frames se realizó con un convertidor online--> https://www.online-convert.com/es/result#)
 
-_![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/4c82a8d2-dd61-49ce-b7e2-fa5df9d6c804) Astudillo,N. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile._
+_![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/4c82a8d2-dd61-49ce-b7e2-fa5df9d6c804) 
+
+_Astudillo,N. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile._
 
 **Tercer análisis:**
 
@@ -153,20 +158,27 @@ En primer lugar, se entrenó el modelo en la página de Teachable Machine (https
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/fa80be0a-8dc4-4236-8ef3-e7855460794c)
 
+_Ochoa,V. (2024). Subir modelo de Teachable Machine. [Screenshot]. Santiago de Chile._
+
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/35feca4d-a1ea-4f7e-8760-7106d6cac049)
+
+_Ochoa,V. (2024). Preparar modelo de Teachable Machine. [Screenshot]. Santiago de Chile._
 
 Posterior a esto, se debe hacer click en ''Exportar modelo''. Aquí, se mostrará la opción de ''Subir mi modelo'', el cual al seleccionarla sube el modelo entrenado a una nube y a la red, otorgando el enlace para compartir. 
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/c2830894-6fa3-4ab2-a959-ac2f29fd00c3)
 
+_Ochoa,V. (2024). Exportar modelo de Teachable Machine. [Screenshot]. Santiago de Chile._
+
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/351007ce-571a-4f85-802b-0a9027390d12)
+
+_Ochoa,V. (2024). Subir modelo de Teachable Machine. [Screenshot]. Santiago de Chile._
 
 Así mismo, puedes descargar el modelo para importarlo a tu proyecto con un archivo json. 
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/4caad11a-c6b3-4e4e-b3b0-0a7a4e13a4d3)
 
-
-
+_Ochoa,V. (2024). Descargar modelo de Teachable Machine. [Screenshot]. Santiago de Chile._
 
 **Código base**
 
