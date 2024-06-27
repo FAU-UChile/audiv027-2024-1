@@ -839,14 +839,17 @@ function makesquares() {
 1. Fueron cambiados los cuadrados por círculos.
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/87ebdd4b-31ca-4202-b905-ca53e630e981) 
+
 _Ochoa,V. (2024). Modificar código [Screenshot]. Habitación del hogar, Santiago de Chile._
 
 2. Fueron cambiados los colores por tonalidades pasteles.
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/735f2e16-38f3-4fdd-988d-ab5cf989de16) 
+
 _Ochoa,V. (2024). Modificar código [Screenshot]. Habitación del hogar, Santiago de Chile._
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/ad1e6a05-a171-456a-a63f-5049a3d94923) 
+
 _Ochoa,V. (2024). Modificar código [Screenshot]. Habitación del hogar, Santiago de Chile._
 
 3. Al modificar la posición de los círculos en el canvas, se debió modificar las coordenadas de Y. Esto debido a que, para pintar del color del círculo, debes mantener el rango en donde se hace click.
@@ -856,6 +859,7 @@ _Ochoa,V. (2024). Modificar código [Screenshot]. Habitación del hogar, Santiag
 5. Se agregaron nuevos colores en la parte derecha del lienzo, para dar más dinamismo.
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/152b753d-7a9e-4b0c-8e98-2dd3bd63fc24)
+
 _Ochoa,V. (2024). Colores agregados [Screenshot]. Habitación del hogar, Santiago de Chile._
 
 **Conclusiones**
