@@ -2,9 +2,9 @@
 
 **Estudiantes:**
 
-Natalie Astudillo.
+Natalie Astudillo (https://github.com/NAF02) 
 
-Valentina Ochoa.
+Valentina Ochoa (el presente Github) 
 
 **Ideas previas por The Coding Train:**
 
@@ -595,7 +595,6 @@ _Steve's Makerspace (2022). Turning My Body Into a Controller with Machine Learn
 
 **Definición de proyecto:** 
 
-
 El presente proyecto busca que el usuario pueda dibujar en un lienzo invisible, proporcionado por la cámara web, mediante la implementación de su cuerpo como controlador. Éste trabajo implementó el uso de Ml5.js, con un modelo de Hand Pose previamente entrenado con 17 puntos claves de la mano. 
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/64304c42-f625-4555-8d13-94d9446564a1) 
@@ -890,14 +889,30 @@ Y por último, pero no menos importante, una conclusión desde el ámbito humano
 
 The Coding Train
 
-1. https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aJwX0rFP-7ccA6ivsPDsK5
+1. Playlist Teachable Machine: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aJwX0rFP-7ccA6ivsPDsK5
  
-2. https://www.youtube.com/watch?v=AaGK-fj-BAM
+2. Desafío de codificación # 3: El juego de la serpiente: https://www.youtube.com/watch?v=AaGK-fj-BAM
    
-3. https://www.youtube.com/watch?v=OMoVcohRgZA&t=0s
+3. Coding Challenge #115: Snake Game Redux: https://www.youtube.com/watch?v=OMoVcohRgZA&t=0s
    
-4. https://www.youtube.com/watch?v=FYgYyqxqAw&list=PL0FrmHECzRfCDMRpGPpQwj4WpGv51Ip_5&ab_channel=TheCodingTrain
+4. ml5.js: Pose Classification with PoseNet and ml5.neuralNetwork(): https://www.youtube.com/watch?v=FYgYyqxqAw&list=PL0FrmHECzRfCDMRpGPpQwj4WpGv51Ip_5&ab_channel=TheCodingTrain
 
-5. https://www.youtube.com/watch?v=A2yFBDBq9UY&ab_channel=CreativeComputation
+5. ml5.js Pose Estimation with PoseNet: https://www.youtube.com/watch?v=OIo-DIOkNVg&ab_channel=TheCodingTrain
 
-6.
+Creative Computation
+
+AI 3 (2021): ml5.js: Handpose: https://www.youtube.com/watch?v=A2yFBDBq9UY&ab_channel=CreativeComputation
+
+Steve's Makerspace
+
+1. Color in p5.js: How to Code Generative Art: https://www.youtube.com/watch?v=PSDUMZRYWRU&ab_channel=Steve%27sMakerspace
+
+2. Turning My Body Into a Controller with Machine Learning, ml5.js, and p5.js: https://www.youtube.com/watch?si=1fdVZsxigcpKL2ek&v=96sWFP9CCkQ&feature=youtu.be
+
+Ml5.js
+
+1. HandPose: https://docs.ml5js.org/#/reference/handpose
+
+2. NeuralNetwork: https://docs.ml5js.org/#/reference/neural-network
+
+3. BodyPose: https://docs.ml5js.org/#/reference/bodypose
