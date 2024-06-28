@@ -1,38 +1,46 @@
-Estudiantes:
+# Evaluación 2:
 
-Natalie Astudillo (https://github.com/NAF02)
+**Estudiantes:**
 
-Valentina Ochoa (el presente Github)
+Natalie Astudillo 
 
-Ideas previas por The Coding Train:
+Valentina Ochoa (https://github.com/ValentinaOchoa09?tab=repositories)
 
-https://www.youtube.com/watch?v=ABN_DWnM5GQ
+**Ideas previas por The Coding Train:**
+
+1. https://www.youtube.com/watch?v=ABN_DWnM5GQ
+
 Clasificación de dibujos con DoodleNet, el cual es un modelo preentrenado de ml5.js que es capaz de reconocer 345 categorías de dibujos a mano gracias a su aprendizaje a base de garabatos y trazados hechos por más de 15 millones de personas. El modelo se entrena con el conjunto de datos de Google QuickDraw y se puede utilizar para clasificar dibujos en tiempo real.
 
-https://www.youtube.com/watch?v=TOrVsLklltM
+2. https://www.youtube.com/watch?v=TOrVsLklltM
+
 El vídeo enseña y muestra cómo usar Teachable Machine, para crear un modelo de clasificación de sonidos tales como: "silbidos, campanas y ukelele". El modelo se entrena a base de utilizar muestras de audio e integrarlas a un código base que es el juego de serpientes, donde el movimiento de la serpiente se encuentra controlado por los sonidos.
 
-https://github.com/Pawandeep-prog/virtual-paint
+3. https://github.com/Pawandeep-prog/virtual-paint
+
 El vídeo realiza una demostración del creador dibujando con los dedos por medio de la cámara, cambiando de formas, estilos e incluso borrando. Asimismo, su Github es una entrada a los códigos que realizó en Python con el objetivo del proyecto.
 
-https://www.youtube.com/watch?v=ZiwZaAVbXQo
+4. https://www.youtube.com/watch?v=ZiwZaAVbXQo
+
 Creación de un pintor virtual utilizando IA y OpenCV Python. El proyecto busca rastrear la mano y usar puntos para dibujar en la pantalla de manera que el resultado sea en tiempo real, seleccionando colores y un borrador.
 
-https://www.youtube.com/watch?v=3MqJzMvHE3E
+5. https://www.youtube.com/watch?v=3MqJzMvHE3E
+
 El vídeo enseña cómo crear una red neuronal con ml5.js para clasificar formas geométricas tales como: "círculos, cuadrados y triángulos". Recopilando datos para entrenar el modelo e implementarlo a la clasificación de formas dibujadas a mano.
 
-https://www.youtube.com/watch?v=UPgxnGC8oBU&ab_channel=TheCodingTrain
+6. https://www.youtube.com/watch?v=UPgxnGC8oBU&ab_channel=TheCodingTrain
+
 En este vídeo, se enseña y muestra cómo utilizar Teachable Machine para poder controlar un juego de serpientes mediante el reconocimiento de gestos manuales. El modelo se entrena a base de la clasificación para reconocer los movimientos de izquierda, derecha, arriba y abajo.
 
-Primera idea de proyecto a realizar
+**Primera idea de proyecto a realizar**
 
 Snake Game (juego de la serpiente)
 
-image
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/fda6d9a5-b9a8-40ea-9ab0-59a5a9a4058e) 
 
-Coolmath Games (2024). Snake Game [Screenshot, imagen web]: https://www.coolmathgames.com/0-snake
+_Coolmath Games (2024). Snake Game [Screenshot, imagen web]: https://www.coolmathgames.com/0-snake_
 
-¿Qué es el Snake Game?
+**¿Qué es el Snake Game?**
 
 Snake Game o mejor conocido al español como "el juego de la serpiente", es un videojuego lanzado a mediados de los 70' por Nokia, para los dispositivos electrónicos popularizando su formato en dispositivos telefónicos a modo de entretención para los usuarios.
 
@@ -40,133 +48,143 @@ En el juego, el usuario desplaza a una velocidad constante un animal; la serpien
 
 El usuario controla la dirección de la cabeza de la serpiente (arriba, abajo, izquierda o derecha) y el cuerpo de la serpiente la sigue. Además, el usuario/jugador no puede detener el movimiento de la serpiente, mientras que el juego está en marcha, el animal seguirá avanzando y recolectando puntos.
 
-image
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/9ebbb0dd-aca3-4f5a-9233-2a062f943ada) 
 
-TecnoXplora (2024). El juego de la serpiente de los Nokia ya está en Facebook Messenger [Página Web, imagen web]. https://www.lasexta.com/tecnologia-tecnoxplora/apps/juego-serpiente-nokia-esta-facebookmessenger_2017022758b522300cf2fa92de5445be.html
+_TecnoXplora (2024). El juego de la serpiente de los Nokia ya está en Facebook Messenger [Página Web, imagen web]. https://www.lasexta.com/tecnologia-tecnoxplora/apps/juego-serpiente-nokia-esta-facebookmessenger_2017022758b522300cf2fa92de5445be.html_
 
-Lista de materiales
+**Lista de materiales**
 
-Teachable Machine.
-Webcam.
-Editor de p5js.
-Ml5.
-Markdown para escribir este documento.
-Proceso clase 07 de junio 2024
+- Teachable Machine.
+- Webcam.
+- Editor de p5js.
+- Ml5.
+- Markdown para escribir este documento. 
 
-Fueron revisados vídeos previos, para así poder entrenar data en Teachable Machine.
+**Proceso clase 07 de junio 2024**
 
-Se hizo una visualización de la playlist de The Coding Train, quien entregó toda la información para llevar a cabo el proyecto.
+1. Fueron revisados vídeos previos, para así poder entrenar data en Teachable Machine.
+   
+2. Se hizo una visualización de la playlist de The Coding Train, quien entregó toda la información para llevar a cabo el proyecto.
+   
+3. Se comenzó a entrenar un primer modelo en Teachable Machine con "Proyecto de Imagen", estableciendo las clases arriba, abajo, izquierda y derecha.
 
-Se comenzó a entrenar un primer modelo en Teachable Machine con "Proyecto de Imagen", estableciendo las clases arriba, abajo, izquierda y derecha.
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/1b10350e-2339-4d66-a22d-1ccb46a521ff) 
 
-image
-
-Ochoa,V. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile.
+_Ochoa,V. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile._
 
 Resultado: Al probarlo en otra persona, no detectaba el modelo correctamente ya que, se definía la izquierda como arriba o abajo, sin seguir el objetivo principal.
 
-image
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/d7ce4d94-0204-4fb2-99b3-fc6e19418781) 
 
-Astudillo,N. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile.
+_Astudillo,N. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile._
 
-Primer análisis:
+**Primer análisis:**
 
 El primer modelo entrenado en Teachable Machine, no resultó como se esperaba ya que, se notificó mediante observación que al entrenar el modelo bajo un fondo específico, netamente podía detectar solo ese espacio. Esto se debe a que utilizamos el Proyecto de Imagen y no el Proyecto de Posturas, por lo que no fue entrenado de la mano de posiciones, sino más bien una imagen sobre otra, reconociendo píxeles en específico.
 
 Utilizar el proyecto de posturas es acorde a lo que se desea ejecutar (entrenar con una forma/postura adecuada para proceder a la reacción de la serpiente dentro del juego gráfico). Por otro lado, emplear el proyecto de imagen considera más que nada la visual como píxeles (clasificando al usuario como objeto).
 
-Fue entrenado un segundo modelo en base al análisis realizado anteriormente, esta vez usando el Proyecto de Posturas, en base a ello, fueron establecidas las mismas clases: "izquierda, derecha, arriba y abajo".
-image
+4. Fue entrenado un segundo modelo en base al análisis realizado anteriormente, esta vez usando el Proyecto de Posturas, en base a ello, fueron establecidas las mismas clases: "izquierda, derecha, arriba y abajo".
 
-Ochoa,V. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile.
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/1d10a5d3-d72a-4932-bb63-a4bd94b087d8)  
 
-Segundo análisis:
+_Ochoa,V. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile._
+
+**Segundo análisis:**
 
 Bajo el segundo análisis, se dieron los resultados al momento de entrenar el modelo, la cámara grababa de la mitad del cuerpo para arriba por estar en un espacio acotado por lo que, al probarla en otros espacios la cámara captaba el cuerpo completo, mezclando la parte de los brazos con las piernas.
 
-_image
+_![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/0923d70f-4aae-4af8-b507-beb614663722) 
 
 Ochoa,V. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile._
 
-A partir del análisis anterior, se hizo la prueba de grabarnos al exterior de la sala en un fondo liso, con la cámara de nuestra tablet distintos videos, cada uno con las diferentes posiciones (izquierda, derecha, abajo y arriba). Posteriormente, dividimos estos videos en frames (usando un convertidor online) para importarlos en Teachable Machine.
-image
+5. A partir del análisis anterior, se hizo la prueba de grabarnos al exterior de la sala en un fondo liso, con la cámara de nuestra tablet distintos videos, cada uno con las diferentes posiciones (izquierda, derecha, abajo y arriba). Posteriormente, dividimos estos videos en frames (usando un convertidor online) para importarlos en Teachable Machine.
 
-Ochoa,V. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile.
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/fe6b1eba-fc73-4e31-a261-ffaab9b96b4f)  
+
+_Ochoa,V. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile._
 
 (La división de los videos para pasarlo a frames se realizó con un convertidor online--> https://www.online-convert.com/es/result#)
 
-_image
+_![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/4c82a8d2-dd61-49ce-b7e2-fa5df9d6c804) 
 
-Astudillo,N. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile.
+_Astudillo,N. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile._
 
-Tercer análisis:
+**Tercer análisis:**
 
 En esta ocasión, la posición "izquierda" presentó problemas de reconocimiento al momento de realizar las acciones. Esto es debido a que, los fotogramas no tomaban el cuerpo completo siendo incapaces de reconocer adecuadamente.
 
-El último modelo entrenado antes de dar con el definitivo está el siguiente link: https://teachablemachine.withgoogle.com/models/x9jaICbA3/
+El último modelo entrenado antes de dar con el definitivo está el siguiente link:
+https://teachablemachine.withgoogle.com/models/x9jaICbA3/  
 
 (Es importante destacar que para poder subir un modelo de Teachable Machine a la web, el modelo entrenada se debe guardar y seleccionar la parte para subir) (añadir imagen)
 
-Proceso 13 de junio
+**Proceso 13 de junio**
 
 Este día fue empleado para dejar entrenado el modelo de Teachable Machine, para así poder llegar a las clases del viernes 14 de junio y avanzar con la parte del código. Por lo tanto, fueron grabadas las posturas en un living de una de las casas, con las mismas indicaciones anteriores: "derecha, izquierda, arriba y abajo".
 
-image Ochoa,V. (2024). Seguir entrenando Teachable Machine [Screenshot]. Living del hogar, Santiago de Chile.
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/e750f5f6-4c73-4ef2-b248-cd0ab303b98c) 
+_Ochoa,V. (2024). Seguir entrenando Teachable Machine [Screenshot]. Living del hogar, Santiago de Chile._
 
-Instrucciones de postura
+**Instrucciones de postura**
 
 Para la derecha, se debe levantar el brazo derecho en un ángulo de 90 grados. También, puede ser descendido a 90 grados a la derecha.
 
-image Ochoa,V. (2024). Seguir entrenando Teachable Machine [Screenshot]. Living del hogar, Santiago de Chile.
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/7b8d9876-3d87-45bb-a832-d442e0eb35f9) 
+_Ochoa,V. (2024). Seguir entrenando Teachable Machine [Screenshot]. Living del hogar, Santiago de Chile._
 
-En el caso de la izquierda, se aplica lo mismo que en la derecha, con la dirección en 90 grados.
+En el caso de la izquierda, se aplica lo mismo que en la derecha, con la dirección en 90 grados. 
 
-image Ochoa,V. (2024). Seguir entrenando Teachable Machine [Screenshot]. Living del hogar, Santiago de Chile.
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/8374a563-406d-4852-a283-c971287dba4e) 
+_Ochoa,V. (2024). Seguir entrenando Teachable Machine [Screenshot]. Living del hogar, Santiago de Chile._
 
 Para la postura arriba, se debe levantar ambos brazos en 90 grados.
 
-image Ochoa,V. (2024). Seguir entrenando Teachable Machine [Screenshot]. Living del hogar, Santiago de Chile.
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/c098dc3f-1a29-457d-81e7-a0159d760588) 
+_Ochoa,V. (2024). Seguir entrenando Teachable Machine [Screenshot]. Living del hogar, Santiago de Chile._
 
 Por último, para hacer la postura de abajo, se debe bajar ambos brazos en un ángulo de 90 grados.
 
-image Ochoa,V. (2024). Seguir entrenando Teachable Machine [Screenshot]. Living del hogar, Santiago de Chile.
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/a2bfdeb9-c9cc-4c41-a92c-fff050ad1a72) 
+_Ochoa,V. (2024). Seguir entrenando Teachable Machine [Screenshot]. Living del hogar, Santiago de Chile._
 
-Modelo entrenado
+**Modelo entrenado**
 
-https://teachablemachine.withgoogle.com/models/Kuml-rphX/
+[https://teachablemachine.withgoogle.com/models/Kuml-rphX/](https://teachablemachine.withgoogle.com/models/29Q7HHyno/)
 
-¿Cómo subir un modelo de Teachable Machine?
+**¿Cómo subir un modelo de Teachable Machine?** 
 
 En primer lugar, se entrenó el modelo en la página de Teachable Machine (https://teachablemachine.withgoogle.com/train). Una vez entrenado, se selecciona en donde dice ''preparar modelo'' para que el modelo se desarrolle. Se debe mantener la pestaña abierta mientras se prepara el modelo.
 
-image
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/fa80be0a-8dc4-4236-8ef3-e7855460794c)
 
-Ochoa,V. (2024). Subir modelo de Teachable Machine. [Screenshot]. Santiago de Chile.
+_Ochoa,V. (2024). Subir modelo de Teachable Machine. [Screenshot]. Santiago de Chile._
 
-image
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/35feca4d-a1ea-4f7e-8760-7106d6cac049)
 
-Ochoa,V. (2024). Preparar modelo de Teachable Machine. [Screenshot]. Santiago de Chile.
+_Ochoa,V. (2024). Preparar modelo de Teachable Machine. [Screenshot]. Santiago de Chile._
 
-Posterior a esto, se debe hacer click en ''Exportar modelo''. Aquí, se mostrará la opción de ''Subir mi modelo'', el cual al seleccionarla sube el modelo entrenado a una nube y a la red, otorgando el enlace para compartir.
+Posterior a esto, se debe hacer click en ''Exportar modelo''. Aquí, se mostrará la opción de ''Subir mi modelo'', el cual al seleccionarla sube el modelo entrenado a una nube y a la red, otorgando el enlace para compartir. 
 
-image
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/c2830894-6fa3-4ab2-a959-ac2f29fd00c3)
 
-Ochoa,V. (2024). Exportar modelo de Teachable Machine. [Screenshot]. Santiago de Chile.
+_Ochoa,V. (2024). Exportar modelo de Teachable Machine. [Screenshot]. Santiago de Chile._
 
-image
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/351007ce-571a-4f85-802b-0a9027390d12)
 
-Ochoa,V. (2024). Subir modelo de Teachable Machine. [Screenshot]. Santiago de Chile.
+_Ochoa,V. (2024). Subir modelo de Teachable Machine. [Screenshot]. Santiago de Chile._
 
-Así mismo, puedes descargar el modelo para importarlo a tu proyecto con un archivo json.
+Así mismo, puedes descargar el modelo para importarlo a tu proyecto con un archivo json. 
 
-image
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/4caad11a-c6b3-4e4e-b3b0-0a7a4e13a4d3)
 
-Ochoa,V. (2024). Descargar modelo de Teachable Machine. [Screenshot]. Santiago de Chile.
+_Ochoa,V. (2024). Descargar modelo de Teachable Machine. [Screenshot]. Santiago de Chile._
 
-Código base
+**Código base**
 
 El código base para llevar a cabo el proyecto fue encontrado en el canal de youtube The Coding Train. Es en base a este código con el cual procedemos a realizar las modificaciones pertinentes.
 
+```
 // *** HERE IS CODE YOU CAN EDIT ******//
 
 // REPLACE THIS WITH YOUR OWN TEACHABLE MACHINE MODEL!!
@@ -302,16 +320,19 @@ function draw() {
   fill(255, 0, 0);
   rect(food.x, food.y, 1, 1);
 }
-Análisis del código base
+```
+
+**Análisis del código base**
 
 El código realizado por "The Coding Train" está hecho considerando un modelo entrenado de Teachable Machine de Proyecto de Imagen. En nuestro caso, fue entrenado un modelo de Proyecto de Posturas, por lo cual nacieron dos salidas: volver a entrenar un modelo, pero esta vez de un Proyecto de Imagen o hacer las modificaciones necesarias en el código para relacionarlo con el modelo de posturas.
 
-Proceso 17 de junio
+**Proceso 17 de junio** 
 
-Investigamos sobre cómo importar un modelo entrenado en Teachable Machine de proyecto de posturas, encontrando la función Pose Net en videos de The Coding Train, el cual permite detectar las posturas. A partir de esto, realizamos la modificaciones necesarias en el código para aplicarlo.
+Investigamos sobre cómo importar un modelo entrenado en Teachable Machine de proyecto de posturas, encontrando la función **Pose Net** en videos de The Coding Train, el cual permite detectar las posturas. A partir de esto, realizamos la modificaciones necesarias en el código para aplicarlo.
 
-Código de sketch.js:
+**Código de sketch.js:**
 
+```
 // Cargar el modelo entrenado
 
 let poseModelURL = 'https://teachablemachine.withgoogle.com/models/29Q7HHyno/';
@@ -544,55 +565,62 @@ function controlSnake() {
     }
   }
 }
-Quinto análisis
+```
 
-Hasta este punto, el código desarrollado funcionaba relativamente bien, sin embargo, presentó algunos inconvenientes, tales como que la serpiente muere al comer la comida, en vez de crecer. Además, observamos que las poses entrenadas no se detectaban correctamente, teniendo que girar todo el torso para que funcionen. Tratamos de corregir este error durante los días 17, 18 y 19 de junio, pero no obtuvimos resultado, por lo que buscamos complementar este proyecto con otro.
+**Quinto análisis** 
 
-Link del código:
+Hasta este punto, el código desarrollado funcionaba relativamente bien, sin embargo, presentó algunos inconvenientes, tales como que la serpiente muere al comer la comida, en vez de crecer. Además, observamos que las poses entrenadas no se detectaban correctamente, teniendo que girar todo el torso para que funcionen. Tratamos de corregir este error durante los días 17, 18 y 19 de junio, pero no obtuvimos resultado, por lo que buscamos complementar este proyecto con otro. 
+
+**Link del código:** 
 
 https://editor.p5js.org/Valentina_09/sketches/g2RbswnvZu
 
-Video probando el código
+**Video probando el código**
 
 https://youtu.be/zCZE02UqwxY
 
-Proyecto final: Dibujando con un modelo entrenado
-La idea de este proyecto surge de investigaciones de proyectos realizados con Ml5 en la red social Youtube, de donde surge como referente "The Coding Train", con ideas como clasificación de dibujos, clasificación de sonidos y clasificación de objetos en webcam. No obstante, el mayor exponente que entregó el código base para hacer el trabajo fue el canal de "Steve's Makerspace", quien proporcionó la idea de dibujar con los dedos a través de la cámara, eligiendo colores y el trazo de la mano de un modelo entrenado de Hand Space.
+# Proyecto final: Dibujando con un modelo entrenado 
 
-image Steve's Makerspace (2022). Turning My Body Into a Controller with Machine Learning, ml5.js, and p5.js [Vídeo]. https://www.youtube.com/watch?v=96sWFP9CCkQ&t=2s
+La idea de este proyecto surge de investigaciones de proyectos realizados con Ml5 en la red social Youtube, de donde surge como referente "The Coding Train", con ideas como clasificación de dibujos, clasificación de sonidos y clasificación de objetos en webcam. No obstante, el mayor exponente que entregó el código base para hacer el trabajo fue el canal de "Steve's Makerspace", quien proporcionó la idea de dibujar con los dedos a través de la cámara, eligiendo colores y el trazo de la mano de un modelo entrenado de Hand Space. 
 
-Materiales
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/d1dacb59-b6f3-4c59-b343-c7061b2d0a5d) 
+_Steve's Makerspace (2022). Turning My Body Into a Controller with Machine Learning, ml5.js, and p5.js [Vídeo]. https://www.youtube.com/watch?v=96sWFP9CCkQ&t=2s_
 
-Editor de p5js.
-Ml5.js.
-Webcam.
-Markdown para escribir este documento.
-Definición de proyecto:
+**Materiales** 
 
-El presente proyecto busca que el usuario pueda dibujar en un lienzo invisible, proporcionado por la cámara web, mediante la implementación de su cuerpo como controlador. Éste trabajo implementó el uso de Ml5.js, con un modelo de Hand Pose previamente entrenado con 17 puntos claves de la mano.
+- Editor de p5js.
+- Ml5.js.
+- Webcam.
+- Markdown para escribir este documento.
 
-image Ml5.js (s.f). Hand pose [Screenshot]. https://learn.ml5js.org/#/reference/handpose
+**Definición de proyecto:** 
 
-Instrucciones del código
+El presente proyecto busca que el usuario pueda dibujar en un lienzo invisible, proporcionado por la cámara web, mediante la implementación de su cuerpo como controlador. Éste trabajo implementó el uso de Ml5.js, con un modelo de Hand Pose previamente entrenado con 17 puntos claves de la mano. 
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/64304c42-f625-4555-8d13-94d9446564a1) 
+_Ml5.js (s.f). Hand pose [Screenshot]. https://learn.ml5js.org/#/reference/handpose_
+
+**Instrucciones del código** 
 
 1.El usuario debe abrir la palma de la mano para que cargue el modelo de Ml5.js, Hand Pose. Una vez el modelo cargue, aparecerá en la parte inferior 'Model Ready!'.
 
 2.Posterior a esto, para dibujar, debe estirar el dedo índice y moverlo por el lienzo.
 
-3.Para seleccionar colores, debe mover el dedo al círculo de color y simular como si el dedo estuviera haciendo click (o mantener el dedo estirado).
+3.Para seleccionar colores, debe mover el dedo al círculo de color y simular como si el dedo estuviera haciendo click (o mantener el dedo estirado). 
 
 4.Si quiere borrar lo dibujado, debe presionar la tecla espacio del teclado y el lienzo se reiniciará.
 
-Proceso del proyecto
+**Proceso del proyecto**
 
 En primer lugar, se revisó el modelo previamente entrenado que proporciona Ml5, el cual funcionaba correctamente.
 
-image
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/119694d4-9a83-474d-8a0e-6bf0090d3d3d)
 
-Modelo de Hand Pose por Ml5: https://editor.p5js.org/ml5/sketches/Handpose_Webcam
+_Modelo de Hand Pose por Ml5: https://editor.p5js.org/ml5/sketches/Handpose_Webcam_
 
 El código proporcionado para utilizar este modelo es el siguiente:
 
+```
 let handpose;
 let video;
 let predictions = [];
@@ -637,10 +665,12 @@ function drawKeypoints() {
     }
   }
 }
-Código base para el proyecto
+```
+**Código base para el proyecto** 
 
 Realizado por Steve's Makerspace
 
+```
 // Pointer finger to draw or pick color; flat "stop" hand to move pointer.  If it's having trouble tracking your finger, either change your background or try including your middle finger with your pointer finger.
 //Handpose code by the ml5.js team.  Visit https://ml5js.org/
 // Drawing code by Steve's Makerspace
@@ -807,62 +837,67 @@ function makesquares() {
   canvas2.strokeWeight(10);
   canvas2.line(width - 5, 215, width - 65, 275);
 }
-Modificaciones
+```
 
-Fueron cambiados los cuadrados por círculos.
-image
+**Modificaciones**
 
-Ochoa,V. (2024). Modificar código [Screenshot]. Habitación del hogar, Santiago de Chile.
+1. Fueron cambiados los cuadrados por círculos.
 
-Fueron cambiados los colores por tonalidades pasteles.
-image
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/87ebdd4b-31ca-4202-b905-ca53e630e981) 
 
-Ochoa,V. (2024). Modificar código [Screenshot]. Habitación del hogar, Santiago de Chile.
+_Ochoa,V. (2024). Modificar código [Screenshot]. Habitación del hogar, Santiago de Chile._
 
-image
+2. Fueron cambiados los colores por tonalidades pasteles.
 
-Ochoa,V. (2024). Modificar código [Screenshot]. Habitación del hogar, Santiago de Chile.
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/735f2e16-38f3-4fdd-988d-ab5cf989de16) 
 
-Al modificar la posición de los círculos en el canvas, se debió modificar las coordenadas de Y. Esto debido a que, para pintar del color del círculo, debes mantener el rango en donde se hace click.
+_Ochoa,V. (2024). Modificar código [Screenshot]. Habitación del hogar, Santiago de Chile._
 
-También fue modificado el color inicial con el que se pinta en el lienzo, el cual anteriormente era azul y ahora por gusto, se dispuso blanco.
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/ad1e6a05-a171-456a-a63f-5049a3d94923) 
 
-Se agregaron nuevos colores en la parte derecha del lienzo, para dar más dinamismo.
+_Ochoa,V. (2024). Modificar código [Screenshot]. Habitación del hogar, Santiago de Chile._
 
-image
+3. Al modificar la posición de los círculos en el canvas, se debió modificar las coordenadas de Y. Esto debido a que, para pintar del color del círculo, debes mantener el rango en donde se hace click.
 
-Ochoa,V. (2024). Colores agregados [Screenshot]. Habitación del hogar, Santiago de Chile.
+4. También fue modificado el color inicial con el que se pinta en el lienzo, el cual anteriormente era azul y ahora por gusto, se dispuso blanco.
 
-Se reducieron la cantidad de colores y se colocaron en la parte derecha todos, ya que presentó inconvenientes en detectar los colores cuando estaban en la parte derecha del lienzo.
-image
+5. Se agregaron nuevos colores en la parte derecha del lienzo, para dar más dinamismo.
 
-Ochoa,V. (2024). Colores agregados [Screenshot]. Living del hogar, Santiago de Chile.
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/152b753d-7a9e-4b0c-8e98-2dd3bd63fc24)
 
-Video probando el código
+_Ochoa,V. (2024). Colores agregados [Screenshot]. Habitación del hogar, Santiago de Chile._
+
+6. Se reducieron la cantidad de colores y se colocaron en la parte derecha todos, ya que presentó inconvenientes en detectar los colores cuando estaban en la parte derecha del lienzo.
+
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/bd6e795d-9cc9-4144-bd23-8381061f3e0a)
+
+_Ochoa,V. (2024). Colores agregados [Screenshot]. Living del hogar, Santiago de Chile._
+
+**Video probando el código**
 
 https://youtu.be/SQuAi61ERm4
 
-Conclusiones
+**Conclusiones**
 
 Es importante considerar los códigos y su facilidad para ser reproducidos o trabajados, puesto que, al intentar elaborar cambios o finalizar el Snake Game, se encontró dificultades para solucionar su muerte ante la postura de ingerir comida, mientras que, el proceso de aprendizaje para pintar con la mano, dispuso de niveles de investigación para saber como llevar a cabo líneas de programación en programas que fueran reconocidos (para no aventurarse en aplicaciones más complejas que necesitaran de más tiempo), a su vez, poder indagar de lleno y más en su interior con los colores, borradores y estilos fue la segunda fase de aprender como realizar un trabajo más óptimo.
 
 Otra conclusión es respecto a los soportes y salidas que se utilizan, es importante tener buenos sitios y herramientas para abarcar una programación, en el caso de la presente investigación fue todo en torno a pc, notebook y cámara accesible.
 
-Y por último, pero no menos importante, una conclusión desde el ámbito humano, es tener buenos apoyos y compañeros de trabajos, para confiar desde el tiempo hasta el proceso del trabajo. Es relevante destacar las cualidades de cada uno para potenciar y las distintas aristas que conlleva realizar y modificar proyectos, al igual que la rapidez para re-adaptar una idea en búsqueda de soluciones. Esto nos permite desarrollar el ámbito de la toma de decisiones.
+Y por último, pero no menos importante, una conclusión desde el ámbito humano, es tener buenos apoyos y compañeros de trabajos, para confiar desde el tiempo hasta el proceso del trabajo. Es relevante destacar las cualidades de cada uno para potenciar y las distintas aristas que conlleva realizar y modificar proyectos, al igual que la rapidez para re-adaptar una idea en búsqueda de soluciones. Esto nos permite desarrollar el ámbito de la toma de decisiones. 
 
-Referencias:
+**Referencias:**
 
 The Coding Train
 
-Playlist Teachable Machine: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aJwX0rFP-7ccA6ivsPDsK5
+1. Playlist Teachable Machine: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aJwX0rFP-7ccA6ivsPDsK5
+ 
+2. Desafío de codificación # 3: El juego de la serpiente: https://www.youtube.com/watch?v=AaGK-fj-BAM
+   
+3. Coding Challenge #115: Snake Game Redux: https://www.youtube.com/watch?v=OMoVcohRgZA&t=0s
+   
+4. ml5.js: Pose Classification with PoseNet and ml5.neuralNetwork(): https://www.youtube.com/watch?v=FYgYyqxqAw&list=PL0FrmHECzRfCDMRpGPpQwj4WpGv51Ip_5&ab_channel=TheCodingTrain
 
-Desafío de codificación # 3: El juego de la serpiente: https://www.youtube.com/watch?v=AaGK-fj-BAM
-
-Coding Challenge #115: Snake Game Redux: https://www.youtube.com/watch?v=OMoVcohRgZA&t=0s
-
-ml5.js: Pose Classification with PoseNet and ml5.neuralNetwork(): https://www.youtube.com/watch?v=FYgYyqxqAw&list=PL0FrmHECzRfCDMRpGPpQwj4WpGv51Ip_5&ab_channel=TheCodingTrain
-
-ml5.js Pose Estimation with PoseNet: https://www.youtube.com/watch?v=OIo-DIOkNVg&ab_channel=TheCodingTrain
+5. ml5.js Pose Estimation with PoseNet: https://www.youtube.com/watch?v=OIo-DIOkNVg&ab_channel=TheCodingTrain
 
 Creative Computation
 
@@ -870,14 +905,14 @@ AI 3 (2021): ml5.js: Handpose: https://www.youtube.com/watch?v=A2yFBDBq9UY&ab_ch
 
 Steve's Makerspace
 
-Color in p5.js: How to Code Generative Art: https://www.youtube.com/watch?v=PSDUMZRYWRU&ab_channel=Steve%27sMakerspace
+1. Color in p5.js: How to Code Generative Art: https://www.youtube.com/watch?v=PSDUMZRYWRU&ab_channel=Steve%27sMakerspace
 
-Turning My Body Into a Controller with Machine Learning, ml5.js, and p5.js: https://www.youtube.com/watch?si=1fdVZsxigcpKL2ek&v=96sWFP9CCkQ&feature=youtu.be
+2. Turning My Body Into a Controller with Machine Learning, ml5.js, and p5.js: https://www.youtube.com/watch?si=1fdVZsxigcpKL2ek&v=96sWFP9CCkQ&feature=youtu.be
 
 Ml5.js
 
-HandPose: https://docs.ml5js.org/#/reference/handpose
+1. HandPose: https://docs.ml5js.org/#/reference/handpose
 
-NeuralNetwork: https://docs.ml5js.org/#/reference/neural-network
+2. NeuralNetwork: https://docs.ml5js.org/#/reference/neural-network
 
-BodyPose: https://docs.ml5js.org/#/reference/bodypose
+3. BodyPose: https://docs.ml5js.org/#/reference/bodypose
