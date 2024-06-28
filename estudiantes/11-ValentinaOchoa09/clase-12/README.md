@@ -607,7 +607,7 @@ _Ml5.js (s.f). Hand pose [Screenshot]. https://learn.ml5js.org/#/reference/handp
 
 **Proceso del proyecto**
 
-En primer lugar, revisamos el modelo previamente entrenado que proporciona Ml5, el cual funcionaba correctamente.
+En primer lugar, se revisó el modelo previamente entrenado que proporciona Ml5, el cual funcionaba correctamente.
 
 ![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/119694d4-9a83-474d-8a0e-6bf0090d3d3d)
 
