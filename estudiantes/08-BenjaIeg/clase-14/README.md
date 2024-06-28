@@ -89,12 +89,14 @@ Es decir el texto es un elemento.
 https://colab.research.google.com/drive/1WyMMy1FsQ71vGJijqUbpKkTZOeEPSKZK?usp=sharing
 
 ```
-
+#CARGAR LIBRERIAS
 !pip3 install -U -q imutils
 
+#IMPORTAR LIBRERIAS
 from imutils.object_detection import non_max_suppression
 import numpy as np,pylab as pl,time,cv2
 
+#CARGAR IMAGEN
 file_path='/content/'
 file_name='letrero.jpg'
 img=cv2.imread(file_path+file_name)
