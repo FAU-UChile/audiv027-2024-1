@@ -22,47 +22,44 @@ Valentina Ochoa.
 
 1. https://www.youtube.com/watch?v=ABN_DWnM5GQ
 
-   (descp)
+   (Clasificación de dibujos con DoodleNet, el cual es un modelo preentrenado de ml5.js que es capaz de reconocer 345 categorías de dibujos a mano gracias a su aprendizaje a base de garabatos y trazados hechos por más de 15 millones de personas. El modelo se entrena con el conjunto de datos de Google QuickDraw y se puede utilizar para clasificar dibujos en tiempo real.)
 
 2. https://www.youtube.com/watch?v=TOrVsLklltM
 
-   (descp)
+   (El vídeo enseña y muestra cómo usar Teachable Machine, para crear un modelo de clasificación de sonidos tales como: "silbidos, campanas y ukelele". El modelo se entrena a base de utilizar muestras de audio e integrarlas a un código base que es el juego de serpientes, donde el movimiento de la serpiente se encuentra controlado por los sonidos.)
 
-3. https://github.com/Pawandeep-prog/virtual-paint
+3. https://github.com/Pawandeep-prog/virtual-paint - https://www.youtube.com/watch?v=dwCaEFFXq74
 
-   (descp)
+   (El vídeo realiza una demostración del creador dibujando con los dedos por medio de la cámara, cambiando de formas, estilos e incluso borrando. Asimismo, su Github es una entrada a los códigos que realizó en Python con el objetivo del proyecto.)
 
-4. https://www.youtube.com/watch?v=TOrVsLklltM
+4. https://www.youtube.com/watch?v=ZiwZaAVbXQo
 
-   (descp)
+   (Creación de un pintor virtual utilizando IA y OpenCV Python. El proyecto busca rastrear la mano y usar puntos para dibujar en la pantalla de manera que el resultado sea en tiempo real, seleccionando colores y un borrador.)
 
-5. https://www.youtube.com/watch?v=ZiwZaAVbXQo
+5. https://www.youtube.com/watch?v=UPgxnGC8oBU&t=406s
 
-   (descp)
+   (En este vídeo, se enseña y muestra cómo utilizar Teachable Machine para poder controlar un juego de serpientes mediante el reconocimiento de gestos manuales. El modelo se entrena a base de la clasificación para reconocer los movimientos de izquierda, derecha, arriba y abajo.)
 
-6. https://www.youtube.com/watch?v=UPgxnGC8oBU&t=406s
+6. https://www.youtube.com/watch?v=3MqJzMvHE3E
 
-   (descp)
-
-7. https://www.youtube.com/watch?v=3MqJzMvHE3E
-
-   (descp)
+   (El vídeo enseña cómo crear una red neuronal con ml5.js para clasificar formas geométricas tales como: "círculos, cuadrados y triángulos". Recopilando datos para entrenar el modelo e implementarlo a la clasificación de formas dibujadas a mano.)
 
 **Proyecto a realizar**
 
 Snake Game (juego de la serpiente)
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/fda6d9a5-b9a8-40ea-9ab0-59a5a9a4058e) (citar)
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/fda6d9a5-b9a8-40ea-9ab0-59a5a9a4058e) 
+Coolmath Games (2024). Snake Game [Screenshot, imagen web]. https://www.coolmathgames.com/0-snake 
 
-¿Qué es el Snake Game?
+¿Qué es Snake Game?
 
-Snake Game o mejor conocido al español como "el juego de la serpiente", es un videojuego lanzado a mediados de los 70' por Nokia, para los dispositivos electrónicos popularizando su formato en dispositivos telefónicos a modo de entretención para los usuarios.
+Snake Game o mejor conocido al español como "el juego de la serpiente", es un videojuego lanzado a mediados de los 70' por Nokia, para los dispositivos electrónicos tales como equipos de escritorio (pc) y celulares, popularizando su formato en dispositivos telefónicos a modo de entretención para los usuarios, con el fin de que fuese transportable.
 
-En el juego, el usuario desplaza a una velocidad constante un animal; la serpiente, la cual se encuentra dentro de un plano delimitado. El animal va recogiendo alimentos (o algún otro elemento) mientras trata de evitar golpearse contra su cola y/o las paredes que rodean el área del juego. Cada vez que la serpiente se come un pedazo de comida, la cola crece más provocando que aumente la dificultad del juego.
+En el juego, el usuario desplaza a una velocidad constante un animal; la serpiente, la cual se encuentra dentro de un plano delimitado de píxeles. El animal va recogiendo alimentos (o algún otro elemento) mientras trata de evitar golpearse contra su cola y/o las paredes que rodean el área del juego. Cada vez que la serpiente se come un pedazo de comida, la cola crece más provocando así que aumente la dificultad del juego.
 
 El usuario controla la dirección de la cabeza de la serpiente (arriba, abajo, izquierda o derecha) y el cuerpo de la serpiente la sigue. Además, el usuario/jugador no puede detener el movimiento de la serpiente, mientras que el juego está en marcha, el animal seguirá avanzando y recolectando puntos.
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/9ebbb0dd-aca3-4f5a-9233-2a062f943ada) (citar)
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/9ebbb0dd-aca3-4f5a-9233-2a062f943ada) TecnoXplora (2024). El juego de la serpiente de los Nokia ya está en Facebook Messenger [Página Web, imagen web]. https://www.lasexta.com/tecnologia-tecnoxplora/apps/juego-serpiente-nokia-esta-facebookmessenger_2017022758b522300cf2fa92de5445be.html
 
 **Lista de materiales**
 
@@ -73,72 +70,71 @@ El usuario controla la dirección de la cabeza de la serpiente (arriba, abajo, i
 **Proceso clase 07 de junio 2024**
 
 1. Fueron resvisados vídeos previos, para así poder entrenar data en Teachable Machine.
-2. Se hizo una visualización de la playlist de The Coding Train, quien nos entregó toda la información para llevar a cabo el proyecto.
+2. Se hizo una visualización de la playlist de The Coding Train, quien entregó toda la información para llevar a cabo el proyecto.
 3. Se comenzó a entrenar un primer modelo en Teachable Machine con "Proyecto de Imagen", estableciendo las clases arriba, abajo, izquierda y derecha.
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/1b10350e-2339-4d66-a22d-1ccb46a521ff) (cita)
-
-_Captura de pantalla entrenando el primer modelo_
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/1b10350e-2339-4d66-a22d-1ccb46a521ff) Ochoa,V. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile.
 
 Al probarlo en otra persona, no detectaba el modelo correctamente ya que, se definía la izquierda como arriba o abajo, sin seguir el objetivo principal.
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/d7ce4d94-0204-4fb2-99b3-fc6e19418781) (cita)
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/d7ce4d94-0204-4fb2-99b3-fc6e19418781) Astudillo,N. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile.
 
 **Primer análisis:**
 
-El primer modelo entrenado en Teachable Machine, no resultó como esperábamos, ya que observamos que al entrenarlo en un fondo específico, nos detectaba solo en ese espacio. Esto se debe a que utilizamos el Proyecto de Imagen y no el Proyecto de Posturas, por lo que no entrenamos posiciones, sino más bien una imagen sobre otra.
+El primer modelo entrenado en Teachable Machine, no resultó como se esperaba ya que, se notificó mediante observación que al entrenar el modelo bajo un fondo específico, netamente podía detectar solo ese espacio. Esto se debe a que utilizamos el Proyecto de Imagen y no el Proyecto de Posturas, por lo que no fue entrenado de la mano de posiciones, sino más bien una imagen sobre otra, reconociendo píxeles en específico.
 
-Utilizar el proyecto de posturas es acorde a lo que deseamos ejecutar (entrenar con una forma/postura adecuada para proceder a la reacción de la serpiente dentro del juego gráfico). Por otro lado, emplear el proyecto de imagen considera más que nada la visual como píxeles (clasificando al usuario como objeto).
+Utilizar el proyecto de posturas es acorde a lo que se desea ejecutar (entrenar con una forma/postura adecuada para proceder a la reacción de la serpiente dentro del juego gráfico). Por otro lado, emplear el proyecto de imagen considera más que nada la visual como píxeles (clasificando al usuario como objeto).
 
-4. Entrenamos un segundo modelo en base al análisis realizado anteriormente, esta vez usando el Proyecto de Posturas. Establecimos las mismas clases: izquierda, derecha, arriba y abajo.
+4. Fue entrenado un segundo modelo en base al análisis realizado anteriormente, esta vez usando el Proyecto de Posturas, en base a ello, fueron establecidas las mismas clases: "izquierda, derecha, arriba y abajo".
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/1d10a5d3-d72a-4932-bb63-a4bd94b087d8) (cita)
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/1d10a5d3-d72a-4932-bb63-a4bd94b087d8)  Ochoa,V. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile.
 
 **Segundo análisis:**
 
-Nos percatamos que al momento de entrenar el modelo, la cámara grababa de la mitad del cuerpo para arriba por estar en un espacio acotado por lo que, al probarla en otros espacios la cámara captaba el cuerpo completo, mezclando la parte de los brazos con las piernas.
+Bajo el segundo análisis, se dieron los resultados al momento de entrenar el modelo, la cámara grababa de la mitad del cuerpo para arriba por estar en un espacio acotado por lo que, al probarla en otros espacios la cámara captaba el cuerpo completo, mezclando la parte de los brazos con las piernas.
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/0923d70f-4aae-4af8-b507-beb614663722) (cita)
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/0923d70f-4aae-4af8-b507-beb614663722)  Ochoa,V. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile.
 
-5. A partir del análisis anterior, hicimos la prueba de grabarnos al exterior de la sala en un fondo liso, con la cámara de nuestra tablet distintos videos, cada uno con las diferentes posiciones (izquierda, derecha, abajo y arriba). Posteriormente, dividimos estos videos en frames (usando un convertidor online) para importarlos en Teachable Machine.
+5. A partir del análisis anterior, se hizo la prueba de grabarnos al exterior de la sala en un fondo liso, con la cámara de nuestra tablet distintos videos, cada uno con las diferentes posiciones (izquierda, derecha, abajo y arriba). Posteriormente, dividimos estos videos en frames (usando un convertidor online) para importarlos en Teachable Machine.
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/fe6b1eba-fc73-4e31-a261-ffaab9b96b4f) (cita)
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/fe6b1eba-fc73-4e31-a261-ffaab9b96b4f)  Ochoa,V. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile.
 
-División de los videos en frames (https://www.online-convert.com/es/result#)
+(La división de los videos para pasarlo a frames se realizó con un convertidor online--> https://www.online-convert.com/es/result#)
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/4c82a8d2-dd61-49ce-b7e2-fa5df9d6c804) (cita)
-
-Importando los videos en Teachable Machine
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/4c82a8d2-dd61-49ce-b7e2-fa5df9d6c804) Astudillo,N. (2024). Entrenar Teachable Machine [Screenshot]. Computadores de la sala G34, FAU, Santiago de Chile.
 
 **Tercer análisis:**
 
-En esta ocasión, la posición izquierda presentó problemas. Esto es debido a que los fotogramas no tomaban el cuerpo completo.
+En esta ocasión, la posición "izquierda" presentó problemas de reconocimiento al momento de realizar las acciones. Esto es debido a que, los fotogramas no tomaban el cuerpo completo siendo incapaces de reconocer adecuadamente.
+
 El último modelo entrenado antes de dar con el definitivo está el siguiente link:
-https://teachablemachine.withgoogle.com/models/x9jaICbA3/
+https://teachablemachine.withgoogle.com/models/x9jaICbA3/  
+
+(Es importante destacar que para poder subir un modelo de Teachable Machine a la web, el modelo entrenada se debe guardar y seleccionar la parte para subir) (añadir imagen)
 
 **Proceso 13 de junio**
 
-Este día quisimos dejar entrenado el modelo de Teachable Machine, para así poder llegar a las clases del viernes 14 de junio y avanzar con la parte del código. Por lo tanto, grabamos las posturas en el living de nuestras casas, con las mismas indicaciones anteriores: derecha, izquierda, arriba y abajo.
+Este día fue empleado para dejar entrenado el modelo de Teachable Machine, para así poder llegar a las clases del viernes 14 de junio y avanzar con la parte del código. Por lo tanto, fueron grabadas las posturas en un living de una de las casas, con las mismas indicaciones anteriores: "derecha, izquierda, arriba y abajo".
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/e750f5f6-4c73-4ef2-b248-cd0ab303b98c)
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/e750f5f6-4c73-4ef2-b248-cd0ab303b98c) Ochoa,V. (2024). Seguir entrenando Teachable Machine [Screenshot]. Living del hogar, Santiago de Chile.
 
 **Instrucciones de postura**
 
-Para la derecha, debes levantar el brazo derecho en un ángulo de 90 grados. También, puedes bajarlo 90 grados a la derecha.
+Para la derecha, se debe levantar el brazo derecho en un ángulo de 90 grados. También, puede ser descendido a 90 grados a la derecha.
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/7b8d9876-3d87-45bb-a832-d442e0eb35f9)
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/7b8d9876-3d87-45bb-a832-d442e0eb35f9) Ochoa,V. (2024). Seguir entrenando Teachable Machine [Screenshot]. Living del hogar, Santiago de Chile.
 
-En el caso de la izquierda, se aplica lo mismo que en la derecha, pero para el lado izquierdo, valga la redundancia.
+En el caso de la izquierda, se aplica lo mismo que en la derecha, con la dirección en 90 grados. 
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/8374a563-406d-4852-a283-c971287dba4e)
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/8374a563-406d-4852-a283-c971287dba4e) Ochoa,V. (2024). Seguir entrenando Teachable Machine [Screenshot]. Living del hogar, Santiago de Chile.
 
-Para la postura arriba, debes levantar ambos brazos en 90 grados.
+Para la postura arriba, se debe levantar ambos brazos en 90 grados.
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/c098dc3f-1a29-457d-81e7-a0159d760588)
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/c098dc3f-1a29-457d-81e7-a0159d760588) Ochoa,V. (2024). Seguir entrenando Teachable Machine [Screenshot]. Living del hogar, Santiago de Chile.
 
-Por último, para hacer la postura de abajo, debes bajar ambos brazos en un ángulo de 90 grados.
+Por último, para hacer la postura de abajo, se debe bajar ambos brazos en un ángulo de 90 grados.
 
-![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/a2bfdeb9-c9cc-4c41-a92c-fff050ad1a72)
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/a2bfdeb9-c9cc-4c41-a92c-fff050ad1a72) Ochoa,V. (2024). Seguir entrenando Teachable Machine [Screenshot]. Living del hogar, Santiago de Chile.
 
 **Modelo entrenado**
 
@@ -228,7 +224,7 @@ https://teachablemachine.withgoogle.com/models/Kuml-rphX/
 
 **Código base**
 
-El código base para llevar a cabo el proyecto fue encontrado en el canal de youtube The Coding Train. Es en base a este código con el cual procedemos a realizar las modificaciones pertinentes.
+El código base para llevar a cabo el proyecto fue encontrado en el canal de youtube "The Coding Train". Es en base a este código con el cual se procedió a realizar las modificaciones pertinentes.
 
 ```
 // *** HERE IS CODE YOU CAN EDIT ******//
@@ -370,7 +366,7 @@ function draw() {
 
 **Análisis del código base**
 
-El código realizado por The Coding Train está hecho considerando un modelo entrenado de Teachable Machine de Proyecto de Imagen. En nuestro caso, entrenamos un modelo de Proyecto de Posturas, por lo cual tenemos dos salidas: volver a entrenar un modelo, pero esta vez de un proyecto de imagen o hacer las modificaciones necesarias en el código para relacionarlo con nuestro modelo de posturas.
+El código realizado por "The Coding Train" está hecho considerando un modelo entrenado de Teachable Machine de Proyecto de Imagen. En nuestro caso, fue entrenado un modelo de Proyecto de Posturas, por lo cual nacieron dos salidas: volver a entrenar un modelo, pero esta vez de un Proyecto de Imagen o hacer las modificaciones necesarias en el código para relacionarlo con el modelo de posturas.
 
 **Referencias:**
 
