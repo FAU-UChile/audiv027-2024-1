@@ -55,7 +55,7 @@ MODELO CON ENTRENAMIENTO Y FORMATO COCO o MOBILE NET.
 
 BUSQUEDA DE NUEVAS LIBRERIAS.
 
-###Desarrollando un detector de imágenes para identificar manuscritos usando LabelImg y TensorFlow.
+### Desarrollando un detector de imágenes para identificar manuscritos usando LabelImg y TensorFlow.
 
 1. Preparación del entorno:
 Comenzamos instalando LabelImg en el sistema para etiquetar las imágenes de manuscritos.
