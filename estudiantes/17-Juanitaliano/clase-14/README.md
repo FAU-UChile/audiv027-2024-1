@@ -13,7 +13,7 @@ Link donde baje LabelImg: https://drive.google.com/file/d/1nFFaT6wXRgKH8bpaw4PhA
 Recolectar imágenes adecuadas fue un desafío inicial, para ello utilizamos nuestro propios manuscritos los cuales recopilamos en carpetas compartidas en un Drive, designado letra por letra .
 Después de etiquetarlas con LabelImg, convertí los archivos XML a formato compatible con TensorFlow para el siguiente paso.
 
-
+![letras](https://github.com/Juanitaliano/audiv027-2024-1/assets/163590978/5d172925-51a5-42ad-81dd-e585999e7d55)
 ![Trabjo ia 2](https://github.com/Juanitaliano/audiv027-2024-1/assets/163590978/010c86fe-a1f4-479c-b304-988701ee1bd6)
 ![Trabajo ia](https://github.com/Juanitaliano/audiv027-2024-1/assets/163590978/470f7980-f045-4dd8-8436-e8dc5e878658)
 
