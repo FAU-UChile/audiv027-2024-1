@@ -115,7 +115,7 @@ En esta ocasión, la posición "izquierda" presentó problemas de reconocimiento
 El último modelo entrenado antes de dar con el definitivo está el siguiente link:
 https://teachablemachine.withgoogle.com/models/x9jaICbA3/
 
-(Es importante destacar que para poder subir un modelo de Teachable Machine a la web, el modelo entrenada se debe guardar y seleccionar la parte para subir) (añadir imagen)
+(Es importante destacar que para poder subir un modelo de Teachable Machine a la web, el modelo entrenada se debe guardar y seleccionar la parte para subir) 
 
 **Proceso 13 de junio**
 
