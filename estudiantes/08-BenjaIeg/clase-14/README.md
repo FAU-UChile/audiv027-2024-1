@@ -80,6 +80,12 @@ Sin embargo, tuvimos problemas a la hora de descargar el modelo debido a posible
 Link de los modelos de Tensor Flow https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md
 
 
+### DETECCION DE TEXTOS
+
+Este codigo se refiere al texto como un objeto y no con la CLASIFICACIÓN de este.
+
+Es decir el texto es un elemento.
+
 https://colab.research.google.com/drive/1WyMMy1FsQ71vGJijqUbpKkTZOeEPSKZK?usp=sharing
 
 ```
