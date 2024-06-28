@@ -59,6 +59,8 @@ BUSQUEDA DE NUEVAS LIBRERIAS.
 
 https://colab.research.google.com/drive/1WyMMy1FsQ71vGJijqUbpKkTZOeEPSKZK?usp=sharing
 
+```
+
 !pip3 install -U -q imutils
 
 from imutils.object_detection import non_max_suppression
@@ -82,9 +84,9 @@ img=cv2.resize(img,(rW,rH))
 (H,W)=img.shape[:2]
 pl.figure(figsize=[12,8]); pl.imshow(img)
 img.shape
-
+```
 ![letrero](https://github.com/BenjaIeg/audiv027-2024-1/assets/128185999/aae9738f-70cc-4920-ab2b-44c6dcefd097)
-
+```
 model_path='/content/'
 model_file='frozen_east_text_detection.pb'
 full_model_path = model_path + model_file
@@ -132,6 +134,7 @@ for (startX,startY,endX,endY) in boxes:
     cv2.rectangle(orig,(startX,startY),(endX,endY),(0,255,0),5)
 
 pl.figure(figsize=[12,8]); pl.imshow(orig);
+```
 
 
 ![download](https://github.com/BenjaIeg/audiv027-2024-1/assets/128185999/9f31d300-8973-4a6b-a82b-1fdb2d98d5c5)
