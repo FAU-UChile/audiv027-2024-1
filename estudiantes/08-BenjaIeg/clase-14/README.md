@@ -179,3 +179,8 @@ pl.figure(figsize=[12,8]); pl.imshow(orig);
 
 ![download](https://github.com/BenjaIeg/audiv027-2024-1/assets/128185999/9f31d300-8973-4a6b-a82b-1fdb2d98d5c5)
 
+REFERENTE
+
+Descarga de base de datos
+
+https://www.kaggle.com/datasets/olgabelitskaya/object-detection/data
