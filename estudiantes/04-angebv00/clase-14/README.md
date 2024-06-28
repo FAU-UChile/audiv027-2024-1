@@ -3,7 +3,7 @@ Entrega: movimiento de letras con filtro RAFT
 integrantes: Josefa Rubio: <https://github.com/josefa52>  y Angela beltrán
 
 fecha: 28/06
-#materiales/2024
+# materiales/2024
 este trabajo lo hice con los siguientes materiales:
 - Web cam
 - Visual Studio Code
