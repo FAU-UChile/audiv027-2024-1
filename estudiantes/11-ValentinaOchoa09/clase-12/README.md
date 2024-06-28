@@ -862,6 +862,10 @@ _Ochoa,V. (2024). Modificar código [Screenshot]. Habitación del hogar, Santiag
 
 _Ochoa,V. (2024). Colores agregados [Screenshot]. Habitación del hogar, Santiago de Chile._
 
+6. Se reducieron la cantidad de colores y se colocaron en la parte derecha todos, ya que presentó inconvenientes en detectar los colores cuando estaban en la parte derecha del lienzo.
+
+
+
 **Conclusiones**
 
 Es importante poder manejar de buena manera las herramientas para poder comprender y facilitar un poco más la realización de los códigos, sin embargo, la implementación de la IA a nivel de dispósitivos reactivos, acerca los trabajos más al público, como eran los dos proyectos que llevamos a cabo.
