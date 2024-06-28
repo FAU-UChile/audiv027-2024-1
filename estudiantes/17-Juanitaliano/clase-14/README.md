@@ -27,8 +27,14 @@ Link de los modelos de Tensor Flow https://github.com/tensorflow/models/blob/mas
 En caso de haber tenido los modelos la idea era configurar el modelo y entrenarlo para luego ajustar y utilizar.
 
 Videos de referencias:
+
 https://youtu.be/SJRP0IRfPj0?si=gBg4keEXNkmiVPMt  
+
 https://youtu.be/EKe05rMG-Ww?si=Emebh-yhkEZvCQTU
+
+
+
+
 
 
 
