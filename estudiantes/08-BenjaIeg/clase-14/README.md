@@ -57,6 +57,9 @@ BUSQUEDA DE NUEVAS LIBRERIAS.
 
 ### Desarrollando un detector de imágenes para identificar manuscritos usando LabelImg y TensorFlow.
 
+
+Desarrollando un detector de imágenes para identificar manuscritos usando LabelImg y TensorFlow.
+
 1. Preparación del entorno:
 Comenzamos instalando LabelImg en el sistema para etiquetar las imágenes de manuscritos.
 Esta herramienta resultó bastante intuitiva: simplemente cargas una imagen, dibujas un cuadro alrededor de cada instancia de manuscrito y asignas una etiqueta.
@@ -68,7 +71,7 @@ Link donde baje LabelImg: https://drive.google.com/file/d/1nFFaT6wXRgKH8bpaw4PhA
 Recolectar imágenes adecuadas fue un desafío inicial, para ello utilizamos nuestro propios manuscritos los cuales recopilamos en carpetas compartidas en un Drive, designado letra por letra .
 Después de etiquetarlas con LabelImg, convertí los archivos XML a formato compatible con TensorFlow para el siguiente paso.
 
-
+![letras](https://github.com/Juanitaliano/audiv027-2024-1/assets/163590978/5d172925-51a5-42ad-81dd-e585999e7d55)
 ![Trabjo ia 2](https://github.com/Juanitaliano/audiv027-2024-1/assets/163590978/010c86fe-a1f4-479c-b304-988701ee1bd6)
 ![Trabajo ia](https://github.com/Juanitaliano/audiv027-2024-1/assets/163590978/470f7980-f045-4dd8-8436-e8dc5e878658)
 
@@ -79,7 +82,13 @@ Sin embargo, tuvimos problemas a la hora de descargar el modelo debido a posible
 
 Link de los modelos de Tensor Flow https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md
 
+En caso de haber tenido los modelos la idea era configurar el modelo y entrenarlo para luego ajustar y utilizar.
 
+Videos de referencias:
+
+https://youtu.be/SJRP0IRfPj0?si=gBg4keEXNkmiVPMt  
+
+https://youtu.be/EKe05rMG-Ww?si=Emebh-yhkEZvCQTU
 ### DETECCION DE TEXTOS
 
 Este codigo se refiere al texto como un objeto y no con la CLASIFICACIÓN de este.
