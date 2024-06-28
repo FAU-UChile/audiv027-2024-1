@@ -868,9 +868,17 @@ _Ochoa,V. (2024). Colores agregados [Screenshot]. Habitación del hogar, Santiag
 
 _Ochoa,V. (2024). Colores agregados [Screenshot]. Living del hogar, Santiago de Chile._
 
+**Video probando el código**
+
+https://youtu.be/SQuAi61ERm4
+
 **Conclusiones**
 
-Es importante poder manejar de buena manera las herramientas para poder comprender y facilitar un poco más la realización de los códigos, sin embargo, la implementación de la IA a nivel de dispósitivos reactivos, acerca los trabajos más al público, como eran los dos proyectos que llevamos a cabo.
+Es importante considerar los códigos y su facilidad para ser reproducidos o trabajados, puesto que, al intentar elaborar cambios o finalizar el Snake Game, se encontró dificultades para solucionar su muerte ante la postura de ingerir comida, mientras que, el proceso de aprendizaje para pintar con la mano, dispuso de niveles de investigación para saber como llevar a cabo líneas de programación en programas que fueran reconocidos (para no aventurarse en aplicaciones más complejas que necesitaran de más tiempo), a su vez, poder indagar de lleno y más en su interior con los colores, borradores y estilos fue la segunda fase de aprender como realizar un trabajo más óptimo.
+
+Otra conclusión es respecto a los soportes y salidas que se utilizan, es importante tener buenos sitios y herramientas para abarcar una programación, en el caso de la presente investigación fue todo en torno a pc, notebook y cámara accesible.
+
+Y por último, pero no menos importante, una conclusión desde el ámbito humano, es tener buenos apoyos y compañeros de trabajos, para confiar desde el tiempo hasta el proceso del trabajo. Es relevante destacar las cualidades de cada uno para potenciar y las distintas aristas que conlleva realizar y modificar proyectos, al igual que la rapidez para re-adaptar una idea en búsqueda de soluciones. Esto nos permite desarrollar el ámbito de la toma de decisiones. 
 
 **Referencias:**
 
