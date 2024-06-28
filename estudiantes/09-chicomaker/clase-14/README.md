@@ -101,3 +101,23 @@ Ajustes de impresión :
 
 
 ![image](https://github.com/chicomaker/audiv027-2024-1/assets/67646441/2e93565d-798c-4028-80d6-c3365d5a5e90)
+
+
+
+La impresion de todos los archivos tomo un total de 10 horas
+
+
+
+![Imagen de WhatsApp 2024-06-28 a las 14 27 39_7c48a65a](https://github.com/chicomaker/audiv027-2024-1/assets/67646441/b616bcab-23dc-4c2b-a7ff-bb72370ae0b2)
+
+
+![Imagen de WhatsApp 2024-06-28 a las 14 27 39_0cc61ecd](https://github.com/chicomaker/audiv027-2024-1/assets/67646441/e816938e-a3a2-40d5-839b-6ff4e51ccb1c)
+
+
+
+
+Los resultados son bastante curiosos, mientras que con algunas emociones como la nostalgia, el enojo y la tristeza fueron reasultados bastante logicos y deducibles, con otros como la felicidad y sensualidad son visualmente mucho más abstractos, 
+
+las representaciones de una persona que siente emociones y una inteligencia artificial que siente emociones son muy similares.
+
+Como conlclusion cuestiono la importancia social que le damos a la tecnologia, ya pasamos ese punto en donde podemos decirle a una inteligencia artificial que interprete emociones, si bien a la hora de pedirle explicitamente que represente amor me dijo que no era posible, esto debe ser limitado por los humanos que la desarrollaron,es solo cosa de tiempo para que se borren esas limitantes.
