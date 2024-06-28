@@ -1,0 +1,1 @@
+mi equipo de trabajo es <https://github.com/GrimmUChile> y <https://github.com/Marijou>, entregamos en el repositorio en este enlace <https://github.com/Marijou/audiv027-2024-1/blob/main/estudiantes/14-Marijou/clase-14/README.md>.
