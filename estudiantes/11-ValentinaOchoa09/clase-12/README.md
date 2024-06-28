@@ -601,9 +601,9 @@ _Ml5.js (s.f). Hand pose [Screenshot]. https://learn.ml5js.org/#/reference/handp
 
 2.Posterior a esto, para dibujar, debe estirar el dedo índice y moverlo por el lienzo.
 
-3.Para seleccionar colores, debe mover el dedo al círculo de color y simular como si el dedo estuviera haciendo click. 
+3.Para seleccionar colores, debe mover el dedo al círculo de color y simular como si el dedo estuviera haciendo click (o mantener el dedo estirado). 
 
-4.Si quiere borrar lo dibujado, debe presionar sobre el círculo negro. 
+4.Si quiere borrar lo dibujado, debe presionar la tecla espacio del teclado y el lienzo se reiniciará.
 
 **Proceso del proyecto**
 
@@ -864,7 +864,9 @@ _Ochoa,V. (2024). Colores agregados [Screenshot]. Habitación del hogar, Santiag
 
 6. Se reducieron la cantidad de colores y se colocaron en la parte derecha todos, ya que presentó inconvenientes en detectar los colores cuando estaban en la parte derecha del lienzo.
 
+![image](https://github.com/ValentinaOchoa09/audiv027-2024-1/assets/127344361/bd6e795d-9cc9-4144-bd23-8381061f3e0a)
 
+_Ochoa,V. (2024). Colores agregados [Screenshot]. Living del hogar, Santiago de Chile._
 
 **Conclusiones**
 
